@@ -1,9 +1,10 @@
 async function caricaPromoHome() {
 
-alert("HOME PROMO AGGIORNATA");
-
 
 const contenitore = document.getElementById("lista-promo-home");
+
+
+if (!contenitore) return;
 
 
 
@@ -14,6 +15,12 @@ const risposta = await fetch("dati/promo.json?v=2");
 
 
 const promo = await risposta.json();
+
+
+
+/* svuota eventuali contenuti precedenti */
+
+contenitore.innerHTML = "";
 
 
 
@@ -38,13 +45,23 @@ contenitore.innerHTML += `
 </video>
 
 
-<h3>${elemento.titolo}</h3>
+
+<h3>
+${elemento.titolo}
+</h3>
 
 
-<small class="data-promo">${elemento.data || ""}</small>
+
+<small class="data-promo">
+${elemento.data || ""}
+</small>
 
 
-<p>${elemento.descrizione}</p>
+
+<p>
+${elemento.descrizione}
+</p>
+
 
 
 </div>
