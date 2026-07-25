@@ -1,17 +1,17 @@
 {
     "2026-07-25": [
         {
-            "titolo": "TG Extra",
-            "orario": "18:00 - 18:30",
-            "descrizione": "Tutte le principali notizie della giornata.",
-            "immagine": "immagini/programmi-guida/tg-extra.jpg"
+            "titolo": "I cinque del quinto piano",
+            "orario": "06:00 - 10:15",
+            "descrizione": "Periferia milanese, metà anni Ottanta. Fuori la 'Milano da bere', dentro al quinto piano i Sandri trasformano la quotidianità in commedia: tasse universitarie, scioperi a scuola, sogni calcistici, colf imprevedibili e vicini invadenti. Equivoci, ironia e soluzioni creative a ogni puntata.",
+            "immagine": "immagini/programmi-guida/icinquedelquintopiano.jpg"
         },
 
         {
-            "titolo": "Quiz del Sabato",
-            "orario": "18:30 - 20:00",
-            "descrizione": "Il quiz più divertente di Telegram Extra.",
-            "immagine": "immagini/programmi-guida/quiz.jpg"
+            "titolo": "Festivalbar 1983 - La partenza",
+            "orario": "10:15 - 12:15",
+            "descrizione": "Riviviamo le note e i personaggi degli anni 80 proposti nel popolare programma musicale del periodo.",
+            "immagine": "immagini/programmi-guida/festivalbar1983lapartenza.jpeg"
         },
 
         {
