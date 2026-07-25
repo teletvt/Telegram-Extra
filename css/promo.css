@@ -1,0 +1,145 @@
+body {
+
+    background:#050f21;
+
+    color:white;
+
+    font-family:Arial, sans-serif;
+
+}
+
+
+
+/* SEZIONE PROMO */
+
+.promo {
+
+    padding:40px;
+
+}
+
+
+
+/* TITOLO */
+
+.promo h1 {
+
+    font-size:40px;
+
+    margin-bottom:30px;
+
+}
+
+
+
+/* VIDEO PRINCIPALE */
+
+.promo-principale {
+
+    background:#0b2447;
+
+    border-radius:20px;
+
+    padding:30px;
+
+    text-align:center;
+
+    margin-bottom:50px;
+
+}
+
+
+
+.promo-principale video {
+
+    width:90%;
+
+    max-height:500px;
+
+    border-radius:15px;
+
+}
+
+
+
+.promo-principale h2 {
+
+    font-size:30px;
+
+    margin-top:20px;
+
+}
+
+
+
+
+
+/* LISTA VIDEO */
+
+.lista-promo {
+
+    display:flex;
+
+    gap:25px;
+
+    overflow-x:auto;
+
+    padding-bottom:20px;
+
+}
+
+
+
+
+
+/* SCHEDA */
+
+.scheda-promo {
+
+    min-width:300px;
+
+    background:#123866;
+
+    border-radius:18px;
+
+    padding:15px;
+
+    transition:0.3s;
+
+}
+
+
+
+.scheda-promo:hover {
+
+    transform:scale(1.05);
+
+}
+
+
+
+.scheda-promo video {
+
+    width:100%;
+
+    border-radius:12px;
+
+}
+
+
+
+.scheda-promo h3 {
+
+    margin-top:15px;
+
+    font-size:20px;
+
+}
+
+
+
+.scheda-promo p {
+
+    color:#d0d0d0;
+
+}

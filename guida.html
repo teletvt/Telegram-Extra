@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Guida TV - Telegram Extra</title>
+
+<link rel="stylesheet" href="css/stile.css">
+<link rel="stylesheet" href="css/guida.css">
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<img src="immagini/logo.png" class="logo">
+
+
+<nav id="menu">
+
+<a href="index.html">Home</a>
+
+</nav>
+
+
+<div class="menu-mobile" onclick="apriMenu()">
+
+☰
+
+</div>
+
+</header>
+
+
+
+
+<section class="guida">
+
+
+<h1>📺 Guida TV</h1>
+
+
+
+<div class="giorni">
+
+    <div id="giorni-container"></div>
+
+</div>
+
+
+
+
+<h2 id="giorno-selezionato"></h2>
+
+
+
+
+
+<div class="timeline">
+
+
+    <!-- ORARI GENERATI DAL JS -->
+
+    <div class="orari" id="orari">
+
+    </div>
+
+
+
+
+
+    <!-- PROGRAMMI GENERATI DAL JS -->
+
+    <div class="programmi" id="lista-programmi">
+
+    </div>
+
+
+
+</div>
+
+
+
+
+
+
+
+<!-- POPUP PROGRAMMA -->
+
+
+<div class="popup" id="popup">
+
+
+<div class="popup-content">
+
+
+<span class="chiudi" onclick="chiudiProgramma()">×</span>
+
+
+<img id="popup-img">
+
+
+<h2 id="popup-titolo"></h2>
+
+
+<p id="popup-orario"></p>
+
+
+<p id="popup-descrizione"></p>
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+<script src="js/guida.js"></script>
+
+
+</body>
+
+</html>

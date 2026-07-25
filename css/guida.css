@@ -1,0 +1,424 @@
+.guida {
+
+    padding:50px;
+
+}
+
+
+.guida h1 {
+
+    font-size:40px;
+
+}
+
+
+
+/* ==========================
+   GIORNI
+========================== */
+
+
+.giorni {
+
+    margin:30px 0;
+
+}
+
+
+
+#giorni-container {
+
+    display:flex;
+
+    flex-wrap:nowrap;
+
+    gap:10px;
+
+    overflow-x:auto;
+
+    overflow-y:hidden;
+
+    white-space:nowrap;
+
+    padding-bottom:10px;
+
+}
+
+
+
+#giorni-container button {
+
+    flex:0 0 auto;
+
+    min-width:70px;
+
+    padding:12px;
+
+    border:none;
+
+    border-radius:12px;
+
+    background:#123866;
+
+    color:white;
+
+    cursor:pointer;
+
+}
+
+
+
+#giorni-container button:hover {
+
+    background:#0066aa;
+
+}
+
+
+
+#giorni-container .giorno-attivo {
+
+    background:#0088cc;
+
+}
+
+
+
+/* ==========================
+   TIMELINE
+========================== */
+
+
+.timeline {
+
+    overflow-x:auto;
+
+    overflow-y:hidden;
+
+    width:100%;
+
+}
+
+
+.timeline {
+    cursor: grab;
+}
+
+.timeline:active {
+    cursor: grabbing;
+}
+
+
+
+/* ==========================
+   ORARI
+========================== */
+
+
+.orari {
+
+    display:flex;
+
+    width:max-content;
+
+    color:#aaa;
+
+    margin-bottom:15px;
+
+}
+
+
+
+.orari span {
+
+    width:180px;
+
+    font-size:14px;
+
+}
+
+
+
+/* ==========================
+   PROGRAMMI
+========================== */
+
+
+.programmi {
+
+    position:relative;
+
+    width:4320px; /* 24 ore × 180px */
+
+    height:130px;
+
+}
+
+
+.programma {
+
+    position:absolute;
+
+    top:0;
+
+    background:#123866;
+
+    padding:20px;
+
+    border-radius:12px;
+
+    height:90px;
+
+    display:flex;
+
+    flex-direction:column;
+
+    justify-content:center;
+
+    box-sizing:border-box;
+
+}
+
+
+
+.programma span {
+
+    font-size:13px;
+
+    color:#b9c7d8;
+
+    margin-top:8px;
+
+}
+
+
+
+/* ==========================
+   IN ONDA
+========================== */
+
+
+.in-onda {
+
+    background:#0077cc !important;
+
+    box-shadow:0 0 20px rgba(0,120,255,0.5);
+
+}
+
+
+
+.in-onda small {
+
+    display:block;
+
+    margin-top:10px;
+
+    font-weight:bold;
+
+}
+
+
+
+/* ==========================
+   POPUP
+========================== */
+
+
+.popup {
+
+    display:none;
+
+    position:fixed;
+
+    top:0;
+
+    left:0;
+
+    width:100%;
+
+    height:100%;
+
+    background:rgba(0,0,0,0.75);
+
+    justify-content:center;
+
+    align-items:center;
+
+    z-index:1000;
+
+}
+
+
+
+.popup-content {
+
+    position:relative;
+
+    background:#071426;
+
+    width:420px;
+
+    padding:30px;
+
+    border-radius:20px;
+
+    text-align:center;
+
+    box-shadow:0 10px 40px rgba(0,0,0,0.5);
+
+}
+
+
+
+.popup-content img {
+
+    width:200px;
+
+    height:280px;
+
+    object-fit:cover;
+
+    border-radius:12px;
+
+}
+
+
+
+.popup-content h2 {
+
+    margin-top:20px;
+
+    font-size:28px;
+
+}
+
+
+
+.popup-content p {
+
+    color:#cbd5e1;
+
+}
+
+
+
+.chiudi {
+
+    position:absolute;
+
+    top:10px;
+
+    right:20px;
+
+    font-size:35px;
+
+    cursor:pointer;
+
+}
+
+
+
+/* nasconde vecchia navigazione */
+
+.navigazione-giorni {
+
+    display:none;
+
+}
+
+
+@media(max-width:768px){
+
+
+.guida{
+
+    padding:20px;
+
+}
+
+
+.guida h1{
+
+    font-size:30px;
+
+}
+
+
+
+#giorni-container button{
+
+    min-width:65px;
+
+    padding:10px;
+
+}
+
+
+
+.timeline{
+
+    width:100%;
+
+}
+
+
+
+.orari span{
+
+    width:120px;
+
+    font-size:12px;
+
+}
+
+
+
+.programmi{
+
+    width:2880px; /* 24 ore × 120px */
+
+}
+
+
+
+.programma{
+
+    height:80px;
+
+    padding:12px;
+
+    font-size:14px;
+
+}
+
+
+
+.programma span{
+
+    font-size:11px;
+
+}
+
+
+
+.popup-content{
+
+    width:90%;
+
+    padding:20px;
+
+}
+
+
+
+.popup-content img{
+
+    width:150px;
+
+    height:210px;
+
+}
+
+
+}

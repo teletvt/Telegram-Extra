@@ -1,0 +1,24 @@
+[
+    {
+        "titolo": "Super Sarabanda",
+        "descrizione": "Questa sera alle 21:20 su Telegram Extra.",
+        "video": "video-promo/super-sarabanda.mp4",
+        "principale": true
+    },
+
+
+    {
+        "titolo": "Domenica in famiglia",
+        "descrizione": "Domenica alle 21:20 su Telegram Extra.",
+        "video": "video-promo/domenica.mp4",
+        "principale": false
+    },
+
+
+    {
+        "titolo": "Speciale Telegram Extra",
+        "descrizione": "Prossimamente.",
+        "video": "video-promo/speciale.mp4",
+        "principale": false
+    }
+]

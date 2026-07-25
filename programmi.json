@@ -1,0 +1,48 @@
+{
+  "2026-07-25": [
+    {
+      "titolo": "TG Extra",
+      "inizio": "18:00",
+      "fine": "18:30",
+      "descrizione": "Tutte le principali notizie della giornata.",
+      "immagine": "immagini/programmi-guida/tg-extra.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Quiz del Sabato",
+      "inizio": "18:30",
+      "fine": "20:00",
+      "descrizione": "Il quiz più divertente di Telegram Extra.",
+      "immagine": "immagini/programmi-guida/quiz.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Super Sarabanda",
+      "inizio": "21:20",
+      "fine": "23:30",
+      "descrizione": "Il grande appuntamento musicale di Telegram Extra.",
+      "immagine": "immagini/programmi-guida/super-sarabanda.jpg",
+      "inOnda": true
+    },
+    {
+      "titolo": "Film",
+      "inizio": "23:30",
+      "fine": "01:00",
+      "descrizione": "Una grande prima visione.",
+      "immagine": "immagini/programmi-guida/film.jpg",
+      "inOnda": false
+    }
+  ],
+
+
+  "2026-07-26": [
+    {
+      "titolo": "Domenica in famiglia",
+      "inizio": "21:20",
+      "fine": "23:00",
+      "descrizione": "La grande serata della domenica.",
+      "immagine": "immagini/programmi-guida/domenica.jpg",
+      "inOnda": false
+    }
+  ]
+}

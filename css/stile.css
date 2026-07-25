@@ -1,0 +1,848 @@
+:root {
+    --blu-sfondo: #071426;
+    --blu-card: #0B2447;
+    --azzurro: #00A8FF;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+
+    margin:0;
+
+    background:#050f21;
+
+    color:white;
+
+    font-family:Arial, sans-serif;
+
+}
+
+
+/* HEADER */
+
+header {
+
+    width:100%;
+
+    height:80px;
+
+    background:#061a35;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:space-between;
+
+    padding:0 40px;
+
+    box-sizing:border-box;
+
+    position:sticky;
+
+    top:0;
+
+    z-index:1000;
+
+}
+
+
+
+/* LOGO */
+
+.logo {
+
+    height:60px;
+
+    width:auto;
+
+}
+
+
+
+/* MENU */
+
+nav a {
+
+    color:white;
+
+    text-decoration:none;
+
+    font-size:18px;
+
+    font-weight:bold;
+
+    padding:10px 20px;
+
+    border-radius:20px;
+
+    transition:0.3s;
+
+}
+
+
+
+nav a:hover {
+
+    background:#0066cc;
+
+}
+
+
+/* HERO */
+
+.hero {
+
+    height: 700px;
+
+    background:
+    linear-gradient(
+        90deg,
+        #071426 20%,
+        transparent
+    ),
+    url("../immagini/prima-serata.jpg");
+
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    align-items: center;
+
+    padding-left: 100px;
+}
+
+
+.hero h2 {
+    color: var(--azzurro);
+    font-size: 22px;
+}
+
+
+.hero h1 {
+    font-size: 55px;
+    margin: 10px 0;
+}
+
+
+.hero p {
+    font-size: 22px;
+}
+
+
+button {
+
+    background: var(--azzurro);
+    color: white;
+
+    border: none;
+    border-radius: 30px;
+
+    padding: 15px 30px;
+
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+
+/* SEZIONI */
+
+.sezione {
+
+    padding: 40px 60px;
+
+}
+
+
+.card-container {
+
+    display: flex;
+    gap: 25px;
+
+}
+
+
+.card {
+
+    background: var(--blu-card);
+
+    padding: 20px;
+
+    border-radius: 15px;
+
+    width: 280px;
+
+}
+
+
+
+/* HOME - BANNER PRINCIPALE */
+
+
+.hero {
+
+    position:relative;
+
+    width:100%;
+
+    height:420px;
+
+    overflow:hidden;
+
+    margin:0;
+
+}
+
+
+
+.hero img {
+
+    width:100%;
+
+    height:100%;
+
+    object-fit:cover;
+
+}
+
+
+
+.hero::after {
+
+    content:"";
+
+    position:absolute;
+
+    inset:0;
+
+    background:linear-gradient(
+        90deg,
+        rgba(0,0,0,0.75),
+        rgba(0,0,0,0.15)
+    );
+
+}
+
+
+
+.hero-testo {
+
+    position:absolute;
+
+    left:50px;
+
+    bottom:40px;
+
+    z-index:2;
+
+    color:white;
+
+    max-width:450px;
+
+}
+
+
+
+.hero-testo {
+
+    position:absolute;
+
+    left:50px;
+
+    bottom:40px;
+
+    z-index:2;
+
+    color:white;
+
+    max-width:600px;
+
+}
+
+
+.hero-testo h1 {
+
+    font-size:45px;
+
+}
+
+
+.hero-testo p {
+
+    font-size:20px;
+
+}
+
+
+.hero-testo h3 {
+
+    font-size:24px;
+
+}
+
+
+
+.hero-testo a {
+
+    display: inline-block;
+
+    margin-top:20px;
+
+    padding:12px 30px;
+
+    background:#0066cc;
+
+    color:white;
+
+    text-decoration:none;
+
+    border-radius:25px;
+
+}
+
+
+
+
+
+/* PULSANTI HOME */
+
+
+.collegamenti {
+
+    display:flex;
+
+    justify-content:center;
+
+    margin:25px 0;
+
+}
+
+
+.box-collegamento a {
+
+    display:inline-block;
+
+    background:#0066cc;
+
+    color:white;
+
+    padding:14px 70px;
+
+    border-radius:30px;
+
+    font-size:22px;
+
+    font-weight:bold;
+
+    text-decoration:none;
+
+}
+
+
+
+.promo-home {
+
+    padding:40px;
+
+}
+
+
+.promo-home h2 {
+
+    font-size:35px;
+
+}
+
+
+
+#lista-promo-home {
+
+    display:flex;
+
+    gap:25px;
+
+    overflow-x:auto;
+
+}
+
+
+
+#lista-promo-home .scheda-promo {
+
+    min-width:300px;
+
+}
+
+
+
+.tutti-promo {
+
+    text-align:center;
+
+    margin-top:30px;
+
+}
+
+
+
+.tutti-promo a {
+
+    display:inline-block;
+
+    background:#0066cc;
+
+    color:white;
+
+    padding:15px 35px;
+
+    border-radius:25px;
+
+    text-decoration:none;
+
+    font-size:18px;
+
+    font-weight:bold;
+
+    transition:0.3s;
+
+}
+
+
+
+.tutti-promo a:hover {
+
+    background:#008cff;
+
+}
+
+
+
+.box-collegamento a {
+
+    display:inline-block;
+
+    background:#0066cc;
+
+    color:white;
+
+    padding:16px 80px;
+
+    border-radius:35px;
+
+    font-size:24px;
+
+    font-weight:bold;
+
+    text-decoration:none;
+
+    box-shadow:0 8px 25px rgba(0,0,0,0.4);
+
+}
+
+
+
+/* PROMO HOME */
+
+.promo-home {
+
+    width:95%;
+
+    margin:40px auto;
+
+}
+
+
+
+.promo-home h2 {
+
+    font-size:32px;
+
+    margin-bottom:25px;
+
+}
+
+
+
+#lista-promo-home {
+
+    display:flex;
+
+    gap:25px;
+
+    overflow-x:auto;
+
+    padding-bottom:20px;
+
+}
+
+
+
+#lista-promo-home::-webkit-scrollbar {
+
+    height:8px;
+
+}
+
+
+
+.scheda-promo {
+
+    min-width:300px;
+
+    background:#0b2447;
+
+    border-radius:18px;
+
+    padding:15px;
+
+    box-shadow:0 8px 25px rgba(0,0,0,0.4);
+
+    transition:0.3s;
+
+}
+
+
+
+.scheda-promo:hover {
+
+    transform:translateY(-5px);
+
+}
+
+
+
+.scheda-promo video {
+
+    width:100%;
+
+    border-radius:12px;
+
+}
+
+
+
+.scheda-promo h3 {
+
+    font-size:20px;
+
+    margin-top:15px;
+
+}
+
+
+
+.scheda-promo p {
+
+    color:#ccc;
+
+}
+
+
+
+.tutti-promo {
+
+    text-align:center;
+
+    margin-top:30px;
+
+}
+
+
+
+.tutti-promo a {
+
+    background:#0066cc;
+
+    color:white;
+
+    padding:14px 50px;
+
+    border-radius:30px;
+
+    text-decoration:none;
+
+    font-size:20px;
+
+    font-weight:bold;
+
+}
+
+
+
+/* VERSIONE TELEFONO */
+
+@media (max-width:700px) {
+
+
+.hero {
+
+    height:260px;
+
+}
+
+
+
+.hero-testo {
+
+    left:20px;
+
+    bottom:25px;
+
+    max-width:300px;
+
+}
+
+
+
+.hero-testo h1 {
+
+    font-size:28px;
+
+}
+
+
+
+.hero-testo p {
+
+    font-size:15px;
+
+}
+
+
+
+.hero-testo h3 {
+
+    font-size:18px;
+
+}
+
+
+
+
+
+.collegamenti {
+
+    margin:20px 0;
+
+}
+
+
+
+.box-collegamento a {
+
+    padding:14px 50px;
+
+    font-size:20px;
+
+}
+
+
+
+
+.promo-home {
+
+    width:90%;
+
+}
+
+
+
+.promo-home h2 {
+
+    font-size:28px;
+
+}
+
+
+
+.scheda-promo {
+
+    min-width:260px;
+
+}
+
+
+
+}
+
+
+
+/* MENU MOBILE */
+
+
+.menu-mobile {
+
+    display:none;
+
+    color:white;
+
+    font-size:30px;
+
+    cursor:pointer;
+
+}
+
+
+
+
+
+@media (max-width:700px) {
+
+
+nav {
+
+    display:none;
+
+}
+
+
+
+.menu-mobile {
+
+    display:block;
+
+}
+
+
+
+nav.aperto {
+
+    display:flex;
+
+    position:absolute;
+
+    top:80px;
+
+    right:20px;
+
+    background:#061a35;
+
+    padding:20px;
+
+    border-radius:15px;
+
+    flex-direction:column;
+
+}
+
+
+
+nav.aperto a {
+
+    padding:15px;
+
+}
+
+
+}
+
+
+
+/* GUIDA TV */
+
+
+.guida {
+
+    width:95%;
+
+    max-width:1200px;
+
+    margin:40px auto;
+
+}
+
+
+
+.guida h1 {
+
+    font-size:40px;
+
+}
+
+
+
+.giorni {
+
+    display:flex;
+
+    gap:10px;
+
+    overflow-x:auto;
+
+    padding:20px 0;
+
+}
+
+
+
+.giorni button {
+
+    background:#0b2447;
+
+    color:white;
+
+    border:none;
+
+    padding:12px 20px;
+
+    border-radius:15px;
+
+    cursor:pointer;
+
+    min-width:80px;
+
+}
+
+
+
+.giorni button.giorno-attivo {
+
+    background:#0066cc;
+
+}
+
+
+
+
+
+.programma {
+
+    background:#0b2447;
+
+    padding:20px;
+
+    margin:15px 0;
+
+    border-radius:15px;
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+}
+
+
+
+.programma.in-onda {
+
+    border:3px solid #00aaff;
+
+    background:#123866;
+
+}
+
+
+
+.programma small {
+
+    color:#00aaff;
+
+    font-weight:bold;
+
+}
