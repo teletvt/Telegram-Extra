@@ -1432,25 +1432,25 @@
     {
       "titolo": "Romanzo siciliano",
       "inizio": "07:40",
-      "fine": "08:15",
+      "fine": "09:15",
       "descrizione": "Le vicende del colonnello Sergio Spada, a capo del comando dei Carabinieri di Siracusa, che combatte quotidianamente contro mafia e malavita per fare trionfare la giustizia in una terra splendida ma desolata.",
       "immagine": "immagini/programmi-guida/romanzosiciliano.jpg",
       "inOnda": false
     },
     {
       "titolo": "Il tempo del coraggio e dell'amore",
-      "inizio": "08:15",
-      "fine": "09:55",
+      "inizio": "09:15",
+      "fine": "10:55",
       "descrizione": "La vita di una giovane sarta, le sue passioni e le sue difficoltà si intrecciano con le vicende storiche della Spagna alla vigilia del colpo di stato del 1936.",
       "immagine": "immagini/programmi-guida/iltempodelcoraggioedellamore.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Il tempo del coraggio e dell'amore",
-      "inizio": "09:55",
+      "titolo": "Il circo di Sbirulino",
+      "inizio": "10:55",
       "fine": "11:35",
-      "descrizione": "La vita di una giovane sarta, le sue passioni e le sue difficoltà si intrecciano con le vicende storiche della Spagna alla vigilia del colpo di stato del 1936.",
-      "immagine": "immagini/programmi-guida/iltempodelcoraggioedellamore.jpg",
+      "descrizione": "",
+      "immagine": "immagini/programmi-guida/ilcircodisbirulino.jpg",
       "inOnda": false
     },
     {
@@ -3069,25 +3069,25 @@
     {
       "titolo": "Romanzo siciliano",
       "inizio": "07:40",
-      "fine": "08:15",
+      "fine": "09:15",
       "descrizione": "Le vicende del colonnello Sergio Spada, a capo del comando dei Carabinieri di Siracusa, che combatte quotidianamente contro mafia e malavita per fare trionfare la giustizia in una terra splendida ma desolata.",
       "immagine": "immagini/programmi-guida/romanzosiciliano.jpg",
       "inOnda": false
     },
     {
       "titolo": "Il tempo del coraggio e dell'amore",
-      "inizio": "08:15",
-      "fine": "09:55",
+      "inizio": "09:15",
+      "fine": "10:55",
       "descrizione": "La vita di una giovane sarta, le sue passioni e le sue difficoltà si intrecciano con le vicende storiche della Spagna alla vigilia del colpo di stato del 1936.",
       "immagine": "immagini/programmi-guida/iltempodelcoraggioedellamore.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Il tempo del coraggio e dell'amore",
-      "inizio": "09:55",
+      "titolo": "Music Line",
+      "inizio": "10:55",
       "fine": "11:35",
-      "descrizione": "La vita di una giovane sarta, le sue passioni e le sue difficoltà si intrecciano con le vicende storiche della Spagna alla vigilia del colpo di stato del 1936.",
-      "immagine": "immagini/programmi-guida/iltempodelcoraggioedellamore.jpg",
+      "descrizione": "Gino Paoli - Una storia",
+      "immagine": "immagini/programmi-guida/ginopaoli.jpg",
       "inOnda": false
     },
     {
