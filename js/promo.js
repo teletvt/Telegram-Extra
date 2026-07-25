@@ -1,14 +1,15 @@
 async function caricaPromo() {
 
-
     const contenitore = document.getElementById("lista-promo");
     const principale = document.getElementById("promo-principale");
 
 
+    if (!contenitore || !principale) return;
+
+
     try {
 
-
-        const risposta = await fetch("dati/promo.json");
+        const risposta = await fetch("dati/promo.json?v=" + Date.now());
 
         const promo = await risposta.json();
 
@@ -16,20 +17,24 @@ async function caricaPromo() {
         let promoAttuale = promo.find(p => p.principale === true);
 
 
+        /* ==========================
+           MOSTRA PROMO PRINCIPALE
+        ========================== */
 
         function mostraPromoPrincipale(elemento) {
 
-
             principale.innerHTML = `
 
-            <video controls autoplay>
+            <video controls autoplay muted>
 
                 <source src="${elemento.video}" type="video/mp4">
 
             </video>
 
 
-            <h2>${elemento.titolo}</h2>
+            <h2>
+                ${elemento.titolo}
+            </h2>
 
 
             <small class="data-promo">
@@ -43,33 +48,35 @@ async function caricaPromo() {
 
             `;
 
-
         }
 
 
+        /* ==========================
+           AGGIORNA LISTA
+        ========================== */
 
-
-        function aggiornaLista(){
-
+        function aggiornaLista() {
 
             contenitore.innerHTML = "";
-
 
 
             promo.forEach(elemento => {
 
 
-                // nasconde solo quello attualmente principale
+                /*
+                 * Mostra nella lista tutti i promo
+                 * TRANNE quello attualmente principale.
+                 */
 
-                if(elemento.video !== promoAttuale.video){
-
+                if (elemento.video !== promoAttuale.video) {
 
 
                     contenitore.innerHTML += `
 
-
-                    <div class="scheda-promo"
-                    onclick="apriPromo('${elemento.video}')">
+                    <div
+                        class="scheda-promo"
+                        onclick="apriPromo('${elemento.video}')"
+                    >
 
 
                         <div class="anteprima-promo">
@@ -96,33 +103,26 @@ async function caricaPromo() {
 
                     </div>
 
-
                     `;
-
 
                 }
 
-
             });
-
 
         }
 
 
+        /* ==========================
+           CLICK PROMO
+        ========================== */
 
-
-
-
-        window.apriPromo = function(video){
-
+        window.apriPromo = function(video) {
 
             const nuovoPromo =
-            promo.find(p => p.video === video);
+                promo.find(p => p.video === video);
 
 
-
-            if(nuovoPromo){
-
+            if (nuovoPromo) {
 
                 promoAttuale = nuovoPromo;
 
@@ -135,46 +135,40 @@ async function caricaPromo() {
 
                 window.scrollTo({
 
-                    top:0,
+                    top: 0,
 
-                    behavior:"smooth"
+                    behavior: "smooth"
 
                 });
 
-
             }
-
 
         };
 
 
+        /* ==========================
+           AVVIO
+        ========================== */
+
+        if (promoAttuale) {
+
+            mostraPromoPrincipale(promoAttuale);
+
+            aggiornaLista();
+
+        }
 
 
-
-
-        // AVVIO
-
-        mostraPromoPrincipale(promoAttuale);
-
-        aggiornaLista();
-
-
-
-
-    } catch(errore){
-
+    } catch (errore) {
 
         console.log(
             "Errore caricamento promo:",
             errore
         );
 
-
     }
 
-
 }
-
 
 
 caricaPromo();

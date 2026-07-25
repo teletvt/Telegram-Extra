@@ -14,7 +14,6 @@ function apriProgramma(titolo, orario, descrizione, immagine) {
 }
 
 
-
 // ==========================
 // CHIUSURA POPUP
 // ==========================
@@ -24,9 +23,6 @@ function chiudiProgramma() {
     document.getElementById("popup").style.display = "none";
 
 }
-
-
-
 
 
 // ==========================
@@ -43,52 +39,52 @@ let scrollInizio;
 if (timeline) {
 
 
-    timeline.addEventListener("mousedown", e=>{
+    timeline.addEventListener("mousedown", e => {
 
         premuto = true;
 
-        posizioneInizio = e.pageX - timeline.offsetLeft;
+        posizioneInizio =
+            e.pageX - timeline.offsetLeft;
 
-        scrollInizio = timeline.scrollLeft;
+        scrollInizio =
+            timeline.scrollLeft;
 
     });
 
 
-    timeline.addEventListener("mouseleave",()=>{
+    timeline.addEventListener("mouseleave", () => {
 
         premuto = false;
 
     });
 
 
-    timeline.addEventListener("mouseup",()=>{
+    timeline.addEventListener("mouseup", () => {
 
         premuto = false;
 
     });
 
 
-    timeline.addEventListener("mousemove",e=>{
+    timeline.addEventListener("mousemove", e => {
 
-        if(!premuto)return;
+        if (!premuto) return;
 
         e.preventDefault();
 
-        let posizione = e.pageX - timeline.offsetLeft;
+        let posizione =
+            e.pageX - timeline.offsetLeft;
 
-        let movimento = (posizione - posizioneInizio) * 2;
+        let movimento =
+            (posizione - posizioneInizio) * 2;
 
 
-        timeline.scrollLeft = scrollInizio - movimento;
-
+        timeline.scrollLeft =
+            scrollInizio - movimento;
 
     });
 
-
 }
-
-
-
 
 
 // ==========================
@@ -97,161 +93,145 @@ if (timeline) {
 
 let oggi = new Date();
 
-
 const giorniVisibili = 7;
-
-
-
 
 
 // ==========================
 // CREA GIORNI DINAMICI
 // ==========================
 
-function creaGiorni(){
+function creaGiorni() {
 
-
-    const contenitore = document.getElementById("giorni-container");
+    const contenitore =
+        document.getElementById("giorni-container");
 
 
     contenitore.innerHTML = "";
 
-
     oggi = new Date();
 
 
-
-    for(let i = -giorniVisibili; i <= giorniVisibili; i++){
+    for (
+        let i = -giorniVisibili;
+        i <= giorniVisibili;
+        i++
+    ) {
 
 
         let giorno = new Date(oggi);
 
-
-        giorno.setDate(oggi.getDate() + i);
-
+        giorno.setDate(
+            oggi.getDate() + i
+        );
 
 
         let nome;
 
 
-
-        if(i === 0){
+        if (i === 0) {
 
             nome = "OGGI";
 
-        }else{
+        } else {
 
-
-            nome = giorno.toLocaleDateString("it-IT",{
-
-                weekday:"short"
-
-            }).toUpperCase();
-
+            nome =
+                giorno.toLocaleDateString(
+                    "it-IT",
+                    {
+                        weekday: "short"
+                    }
+                ).toUpperCase();
 
         }
 
 
-
-
-        let bottone = document.createElement("button");
-
+        let bottone =
+            document.createElement("button");
 
 
         bottone.innerHTML =
-
-        nome +
-
-        "<br>" +
-
-        giorno.getDate();
+            nome +
+            "<br>" +
+            giorno.getDate();
 
 
+        bottone.onclick = function() {
 
-
-
-        bottone.onclick = function(){
-
-            selezionaGiorno(giorno,bottone);
+            selezionaGiorno(
+                giorno,
+                bottone
+            );
 
         };
 
 
+        if (i === 0) {
 
-
-
-        if(i === 0){
-
-            bottone.classList.add("giorno-attivo");
+            bottone.classList.add(
+                "giorno-attivo"
+            );
 
         }
 
 
-
-        contenitore.appendChild(bottone);
-
-
+        contenitore.appendChild(
+            bottone
+        );
 
     }
 
-
 }
-
-
-
-
 
 
 // ==========================
 // SELEZIONE GIORNO
 // ==========================
 
-function selezionaGiorno(giorno,bottone){
+function selezionaGiorno(
+    giorno,
+    bottone
+) {
 
 
-    document.querySelectorAll("#giorni-container button")
+    document
+        .querySelectorAll(
+            "#giorni-container button"
+        )
+        .forEach(b => {
 
-    .forEach(b=>{
+            b.classList.remove(
+                "giorno-attivo"
+            );
 
-        b.classList.remove("giorno-attivo");
-
-    });
+        });
 
 
-
-    bottone.classList.add("giorno-attivo");
-
+    bottone.classList.add(
+        "giorno-attivo"
+    );
 
 
     caricaProgrammi(giorno);
 
-
-
 }
-
-
-
-
 
 
 // ==========================
 // CONTROLLO PROGRAMMA IN ONDA
 // ==========================
 
-function programmaInOnda(inizio,fine){
+function programmaInOnda(
+    inizio,
+    fine
+) {
 
 
     let adesso = new Date();
 
 
-
     let minutiAttuali =
-
-    adesso.getHours()*60 +
-
-    adesso.getMinutes();
-
-
+        adesso.getHours() * 60 +
+        adesso.getMinutes();
 
 
     let a = inizio.split(":");
@@ -259,89 +239,70 @@ function programmaInOnda(inizio,fine){
     let b = fine.split(":");
 
 
-
     let minutiInizio =
-
-    parseInt(a[0])*60 +
-
-    parseInt(a[1]);
-
+        parseInt(a[0]) * 60 +
+        parseInt(a[1]);
 
 
     let minutiFine =
-
-    parseInt(b[0])*60 +
-
-    parseInt(b[1]);
+        parseInt(b[0]) * 60 +
+        parseInt(b[1]);
 
 
-
-
-    if(minutiFine < minutiInizio){
-
+    if (minutiFine < minutiInizio) {
 
         minutiFine += 1440;
 
 
-        if(minutiAttuali < minutiInizio){
+        if (minutiAttuali < minutiInizio) {
 
             minutiAttuali += 1440;
 
         }
 
-
     }
 
 
-
     return (
-
         minutiAttuali >= minutiInizio &&
-
         minutiAttuali < minutiFine
-
     );
 
-
 }
-
-
-
-
 
 
 // ==========================
 // CREA ORARI 24 ORE
 // ==========================
 
-function creaOrari(){
+function creaOrari() {
 
-
-    const contenitore = document.getElementById("orari");
+    const contenitore =
+        document.getElementById("orari");
 
 
     contenitore.innerHTML = "";
 
 
+    for (let ora = 0; ora < 24; ora++) {
 
-    for(let ora = 0; ora < 24; ora++){
 
-
-        let span = document.createElement("span");
-
+        let span =
+            document.createElement("span");
 
 
         span.innerHTML =
+            ora
+                .toString()
+                .padStart(2, "0") +
+            ":00";
 
-        ora.toString().padStart(2,"0") + ":00";
 
-
-
-        contenitore.appendChild(span);
-
+        contenitore.appendChild(
+            span
+        );
 
     }
-
 
 }
 
@@ -350,393 +311,306 @@ function creaOrari(){
 // CARICAMENTO PROGRAMMI JSON
 // ==========================
 
-function caricaProgrammi(giorno){
+function caricaProgrammi(giorno) {
+
+    const lista =
+        document.getElementById(
+            "lista-programmi"
+        );
 
 
-    const lista = document.getElementById("lista-programmi");
-
-    const titolo = document.getElementById("giorno-selezionato");
-
-
-
+    const titolo =
+        document.getElementById(
+            "giorno-selezionato"
+        );
 
 
     let data =
-
-    giorno.getFullYear()+"-"+
-
-    String(giorno.getMonth()+1).padStart(2,"0")+"-"+
-
-    String(giorno.getDate()).padStart(2,"0");
-
-
-
-
-
-
-    if(
-
-        giorno.getDate()===oggi.getDate() &&
-
-        giorno.getMonth()===oggi.getMonth() &&
-
-        giorno.getFullYear()===oggi.getFullYear()
-
-    ){
+        giorno.getFullYear() +
+        "-" +
+        String(
+            giorno.getMonth() + 1
+        ).padStart(2, "0") +
+        "-" +
+        String(
+            giorno.getDate()
+        ).padStart(2, "0");
 
 
-        titolo.innerHTML="Programmazione di oggi";
+    if (
 
+        giorno.getDate() === oggi.getDate() &&
 
-    }else{
+        giorno.getMonth() === oggi.getMonth() &&
 
+        giorno.getFullYear() === oggi.getFullYear()
+
+    ) {
 
         titolo.innerHTML =
+            "Programmazione di oggi";
 
-        "Programmazione di "+
+    } else {
 
-        giorno.toLocaleDateString("it-IT",{
-
-            weekday:"long",
-
-            day:"numeric",
-
-            month:"long"
-
-        });
-
+        titolo.innerHTML =
+            "Programmazione di " +
+            giorno.toLocaleDateString(
+                "it-IT",
+                {
+                    weekday: "long",
+                    day: "numeric",
+                    month: "long"
+                }
+            );
 
     }
 
 
+    fetch(
+        "programmi.json?v=" + Date.now()
+    )
+
+    .then(response => response.json())
+
+    .then(dati => {
 
 
-
-    fetch("programmi.json")
-
-
-    .then(response=>response.json())
-
-
-    .then(dati=>{
-
-
-
-        lista.innerHTML="";
-
+        lista.innerHTML = "";
 
         creaOrari();
 
 
+        let programmiGiorno =
+            dati[data] || [];
 
 
+        if (programmiGiorno.length === 0) {
 
-        let programmiGiorno = dati[data] || [];
-
-
-
-
-
-        if(programmiGiorno.length===0){
-
-
-            lista.innerHTML=
-
-            "<p>Nessun programma disponibile.</p>";
+            lista.innerHTML =
+                "<p>Nessun programma disponibile.</p>";
 
             return;
-
 
         }
 
 
+        programmiGiorno.forEach(
+            programma => {
 
 
-
-        programmiGiorno.forEach(programma=>{
-
-
-
-            let div=document.createElement("div");
+                let div =
+                    document.createElement(
+                        "div"
+                    );
 
 
+                // ==========================
+                // CONTROLLO IN ONDA
+                // ==========================
+
+                let inOnda = false;
 
 
+                if (
 
-            // ==========================
-            // CONTROLLO IN ONDA
-            // ==========================
+                    giorno.getDate() === oggi.getDate() &&
 
+                    giorno.getMonth() === oggi.getMonth() &&
 
-            let inOnda=false;
+                    giorno.getFullYear() === oggi.getFullYear()
 
-
-
-            if(
-
-                giorno.getDate()===oggi.getDate() &&
-
-                giorno.getMonth()===oggi.getMonth() &&
-
-                giorno.getFullYear()===oggi.getFullYear()
-
-            ){
+                ) {
 
 
-                inOnda = programmaInOnda(
+                    inOnda =
+                        programmaInOnda(
+                            programma.inizio,
+                            programma.fine
+                        );
 
-                    programma.inizio,
+                }
 
-                    programma.fine
 
-                );
+                div.className =
+                    inOnda
+                        ? "programma in-onda"
+                        : "programma";
 
+
+                div.innerHTML = `
+
+                    <strong>
+                        ${programma.titolo}
+                    </strong>
+
+                    <span>
+                        ${programma.inizio}
+                        -
+                        ${programma.fine}
+                    </span>
+
+                    ${
+                        inOnda
+                        ? "<small>🔴 IN ONDA</small>"
+                        : ""
+                    }
+
+                `;
+
+
+                // ==========================
+                // CALCOLO TIMELINE
+                // ==========================
+
+                let inizio =
+                    programma.inizio.split(":");
+
+
+                let fine =
+                    programma.fine.split(":");
+
+
+                let minutiInizio =
+                    parseInt(inizio[0]) * 60 +
+                    parseInt(inizio[1]);
+
+
+                let minutiFine =
+                    parseInt(fine[0]) * 60 +
+                    parseInt(fine[1]);
+
+
+                // gestione programmi dopo mezzanotte
+
+                if (
+                    minutiFine <= minutiInizio
+                ) {
+
+                    minutiFine = 1440;
+
+                }
+
+
+                let durata =
+                    minutiFine - minutiInizio;
+
+
+                // scala coerente con il CSS
+
+                let scala = 120;
+
+
+                // evita valori negativi
+
+                if (durata <= 0) {
+
+                    return;
+
+                }
+
+
+                let larghezza =
+                    (durata / 60) * scala;
+
+
+                // minimo per programmi brevissimi
+
+                if (larghezza < 20) {
+
+                    larghezza = 20;
+
+                }
+
+
+                div.style.width =
+                    larghezza + "px";
+
+
+                div.style.left =
+                    (
+                        minutiInizio /
+                        60 *
+                        scala
+                    ) + "px";
+
+
+                // ==========================
+                // POPUP
+                // ==========================
+
+                div.onclick = function() {
+
+                    apriProgramma(
+
+                        programma.titolo,
+
+                        programma.inizio +
+                        " - " +
+                        programma.fine,
+
+                        programma.descrizione,
+
+                        programma.immagine
+
+                    );
+
+                };
+
+
+                lista.appendChild(div);
 
             }
 
+        );
 
+    })
 
+    .catch(errore => {
 
-
-            div.className =
-
-            inOnda ?
-
-            "programma in-onda":
-
-            "programma";
-
-
-
-
-
-
-            div.innerHTML =
-
-            `
-
-            <strong>${programma.titolo}</strong>
-
-            <span>${programma.inizio} - ${programma.fine}</span>
-
-            ${inOnda ? "<small>🔴 IN ONDA</small>":""}
-
-            `;
-
-
-
-
-
-
-
-            // ==========================
-            // CALCOLO TIMELINE
-            // ==========================
-
-
-            let inizio = programma.inizio.split(":");
-
-            let fine = programma.fine.split(":");
-
-
-
-            let minutiInizio =
-
-            parseInt(inizio[0])*60 +
-
-            parseInt(inizio[1]);
-
-
-
-            let minutiFine =
-
-            parseInt(fine[0])*60 +
-
-            parseInt(fine[1]);
-
-
-
-
-
-            // gestione programmi dopo mezzanotte
-
-            if(minutiFine <= minutiInizio){
-
-                minutiFine = 1440;
-
-            }
-
-
-
-
-
-            let durata = minutiFine - minutiInizio;
-
-
-
-
-
-            // scala coerente con il CSS
-
-            let scala = 120;
-
-
-
-
-
-            // evita valori negativi
-
-            if(durata <= 0){
-
-                return;
-
-            }
-
-
-
-
-
-            let larghezza =
-
-            (durata / 60) * scala;
-
-
-
-
-
-            // minimo per programmi brevissimi
-
-            if(larghezza < 20){
-
-                larghezza = 20;
-
-            }
-
-
-
-
-
-            div.style.width =
-
-            larghezza + "px";
-
-
-
-
-
-            div.style.left =
-
-            (minutiInizio / 60 * scala) + "px";
-
-
-
-
-
-
-
-            // ==========================
-            // POPUP
-            // ==========================
-
-
-            div.onclick=function(){
-
-
-                apriProgramma(
-
-                    programma.titolo,
-
-                    programma.inizio+" - "+programma.fine,
-
-                    programma.descrizione,
-
-                    programma.immagine
-
-                );
-
-
-            };
-
-
-
-
-
-            lista.appendChild(div);
-
-
-
-
-        });
-
-
+        console.log(
+            "Errore caricamento programmi:",
+            errore
+        );
 
     });
 
-
-
 }
-
-
-
-
-
-
-
 
 
 // ==========================
 // AVVIO
 // ==========================
 
-
 creaGiorni();
-
 
 caricaProgrammi(oggi);
 
 
-
-
-
-
-
-
-
 // ==========================
-// AGGIORNAMENTO IN ONDA OGNI MINUTO
+// AGGIORNAMENTO IN ONDA
+// OGNI 5 MINUTI
 // ==========================
 
+setInterval(() => {
 
-setInterval(()=>{
+    caricaProgrammi(
+        new Date()
+    );
 
-
-    caricaProgrammi(new Date());
-
-
-},300000);
-
-
-
-
-
-
-
+}, 300000);
 
 
 // ==========================
 // CAMBIO AUTOMATICO GIORNO
 // ==========================
 
+setInterval(() => {
 
-setInterval(()=>{
-
-
-    let nuovaData=new Date();
-
+    let nuovaData =
+        new Date();
 
 
-
-    if(
+    if (
 
         nuovaData.getDate() !== oggi.getDate() ||
 
@@ -744,8 +618,7 @@ setInterval(()=>{
 
         nuovaData.getFullYear() !== oggi.getFullYear()
 
-    ){
-
+    ) {
 
 
         oggi = nuovaData;
@@ -753,13 +626,9 @@ setInterval(()=>{
 
         creaGiorni();
 
-
         caricaProgrammi(oggi);
-
-
 
     }
 
 
-
-},60000);
+}, 60000);

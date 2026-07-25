@@ -1,90 +1,66 @@
 async function caricaPromoHome() {
 
+    const contenitore = document.getElementById("lista-promo-home");
 
-const contenitore = document.getElementById("lista-promo-home");
-
-
-if (!contenitore) return;
+    if (!contenitore) return;
 
 
+    try {
 
-try {
+        const risposta = await fetch("dati/promo.json?v=" + Date.now());
 
-
-const risposta = await fetch("dati/promo.json?v=2");
-
-
-const promo = await risposta.json();
+        const promo = await risposta.json();
 
 
+        /* SVUOTA EVENTUALI CONTENUTI PRECEDENTI */
 
-/* svuota eventuali contenuti precedenti */
-
-contenitore.innerHTML = "";
-
+        contenitore.innerHTML = "";
 
 
-/* MOSTRA SOLO I PRIMI 3 PROMO */
+        /* MOSTRA SOLO I PRIMI 3 PROMO */
+
+        promo.slice(0, 3).forEach(elemento => {
 
 
-promo.slice(0,3).forEach(elemento => {
+            contenitore.innerHTML += `
+
+            <div class="scheda-promo">
+
+                <video controls>
+
+                    <source src="${elemento.video}" type="video/mp4">
+
+                </video>
 
 
-contenitore.innerHTML += `
+                <h3>
+                    ${elemento.titolo}
+                </h3>
 
 
-<div class="scheda-promo">
+                <small class="data-promo">
+                    ${elemento.data || ""}
+                </small>
 
 
-<video controls>
+                <p>
+                    ${elemento.descrizione}
+                </p>
+
+            </div>
+
+            `;
+
+        });
 
 
-<source src="${elemento.video}" type="video/mp4">
+    } catch (errore) {
 
+        console.log("Errore promo home:", errore);
 
-</video>
-
-
-
-<h3>
-${elemento.titolo}
-</h3>
-
-
-
-<small class="data-promo">
-${elemento.data || ""}
-</small>
-
-
-
-<p>
-${elemento.descrizione}
-</p>
-
-
-
-</div>
-
-
-`;
-
-
-});
-
-
-
-} catch (errore) {
-
-
-console.log("Errore promo home:", errore);
-
+    }
 
 }
-
-
-}
-
 
 
 caricaPromoHome();

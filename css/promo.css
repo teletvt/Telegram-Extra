@@ -9,8 +9,9 @@ body {
 }
 
 
-
-/* SEZIONE PROMO */
+/* ==========================
+   SEZIONE PROMO
+========================== */
 
 .promo {
 
@@ -19,8 +20,9 @@ body {
 }
 
 
-
-/* TITOLO */
+/* ==========================
+   TITOLO
+========================== */
 
 .promo h1 {
 
@@ -31,8 +33,9 @@ body {
 }
 
 
-
-/* VIDEO PRINCIPALE */
+/* ==========================
+   VIDEO PRINCIPALE
+========================== */
 
 .promo-principale {
 
@@ -49,7 +52,6 @@ body {
 }
 
 
-
 .promo-principale video {
 
     width:90%;
@@ -61,7 +63,6 @@ body {
 }
 
 
-
 .promo-principale h2 {
 
     font-size:30px;
@@ -71,10 +72,9 @@ body {
 }
 
 
-
-
-
-/* LISTA VIDEO */
+/* ==========================
+   LISTA VIDEO
+========================== */
 
 .lista-promo {
 
@@ -89,10 +89,9 @@ body {
 }
 
 
-
-
-
-/* SCHEDA */
+/* ==========================
+   SCHEDA
+========================== */
 
 .scheda-promo {
 
@@ -109,13 +108,11 @@ body {
 }
 
 
-
 .scheda-promo:hover {
 
     transform:scale(1.05);
 
 }
-
 
 
 .scheda-promo video {
@@ -127,7 +124,6 @@ body {
 }
 
 
-
 .scheda-promo h3 {
 
     margin-top:15px;
@@ -137,16 +133,102 @@ body {
 }
 
 
-
 .scheda-promo p {
 
     color:#d0d0d0;
 
 }
 
-.data-promo{
+
+/* ==========================
+   DATA PROMO
+========================== */
+
+.data-promo {
+
     display:block;
+
     font-size:12px;
+
     color:#9caec4;
+
     margin:5px 0 8px;
+
+}
+
+
+/* ==========================
+   MOBILE
+========================== */
+
+@media(max-width:700px) {
+
+
+.promo {
+
+    padding:20px 15px;
+
+}
+
+
+.promo h1 {
+
+    font-size:32px;
+
+}
+
+
+.promo-principale {
+
+    padding:20px;
+
+    margin-bottom:35px;
+
+}
+
+
+.promo-principale video {
+
+    width:100%;
+
+    max-height:none;
+
+}
+
+
+.promo-principale h2 {
+
+    font-size:24px;
+
+}
+
+
+.lista-promo {
+
+    gap:15px;
+
+}
+
+
+.scheda-promo {
+
+    min-width:260px;
+
+}
+
+
+.scheda-promo h3 {
+
+    font-size:18px;
+
+}
+
+
+.scheda-promo p {
+
+    font-size:14px;
+
+}
+
+
 }

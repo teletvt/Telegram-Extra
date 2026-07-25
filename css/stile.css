@@ -14,7 +14,6 @@
 }
 
 
-
 body {
 
     margin:0;
@@ -33,7 +32,6 @@ body {
 /* ==========================
    HEADER
 ========================== */
-
 
 header {
 
@@ -60,7 +58,6 @@ header {
 }
 
 
-
 .logo {
 
     height:75px;
@@ -70,11 +67,9 @@ header {
 }
 
 
-
 /* ==========================
    MENU
 ========================== */
-
 
 nav {
 
@@ -106,7 +101,6 @@ nav a {
 }
 
 
-
 nav a:hover {
 
     background:#0066cc;
@@ -114,11 +108,9 @@ nav a:hover {
 }
 
 
-
 /* ==========================
    HERO
 ========================== */
-
 
 .hero {
 
@@ -135,7 +127,6 @@ nav a:hover {
 }
 
 
-
 .hero img {
 
     width:100%;
@@ -147,7 +138,6 @@ nav a:hover {
     object-position:center;
 
 }
-
 
 
 .hero-testo {
@@ -165,7 +155,6 @@ nav a:hover {
 }
 
 
-
 .hero-testo h1 {
 
     font-size:36px;
@@ -175,13 +164,11 @@ nav a:hover {
 }
 
 
-
 .hero-testo p {
 
     font-size:18px;
 
 }
-
 
 
 .hero-testo h3 {
@@ -191,13 +178,9 @@ nav a:hover {
 }
 
 
-
-
-
 /* ==========================
    COLLEGAMENTI
 ========================== */
-
 
 .collegamenti {
 
@@ -208,7 +191,6 @@ nav a:hover {
     margin:25px 0;
 
 }
-
 
 
 .box-collegamento a {
@@ -234,13 +216,9 @@ nav a:hover {
 }
 
 
-
-
-
 /* ==========================
    PROMO HOME
 ========================== */
-
 
 .promo-home {
 
@@ -251,7 +229,6 @@ nav a:hover {
 }
 
 
-
 .promo-home h2 {
 
     font-size:32px;
@@ -259,7 +236,6 @@ nav a:hover {
     margin-bottom:25px;
 
 }
-
 
 
 #lista-promo-home {
@@ -273,7 +249,6 @@ nav a:hover {
     padding-bottom:20px;
 
 }
-
 
 
 .scheda-promo {
@@ -293,13 +268,11 @@ nav a:hover {
 }
 
 
-
 .scheda-promo:hover {
 
     transform:translateY(-5px);
 
 }
-
 
 
 .scheda-promo video {
@@ -311,7 +284,6 @@ nav a:hover {
 }
 
 
-
 .scheda-promo h3 {
 
     font-size:20px;
@@ -321,13 +293,11 @@ nav a:hover {
 }
 
 
-
 .scheda-promo p {
 
     color:#ccc;
 
 }
-
 
 
 .tutti-promo {
@@ -337,7 +307,6 @@ nav a:hover {
     margin-top:30px;
 
 }
-
 
 
 .tutti-promo a {
@@ -361,13 +330,9 @@ nav a:hover {
 }
 
 
-
-
-
 /* ==========================
    COLLEGAMENTI PICCOLI
 ========================== */
-
 
 .collegamenti-piccoli {
 
@@ -378,7 +343,6 @@ nav a:hover {
     justify-content:center;
 
 }
-
 
 
 .collegamenti-piccoli .box-collegamento a {
@@ -392,11 +356,9 @@ nav a:hover {
 }
 
 
-
 /* ==========================
    GUIDA TV
 ========================== */
-
 
 .guida {
 
@@ -407,7 +369,6 @@ nav a:hover {
 }
 
 
-
 .guida h1 {
 
     font-size:32px;
@@ -415,7 +376,6 @@ nav a:hover {
     margin-left:20px;
 
 }
-
 
 
 .giorni {
@@ -433,7 +393,6 @@ nav a:hover {
     padding:20px;
 
 }
-
 
 
 .giorni button {
@@ -455,17 +414,16 @@ nav a:hover {
 }
 
 
-
 .giorni button.giorno-attivo {
 
     background:#0066cc;
 
 }
 
+
 /* ==========================
    GUIDA PROGRAMMI
 ========================== */
-
 
 .programma {
 
@@ -486,7 +444,6 @@ nav a:hover {
 }
 
 
-
 .programma.in-onda {
 
     border:3px solid #00aaff;
@@ -494,7 +451,6 @@ nav a:hover {
     background:#123866;
 
 }
-
 
 
 .programma small {
@@ -506,11 +462,9 @@ nav a:hover {
 }
 
 
-
 /* ==========================
    POPUP GUIDA TV
 ========================== */
-
 
 .popup {
 
@@ -537,7 +491,6 @@ nav a:hover {
 }
 
 
-
 .popup-content {
 
     background:#071426;
@@ -559,7 +512,6 @@ nav a:hover {
 }
 
 
-
 .popup-content img {
 
     width:584px;
@@ -575,7 +527,6 @@ nav a:hover {
 }
 
 
-
 .popup-content h2 {
 
     font-size:22px;
@@ -583,7 +534,6 @@ nav a:hover {
     margin:10px 0 5px;
 
 }
-
 
 
 .popup-content p {
@@ -595,7 +545,6 @@ nav a:hover {
 }
 
 
-
 #popup-orario {
 
     color:#8fb3d9;
@@ -603,7 +552,6 @@ nav a:hover {
     font-size:13px;
 
 }
-
 
 
 .chiudi {
@@ -621,16 +569,11 @@ nav a:hover {
 }
 
 
-
-
-
 /* ==========================
    VERSIONE MOBILE
 ========================== */
 
-
-@media(max-width:700px){
-
+@media(max-width:700px) {
 
 
 header {
@@ -642,7 +585,6 @@ header {
 }
 
 
-
 .logo {
 
     height:55px;
@@ -650,13 +592,11 @@ header {
 }
 
 
-
 nav {
 
     gap:5px;
 
 }
-
 
 
 nav a {
@@ -668,18 +608,13 @@ nav a {
 }
 
 
-
-
-
 /* HERO MOBILE */
-
 
 .hero {
 
     height:260px;
 
 }
-
 
 
 .hero-testo {
@@ -693,13 +628,11 @@ nav a {
 }
 
 
-
 .hero-testo h1 {
 
     font-size:28px;
 
 }
-
 
 
 .hero-testo p {
@@ -709,7 +642,6 @@ nav a {
 }
 
 
-
 .hero-testo h3 {
 
     font-size:17px;
@@ -717,11 +649,7 @@ nav a {
 }
 
 
-
-
-
 /* PULSANTI */
-
 
 .box-collegamento a {
 
@@ -732,18 +660,13 @@ nav a {
 }
 
 
-
-
-
 /* PROMO */
-
 
 .promo-home {
 
     width:90%;
 
 }
-
 
 
 .promo-home h2 {
@@ -753,7 +676,6 @@ nav a {
 }
 
 
-
 .scheda-promo {
 
     min-width:260px;
@@ -761,11 +683,7 @@ nav a {
 }
 
 
-
-
-
 /* GUIDA */
-
 
 .guida {
 
@@ -774,7 +692,6 @@ nav a {
     margin:20px 0;
 
 }
-
 
 
 .guida h1 {
@@ -786,7 +703,6 @@ nav a {
 }
 
 
-
 .giorni {
 
     justify-content:center;
@@ -794,7 +710,6 @@ nav a {
     padding:15px;
 
 }
-
 
 
 .giorni button {
@@ -806,11 +721,7 @@ nav a {
 }
 
 
-
-
-
 /* POPUP MOBILE */
-
 
 .popup-content {
 
@@ -821,7 +732,6 @@ nav a {
     padding:20px;
 
 }
-
 
 
 .popup-content img {
@@ -835,7 +745,6 @@ nav a {
 }
 
 
-
 .popup-content h2 {
 
     font-size:20px;
@@ -843,19 +752,12 @@ nav a {
 }
 
 
-
-
-
 }
-
-
-
 
 
 /* ==========================
    SICUREZZA LARGHEZZA
 ========================== */
-
 
 html,
 body {
@@ -869,7 +771,9 @@ body {
 }
 
 
-/* ANTEPRIMA PROMO */
+/* ==========================
+   ANTEPRIMA PROMO
+========================== */
 
 .anteprima-promo {
 
@@ -892,8 +796,9 @@ body {
 }
 
 
-
-/* PROMO PRINCIPALE */
+/* ==========================
+   PROMO PRINCIPALE
+========================== */
 
 .promo-principale {
 
@@ -915,9 +820,7 @@ body {
 }
 
 
-
-
-@media(max-width:700px){
+@media(max-width:700px) {
 
 
 nav a {
@@ -929,13 +832,11 @@ nav a {
 }
 
 
-
 .logo {
 
     height:50px;
 
 }
-
 
 
 .promo-principale {
@@ -945,7 +846,6 @@ nav a {
 }
 
 
-
 .anteprima-promo {
 
     height:130px;
@@ -953,7 +853,6 @@ nav a {
     font-size:45px;
 
 }
-
 
 
 }

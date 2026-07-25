@@ -4,6 +4,7 @@
 <head>
 
 <meta charset="UTF-8">
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>Guida TV - Telegram Extra</title>
@@ -30,68 +31,46 @@
 
 </nav>
 
-
 </header>
-
-
 
 
 <section class="guida">
 
 
 <h1>Guida TV</h1>
-<p class="info-guida">
-    Clicca sui programmi per maggiori informazioni.
-</p>
 
+<p class="info-guida">
+Clicca sui programmi per maggiori informazioni.
+</p>
 
 
 <div class="giorni">
 
-    <div id="giorni-container"></div>
+<div id="giorni-container"></div>
 
 </div>
-
-
 
 
 <h2 id="giorno-selezionato"></h2>
 
 
-
-
-
 <div class="timeline">
 
 
-    <!-- ORARI GENERATI DAL JS -->
+<div class="orari" id="orari">
 
-    <div class="orari" id="orari">
-
-    </div>
+</div>
 
 
+<div class="programmi" id="lista-programmi">
 
-
-
-    <!-- PROGRAMMI GENERATI DAL JS -->
-
-    <div class="programmi" id="lista-programmi">
-
-    </div>
-
+</div>
 
 
 </div>
 
 
-
-
-
-
-
 <!-- POPUP PROGRAMMA -->
-
 
 <div class="popup" id="popup">
 
@@ -116,14 +95,17 @@
 
 </div>
 
-
 </div>
 
 
+</section>
 
 
+<script type="module">
 
-<script src="js/guida.js"></script>
+import("./js/guida.js?v=" + Date.now());
+
+</script>
 
 
 </body>
