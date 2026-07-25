@@ -656,7 +656,6 @@ parseInt(fine[0])*60 +
 parseInt(fine[1]);
 
 
-// programma che supera la mezzanotte
 
 if(minutiFine <= minutiInizio){
 
@@ -665,11 +664,19 @@ if(minutiFine <= minutiInizio){
 }
 
 
+
 let durata = minutiFine - minutiInizio;
 
 
+if(durata <= 0){
 
-let scala = 180;
+    return;
+
+}
+
+
+
+let scala = 120; // oppure 180 se usi quella scala
 
 
 
@@ -677,15 +684,14 @@ let scala = 180;
 
 let larghezza = durata / 60 * scala;
 
-div.style.width = Math.max(larghezza, 60) + "px";
+div.style.width = Math.max(larghezza, 50) + "px";
 
 
 
 // posizione sulla timeline
 
 div.style.left =
-
-(minutiInizio / 60 * scala) + "px";
+(Math.max(minutiInizio,0)/60*scala)+"px";
 
 
 
