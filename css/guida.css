@@ -5,13 +5,11 @@
 }
 
 
-
 .guida h1 {
 
     font-size:40px;
 
 }
-
 
 
 /* ==========================
@@ -105,7 +103,6 @@
 }
 
 
-
 .timeline:active {
 
     cursor:grabbing;
@@ -132,7 +129,6 @@
     margin-bottom:15px;
 
 }
-
 
 
 .orari span {
@@ -345,9 +341,11 @@
 
 .popup-content h2 {
 
-    margin-top:20px;
+    margin:10px 0 5px 0;
 
-    font-size:28px;
+    font-size:22px;
+
+    line-height:1.2;
 
 }
 
@@ -363,13 +361,41 @@
 
     font-size:14px;
 
-    overflow:hidden;
+    margin:5px 0;
+
+}
+
+
+
+
+
+/* orario */
+
+#popup-orario {
+
+    font-size:13px;
+
+    color:#8fb3d9;
+
+    margin:0 0 8px 0;
+
+}
+
+
+
+
+
+/* descrizione */
+
+#popup-descrizione {
 
     display:-webkit-box;
 
-    -webkit-line-clamp:5;
+    -webkit-line-clamp:4;
 
     -webkit-box-orient:vertical;
+
+    overflow:hidden;
 
 }
 
@@ -536,17 +562,29 @@
 
 .popup-content h2 {
 
-    font-size:22px;
+    font-size:20px;
 
 }
 
 
 
-.popup-content p {
+
+
+#popup-orario {
+
+    font-size:12px;
+
+}
+
+
+
+
+
+#popup-descrizione {
+
+    -webkit-line-clamp:5;
 
     font-size:13px;
-
-    -webkit-line-clamp:6;
 
 }
 
