@@ -43,46 +43,46 @@ let scrollInizio;
 if (timeline) {
 
 
-timeline.addEventListener("mousedown", e=>{
+    timeline.addEventListener("mousedown", e=>{
 
-    premuto=true;
+        premuto = true;
 
-    posizioneInizio=e.pageX-timeline.offsetLeft;
+        posizioneInizio = e.pageX - timeline.offsetLeft;
 
-    scrollInizio=timeline.scrollLeft;
+        scrollInizio = timeline.scrollLeft;
 
-});
-
-
-timeline.addEventListener("mouseleave",()=>{
-
-    premuto=false;
-
-});
+    });
 
 
-timeline.addEventListener("mouseup",()=>{
+    timeline.addEventListener("mouseleave",()=>{
 
-    premuto=false;
+        premuto = false;
 
-});
-
-
-timeline.addEventListener("mousemove",e=>{
-
-    if(!premuto)return;
-
-    e.preventDefault();
-
-    let posizione=e.pageX-timeline.offsetLeft;
-
-    let movimento=(posizione-posizioneInizio)*2;
+    });
 
 
-    timeline.scrollLeft=scrollInizio-movimento;
+    timeline.addEventListener("mouseup",()=>{
+
+        premuto = false;
+
+    });
 
 
-});
+    timeline.addEventListener("mousemove",e=>{
+
+        if(!premuto)return;
+
+        e.preventDefault();
+
+        let posizione = e.pageX - timeline.offsetLeft;
+
+        let movimento = (posizione - posizioneInizio) * 2;
+
+
+        timeline.scrollLeft = scrollInizio - movimento;
+
+
+    });
 
 
 }
@@ -111,87 +111,88 @@ const giorniVisibili = 7;
 function creaGiorni(){
 
 
-const contenitore=document.getElementById("giorni-container");
+    const contenitore = document.getElementById("giorni-container");
 
 
-contenitore.innerHTML="";
+    contenitore.innerHTML = "";
 
 
-
-oggi = new Date();
-
-
-
-for(let i=-giorniVisibili;i<=giorniVisibili;i++){
-
-
-let giorno=new Date(oggi);
-
-
-giorno.setDate(oggi.getDate()+i);
+    oggi = new Date();
 
 
 
-let nome;
+    for(let i = -giorniVisibili; i <= giorniVisibili; i++){
+
+
+        let giorno = new Date(oggi);
+
+
+        giorno.setDate(oggi.getDate() + i);
 
 
 
-if(i===0){
-
-nome="OGGI";
-
-}else{
-
-
-nome=giorno.toLocaleDateString("it-IT",{
-
-weekday:"short"
-
-}).toUpperCase();
-
-
-}
+        let nome;
 
 
 
-let bottone=document.createElement("button");
+        if(i === 0){
+
+            nome = "OGGI";
+
+        }else{
 
 
+            nome = giorno.toLocaleDateString("it-IT",{
 
-bottone.innerHTML=
+                weekday:"short"
 
-nome+
+            }).toUpperCase();
 
-"<br>"+
 
-giorno.getDate();
+        }
 
 
 
 
-
-bottone.onclick=function(){
-
-selezionaGiorno(giorno,bottone);
-
-};
+        let bottone = document.createElement("button");
 
 
 
+        bottone.innerHTML =
 
-if(i===0){
+        nome +
 
-bottone.classList.add("giorno-attivo");
+        "<br>" +
 
-}
-
-
-
-contenitore.appendChild(bottone);
+        giorno.getDate();
 
 
 
-}
+
+
+        bottone.onclick = function(){
+
+            selezionaGiorno(giorno,bottone);
+
+        };
+
+
+
+
+
+        if(i === 0){
+
+            bottone.classList.add("giorno-attivo");
+
+        }
+
+
+
+        contenitore.appendChild(bottone);
+
+
+
+    }
 
 
 }
@@ -208,19 +209,22 @@ contenitore.appendChild(bottone);
 function selezionaGiorno(giorno,bottone){
 
 
-document.querySelectorAll("#giorni-container button")
+    document.querySelectorAll("#giorni-container button")
 
-.forEach(b=>{
+    .forEach(b=>{
 
-b.classList.remove("giorno-attivo");
+        b.classList.remove("giorno-attivo");
 
-});
-
-
-bottone.classList.add("giorno-attivo");
+    });
 
 
-caricaProgrammi(giorno);
+
+    bottone.classList.add("giorno-attivo");
+
+
+
+    caricaProgrammi(giorno);
+
 
 
 }
@@ -237,69 +241,73 @@ caricaProgrammi(giorno);
 function programmaInOnda(inizio,fine){
 
 
-let adesso=new Date();
+    let adesso = new Date();
 
 
 
-let minutiAttuali=
+    let minutiAttuali =
 
-adesso.getHours()*60+
+    adesso.getHours()*60 +
 
-adesso.getMinutes();
-
-
-
-let a=inizio.split(":");
-
-let b=fine.split(":");
-
-
-
-let minutiInizio=
-
-parseInt(a[0])*60+
-
-parseInt(a[1]);
-
-
-
-let minutiFine=
-
-parseInt(b[0])*60+
-
-parseInt(b[1]);
+    adesso.getMinutes();
 
 
 
 
+    let a = inizio.split(":");
 
-if(minutiFine < minutiInizio){
-
-
-minutiFine += 1440;
+    let b = fine.split(":");
 
 
-if(minutiAttuali < minutiInizio){
 
-minutiAttuali += 1440;
+    let minutiInizio =
+
+    parseInt(a[0])*60 +
+
+    parseInt(a[1]);
+
+
+
+    let minutiFine =
+
+    parseInt(b[0])*60 +
+
+    parseInt(b[1]);
+
+
+
+
+    if(minutiFine < minutiInizio){
+
+
+        minutiFine += 1440;
+
+
+        if(minutiAttuali < minutiInizio){
+
+            minutiAttuali += 1440;
+
+        }
+
+
+    }
+
+
+
+    return (
+
+        minutiAttuali >= minutiInizio &&
+
+        minutiAttuali < minutiFine
+
+    );
+
 
 }
 
 
-}
 
 
-
-return (
-
-minutiAttuali >= minutiInizio &&
-
-minutiAttuali < minutiFine
-
-);
-
-
-}
 
 
 // ==========================
@@ -309,149 +317,33 @@ minutiAttuali < minutiFine
 function creaOrari(){
 
 
-const contenitore=document.getElementById("orari");
+    const contenitore = document.getElementById("orari");
 
 
-contenitore.innerHTML="";
-
-
-
-for(let ora=0;ora<24;ora++){
-
-
-let span=document.createElement("span");
-
-
-span.innerHTML=
-
-ora.toString().padStart(2,"0")+":00";
-
-
-contenitore.appendChild(span);
-
-
-}
-
-
-}
+    contenitore.innerHTML = "";
 
 
 
+    for(let ora = 0; ora < 24; ora++){
+
+
+        let span = document.createElement("span");
 
 
 
-// ==========================
-// DIVISIONE PROGRAMMI DOPO MEZZANOTTE
-// ==========================
+        span.innerHTML =
 
-function preparaProgrammiGiorno(dati,data){
-
-
-let programmi=[];
+        ora.toString().padStart(2,"0") + ":00";
 
 
 
-// programmi del giorno selezionato
-
-if(dati[data]){
+        contenitore.appendChild(span);
 
 
-programmi = programmi.concat(dati[data]);
+    }
 
 
 }
-
-
-
-
-// controlla programmi iniziati il giorno precedente
-
-let giornoPrecedente = new Date(data+"T00:00:00");
-
-
-giornoPrecedente.setDate(giornoPrecedente.getDate()-1);
-
-
-
-let precedente =
-
-giornoPrecedente.getFullYear()+"-"+
-
-String(giornoPrecedente.getMonth()+1).padStart(2,"0")+"-"+
-
-String(giornoPrecedente.getDate()).padStart(2,"0");
-
-
-
-
-
-if(dati[precedente]){
-
-
-dati[precedente].forEach(programma=>{
-
-
-let inizio=programma.inizio.split(":");
-
-let fine=programma.fine.split(":");
-
-
-
-let minutiInizio=
-
-parseInt(inizio[0])*60+
-
-parseInt(inizio[1]);
-
-
-
-let minutiFine=
-
-parseInt(fine[0])*60+
-
-parseInt(fine[1]);
-
-
-
-
-
-// programma che continua dopo mezzanotte
-
-if(minutiFine <= minutiInizio){
-
-
-
-programmi.unshift({
-
-    ...programma,
-
-    inizio:"00:00",
-
-    fine:programma.fine
-
-});
-
-
-
-}
-
-
-
-});
-
-
-}
-
-
-
-return programmi;
-
-
-}
-
-
-
-
 
 
 // ==========================
@@ -461,277 +353,324 @@ return programmi;
 function caricaProgrammi(giorno){
 
 
+    const lista = document.getElementById("lista-programmi");
 
-const lista=document.getElementById("lista-programmi");
+    const titolo = document.getElementById("giorno-selezionato");
 
 
-const titolo=document.getElementById("giorno-selezionato");
 
 
 
+    let data =
 
+    giorno.getFullYear()+"-"+
 
-let data =
+    String(giorno.getMonth()+1).padStart(2,"0")+"-"+
 
-giorno.getFullYear()+"-"+
+    String(giorno.getDate()).padStart(2,"0");
 
-String(giorno.getMonth()+1).padStart(2,"0")+"-"+
 
-String(giorno.getDate()).padStart(2,"0");
 
 
 
 
+    if(
 
+        giorno.getDate()===oggi.getDate() &&
 
-if(
+        giorno.getMonth()===oggi.getMonth() &&
 
-giorno.getDate()===oggi.getDate() &&
+        giorno.getFullYear()===oggi.getFullYear()
 
-giorno.getMonth()===oggi.getMonth() &&
+    ){
 
-giorno.getFullYear()===oggi.getFullYear()
 
-){
+        titolo.innerHTML="Programmazione di oggi";
 
-titolo.innerHTML="Programmazione di oggi";
 
+    }else{
 
-}else{
 
+        titolo.innerHTML =
 
-titolo.innerHTML=
+        "Programmazione di "+
 
-"Programmazione di "+
+        giorno.toLocaleDateString("it-IT",{
 
-giorno.toLocaleDateString("it-IT",{
+            weekday:"long",
 
-weekday:"long",
+            day:"numeric",
 
-day:"numeric",
+            month:"long"
 
-month:"long"
+        });
 
-});
 
+    }
 
-}
 
 
 
 
+    fetch("programmi.json")
 
 
+    .then(response=>response.json())
 
-fetch("programmi.json")
 
+    .then(dati=>{
 
-.then(response=>response.json())
 
 
-.then(dati=>{
+        lista.innerHTML="";
 
 
+        creaOrari();
 
-lista.innerHTML="";
 
 
-creaOrari();
 
 
+        let programmiGiorno = dati[data] || [];
 
 
 
-let programmiGiorno = preparaProgrammiGiorno(dati,data);
 
 
+        if(programmiGiorno.length===0){
 
 
+            lista.innerHTML=
 
-if(programmiGiorno.length===0){
+            "<p>Nessun programma disponibile.</p>";
 
+            return;
 
-lista.innerHTML=
 
-"<p>Nessun programma disponibile.</p>";
+        }
 
-return;
 
 
-}
 
 
+        programmiGiorno.forEach(programma=>{
 
 
 
-programmiGiorno.forEach(programma=>{
+            let div=document.createElement("div");
 
 
 
-let div=document.createElement("div");
 
 
+            // ==========================
+            // CONTROLLO IN ONDA
+            // ==========================
 
 
+            let inOnda=false;
 
-// ==========================
-// CONTROLLO IN ONDA AUTOMATICO
-// ==========================
 
 
-let inOnda=false;
+            if(
 
+                giorno.getDate()===oggi.getDate() &&
 
+                giorno.getMonth()===oggi.getMonth() &&
 
-if(
+                giorno.getFullYear()===oggi.getFullYear()
 
-giorno.getDate()===oggi.getDate() &&
+            ){
 
-giorno.getMonth()===oggi.getMonth() &&
 
-giorno.getFullYear()===oggi.getFullYear()
+                inOnda = programmaInOnda(
 
-){
+                    programma.inizio,
 
+                    programma.fine
 
-inOnda = programmaInOnda(
+                );
 
-programma.inizio,
 
-programma.fine
+            }
 
-);
 
 
-}
 
 
+            div.className =
 
-div.className=
+            inOnda ?
 
-inOnda ?
+            "programma in-onda":
 
-"programma in-onda":
+            "programma";
 
-"programma";
 
 
 
 
 
-div.innerHTML=
+            div.innerHTML =
 
-`
+            `
 
-<strong>${programma.titolo}</strong>
+            <strong>${programma.titolo}</strong>
 
-<span>${programma.inizio} - ${programma.fine}</span>
+            <span>${programma.inizio} - ${programma.fine}</span>
 
-${inOnda ? "<small>🔴 IN ONDA</small>":""}
+            ${inOnda ? "<small>🔴 IN ONDA</small>":""}
 
-`;
-// ==========================
-// CALCOLO POSIZIONE TIMELINE
-// ==========================
+            `;
 
 
-let inizio = programma.inizio.split(":");
 
-let fine = programma.fine.split(":");
 
 
 
-let minutiInizio =
 
-parseInt(inizio[0])*60 +
+            // ==========================
+            // CALCOLO TIMELINE
+            // ==========================
 
-parseInt(inizio[1]);
 
+            let inizio = programma.inizio.split(":");
 
+            let fine = programma.fine.split(":");
 
-let minutiFine =
 
-parseInt(fine[0])*60 +
 
-parseInt(fine[1]);
+            let minutiInizio =
 
+            parseInt(inizio[0])*60 +
 
+            parseInt(inizio[1]);
 
 
 
-if(minutiFine <= minutiInizio){
+            let minutiFine =
 
-    minutiFine += 1440;
+            parseInt(fine[0])*60 +
 
-}
+            parseInt(fine[1]);
 
 
 
 
 
-let durata = minutiFine - minutiInizio;
+            // gestione programmi dopo mezzanotte
 
+            if(minutiFine <= minutiInizio){
 
+                minutiFine = 1440;
 
-let scala = 180;
+            }
 
 
 
-// larghezza programma
 
-div.style.width =
 
-(durata / 60 * scala) + "px";
+            let durata = minutiFine - minutiInizio;
 
 
 
-// posizione sulla timeline
 
-div.style.left =
 
-(minutiInizio / 60 * scala) + "px";
+            // scala coerente con il CSS
 
+            let scala = 120;
 
 
 
 
 
-// ==========================
-// POPUP
-// ==========================
+            // evita valori negativi
 
+            if(durata <= 0){
 
-div.onclick=function(){
+                return;
 
+            }
 
-apriProgramma(
 
-programma.titolo,
 
-programma.inizio+" - "+programma.fine,
 
-programma.descrizione,
 
-programma.immagine
+            let larghezza =
 
-);
+            (durata / 60) * scala;
 
 
-};
 
 
 
+            // minimo per programmi brevissimi
 
+            if(larghezza < 20){
 
-lista.appendChild(div);
+                larghezza = 20;
 
+            }
 
 
-});
 
 
 
-});
+            div.style.width =
+
+            larghezza + "px";
+
+
+
+
+
+            div.style.left =
+
+            (minutiInizio / 60 * scala) + "px";
+
+
+
+
+
+
+
+            // ==========================
+            // POPUP
+            // ==========================
+
+
+            div.onclick=function(){
+
+
+                apriProgramma(
+
+                    programma.titolo,
+
+                    programma.inizio+" - "+programma.fine,
+
+                    programma.descrizione,
+
+                    programma.immagine
+
+                );
+
+
+            };
+
+
+
+
+
+            lista.appendChild(div);
+
+
+
+
+        });
+
+
+
+    });
 
 
 
@@ -762,6 +701,7 @@ caricaProgrammi(oggi);
 
 
 
+
 // ==========================
 // AGGIORNAMENTO IN ONDA OGNI MINUTO
 // ==========================
@@ -770,12 +710,7 @@ caricaProgrammi(oggi);
 setInterval(()=>{
 
 
-let selezionato = document.querySelector(".giorno-attivo");
-
-
-// aggiorna solo la giornata corrente
-
-caricaProgrammi(new Date());
+    caricaProgrammi(new Date());
 
 
 },60000);
@@ -796,35 +731,34 @@ caricaProgrammi(new Date());
 setInterval(()=>{
 
 
-let nuovaData=new Date();
+    let nuovaData=new Date();
 
 
 
-if(
 
-nuovaData.getDate() !== oggi.getDate() ||
+    if(
 
-nuovaData.getMonth() !== oggi.getMonth() ||
+        nuovaData.getDate() !== oggi.getDate() ||
 
-nuovaData.getFullYear() !== oggi.getFullYear()
+        nuovaData.getMonth() !== oggi.getMonth() ||
 
-){
+        nuovaData.getFullYear() !== oggi.getFullYear()
 
-
-
-oggi = nuovaData;
+    ){
 
 
 
-creaGiorni();
+        oggi = nuovaData;
+
+
+        creaGiorni();
+
+
+        caricaProgrammi(oggi);
 
 
 
-caricaProgrammi(oggi);
-
-
-
-}
+    }
 
 
 
