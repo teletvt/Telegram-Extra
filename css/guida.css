@@ -84,6 +84,8 @@
 
 
 
+
+
 /* ==========================
    TIMELINE
 ========================== */
@@ -97,16 +99,19 @@
 
     width:100%;
 
+    cursor:grab;
+
 }
 
 
-.timeline {
-    cursor: grab;
-}
 
 .timeline:active {
-    cursor: grabbing;
+
+    cursor:grabbing;
+
 }
+
+
 
 
 
@@ -131,11 +136,13 @@
 
 .orari span {
 
-    width:180px;
+    width:120px;
 
     font-size:14px;
 
 }
+
+
 
 
 
@@ -148,11 +155,14 @@
 
     position:relative;
 
-    width:4320px; /* 24 ore × 180px */
+    width:2880px; /* 24 ore × 120px */
 
     height:130px;
 
 }
+
+
+
 
 
 .programma {
@@ -163,7 +173,7 @@
 
     background:#123866;
 
-    padding:20px;
+    padding:10px;
 
     border-radius:12px;
 
@@ -177,19 +187,65 @@
 
     box-sizing:border-box;
 
+    overflow:hidden;
+
 }
+
+
+
+
+
+.programma strong {
+
+    display:block;
+
+    font-size:13px;
+
+    line-height:1.1;
+
+    white-space:nowrap;
+
+    overflow:hidden;
+
+    text-overflow:ellipsis;
+
+}
+
+
 
 
 
 .programma span {
 
-    font-size:13px;
+    display:block;
+
+    font-size:11px;
 
     color:#b9c7d8;
 
-    margin-top:8px;
+    margin-top:5px;
+
+    white-space:nowrap;
+
+    overflow:hidden;
+
+    text-overflow:ellipsis;
 
 }
+
+
+
+
+
+/* programmi molto brevi */
+
+.programma[style*="width:"] strong {
+
+    max-width:100%;
+
+}
+
+
 
 
 
@@ -212,11 +268,13 @@
 
     display:block;
 
-    margin-top:10px;
+    margin-top:5px;
 
     font-weight:bold;
 
 }
+
+
 
 
 
@@ -251,6 +309,8 @@
 
 
 
+
+
 .popup-content {
 
     position:relative;
@@ -271,6 +331,8 @@
 
 
 
+
+
 .popup-content img {
 
     width:200px;
@@ -285,6 +347,8 @@
 
 
 
+
+
 .popup-content h2 {
 
     margin-top:20px;
@@ -295,11 +359,15 @@
 
 
 
+
+
 .popup-content p {
 
     color:#cbd5e1;
 
 }
+
+
 
 
 
@@ -319,13 +387,25 @@
 
 
 
+
+
 /* nasconde vecchia navigazione */
+
 
 .navigazione-giorni {
 
     display:none;
 
 }
+
+
+
+
+
+
+/* ==========================
+   MOBILE
+========================== */
 
 
 @media(max-width:768px){
@@ -338,11 +418,14 @@
 }
 
 
+
 .guida h1{
 
     font-size:30px;
 
 }
+
+
 
 
 
@@ -356,12 +439,6 @@
 
 
 
-.timeline{
-
-    width:100%;
-
-}
-
 
 
 .orari span{
@@ -374,11 +451,15 @@
 
 
 
+
+
 .programmi{
 
-    width:2880px; /* 24 ore × 120px */
+    width:2880px;
 
 }
+
+
 
 
 
@@ -386,19 +467,31 @@
 
     height:80px;
 
-    padding:12px;
-
-    font-size:14px;
+    padding:8px;
 
 }
+
+
+
+
+
+.programma strong{
+
+    font-size:12px;
+
+}
+
+
 
 
 
 .programma span{
 
-    font-size:11px;
+    font-size:10px;
 
 }
+
+
 
 
 
@@ -412,6 +505,8 @@
 
 
 
+
+
 .popup-content img{
 
     width:150px;
@@ -419,6 +514,7 @@
     height:210px;
 
 }
+
 
 
 }
