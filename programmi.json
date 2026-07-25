@@ -1,4 +1,1205 @@
 {
+  "2026-07-18": [
+    {"titolo": "Nessun programma disponibile",
+      "inizio": "00:00",
+      "fine": "23:59",
+      "descrizione": "",
+      "immagine": "",
+      "inOnda": false
+    }
+  ],
+
+  "2026-07-19": [
+    {"titolo": "Nessun programma disponibile",
+      "inizio": "00:00",
+      "fine": "23:59",
+      "descrizione": "",
+      "immagine": "",
+      "inOnda": false
+    }
+  ],
+
+  "2026-07-20": [
+    {"titolo": "Nessun programma disponibile",
+      "inizio": "00:00",
+      "fine": "16:00",
+      "descrizione": "",
+      "immagine": "",
+      "inOnda": false
+    },
+    {
+      "titolo": "Tira & Molla",
+      "inizio": "16:00",
+      "fine": "17:00",
+      "descrizione": "Con Paolo Bonolis, Tira e Molla e' un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
+      "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zelig Circus",
+      "inizio": "17:00",
+      "fine": "19:10",
+      "descrizione": "Mago Forest e Teresa Mannino presentano Zelig Circus 2013. Il meglio della comicità italiana è pronta a farvi ridere come non mai.",
+      "immagine": "immagini/programmi-guida/zeligcircus2013.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sei forte, maestro!",
+      "inizio": "19:10",
+      "fine": "20:10",
+      "descrizione": "Emilio, Emilio Solfrizzi, maestro elementare, torna a vivere nella sua città natale per insegnare nella scuola 'Michelangelo', dove il suo grande amico Giulio, Massimo Ciavarro, è direttore. Emilio, grazie alla passione per il proprio lavoro e l'empatia con i suoi allievi, riuscirà sin da subito ad instaurare un ottimo rapporto con gli alunni.",
+      "immagine": "immagini/programmi-guida/seifortemaestro.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sei forte, maestro!",
+      "inizio": "20:10",
+      "fine": "21:10",
+      "descrizione": "Emilio, Emilio Solfrizzi, maestro elementare, torna a vivere nella sua città natale per insegnare nella scuola 'Michelangelo', dove il suo grande amico Giulio, Massimo Ciavarro, è direttore. Emilio, grazie alla passione per il proprio lavoro e l'empatia con i suoi allievi, riuscirà sin da subito ad instaurare un ottimo rapporto con gli alunni.",
+      "immagine": "immagini/programmi-guida/seifortemaestro.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "La sai l'ultima?",
+      "inizio": "21:10",
+      "fine": "22:50",
+      "descrizione": "Una sfida all'insegna della comicità tra i migliori barzellettieri d'Italia, chiamati a divertire il pubblico con battute irresistibili e a conquistare la vittoria a suon di applausi. Con Pippo Franco e Pamela Prati.",
+      "immagine": "immagini/programmi-guida/lasailultima1992.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sarabanda",
+      "inizio": "22:50",
+      "fine": "23:25",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sarabanda",
+      "inizio": "23:25",
+      "fine": "00:00",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    }
+  ],
+  
+  "2026-07-21": [
+    {
+      "titolo": "Sarabanda",
+      "inizio": "00:00",
+      "fine": "00:35",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "00:35",
+      "fine": "01:40",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "01:40",
+      "fine": "02:30",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Passaparola",
+      "inizio": "02:30",
+      "fine": "03:30",
+      "descrizione": "Gerry Scotti presenta il popolare quiz di Canale 5 in cui i concorrenti affrontano prove di cultura generale, memoria e rapidità. Il percorso culmina con il celebre gioco finale del '21', diventato uno dei simboli della trasmissione.",
+      "immagine": "immagini/programmi-guida/passaparola.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "03:30",
+      "fine": "04:15",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "04:15",
+      "fine": "05:00",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Mai dire Gallery",
+      "inizio": "05:00",
+      "fine": "05:45",
+      "descrizione": "Con la Gialappa's Band",
+      "immagine": "immagini/programmi-guida/maidiregallery.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Finché c'è Ditta c'è speranza",
+      "inizio": "05:45",
+      "fine": "06:00",
+      "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
+      "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Casa dolce casa",
+      "inizio": "06:00",
+      "fine": "06:25",
+      "descrizione": "Segue le esperienze vissute in un appartamento, dove si svolgono le vicende di una famiglia insieme al portiere del condominio.",
+      "immagine": "immagini/programmi-guida/casadolcecasa.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Casa dolce casa",
+      "inizio": "06:25",
+      "fine": "06:50",
+      "descrizione": "Segue le esperienze vissute in un appartamento, dove si svolgono le vicende di una famiglia insieme al portiere del condominio.",
+      "immagine": "immagini/programmi-guida/casadolcecasa.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "CentoVetrine 2",
+      "inizio": "06:50",
+      "fine": "07:15",
+      "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
+      "immagine": "immagini/programmi-guida/centovetrine2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "CentoVetrine 2",
+      "inizio": "07:15",
+      "fine": "07:40",
+      "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
+      "immagine": "immagini/programmi-guida/centovetrine2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Vivere 2",
+      "inizio": "07:40",
+      "fine": "08:05",
+      "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
+      "immagine": "immagini/programmi-guida/vivere2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Vivere 2",
+      "inizio": "08:05",
+      "fine": "08:30",
+      "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
+      "immagine": "immagini/programmi-guida/vivere2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "The Wall",
+      "inizio": "08:30",
+      "fine": "09:25",
+      "descrizione": "Torna il mega tabellone luminoso da cui scendono le sfere che possono cambiare la vita dei concorrenti. Conduce Max Giusti.",
+      "immagine": "immagini/programmi-guida/thewall.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:25",
+      "fine": "09:33",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:33",
+      "fine": "09:41",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:41",
+      "fine": "09:49",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:49",
+      "fine": "09:57",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:57",
+      "fine": "10:05",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Don Luca",
+      "inizio": "10:05",
+      "fine": "10:30",
+      "descrizione": "Don Luca, viceparroco della chiesa di San Precotto, è un sacerdote fuori dagli schemi: ama il calcio, la musica rock e le moto. Con energia e fantasia, punta a coinvolgere i ragazzi nelle attività parrocchiali, portando in oratorio nuove idee e linguaggi vicini ai loro interessi.",
+      "immagine": "immagini/programmi-guida/donluca.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Don Luca",
+      "inizio": "10:30",
+      "fine": "10:55",
+      "descrizione": "Don Luca, viceparroco della chiesa di San Precotto, è un sacerdote fuori dagli schemi: ama il calcio, la musica rock e le moto. Con energia e fantasia, punta a coinvolgere i ragazzi nelle attività parrocchiali, portando in oratorio nuove idee e linguaggi vicini ai loro interessi.",
+      "immagine": "immagini/programmi-guida/donluca.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Don Luca",
+      "inizio": "10:55",
+      "fine": "11:20",
+      "descrizione": "Don Luca, viceparroco della chiesa di San Precotto, è un sacerdote fuori dagli schemi: ama il calcio, la musica rock e le moto. Con energia e fantasia, punta a coinvolgere i ragazzi nelle attività parrocchiali, portando in oratorio nuove idee e linguaggi vicini ai loro interessi.",
+      "immagine": "immagini/programmi-guida/donluca.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Distretto di polizia 6",
+      "inizio": "11:20",
+      "fine": "12:20",
+      "descrizione": "La sesta stagione inizia con un cambiamento nella guida del distretto: Giulia Corsi si trasferisce a Trieste per seguire il capitano dei Carabinieri Rea e il suo posto viene occupato da Roberto Ardenzi, che e anche al suo ultimo anno al distretto. Entrano nella squadra l'ispettore Irene Valli, Francesca Inaudi, e l'ispettore Alessandro Berti, Enrico Silvestrin.",
+      "immagine": "immagini/programmi-guida/distretto6.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Distretto di polizia 6",
+      "inizio": "12:20",
+      "fine": "13:15",
+      "descrizione": "La sesta stagione inizia con un cambiamento nella guida del distretto: Giulia Corsi si trasferisce a Trieste per seguire il capitano dei Carabinieri Rea e il suo posto viene occupato da Roberto Ardenzi, che e anche al suo ultimo anno al distretto. Entrano nella squadra l'ispettore Irene Valli, Francesca Inaudi, e l'ispettore Alessandro Berti, Enrico Silvestrin.",
+      "immagine": "immagini/programmi-guida/distretto6.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Distretto di polizia 6",
+      "inizio": "13:15",
+      "fine": "14:05",
+      "descrizione": "La sesta stagione inizia con un cambiamento nella guida del distretto: Giulia Corsi si trasferisce a Trieste per seguire il capitano dei Carabinieri Rea e il suo posto viene occupato da Roberto Ardenzi, che e anche al suo ultimo anno al distretto. Entrano nella squadra l'ispettore Irene Valli, Francesca Inaudi, e l'ispettore Alessandro Berti, Enrico Silvestrin.",
+      "immagine": "immagini/programmi-guida/distretto6.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Carabinieri - Sotto copertura",
+      "inizio": "14:05",
+      "fine": "14:05",
+      "descrizione": "Il brigadiere Paola Vitali e il capitano Andrea Ferri, dopo l'allontanamento da Città della Pieve, si ritrovano ad indagare sullo stesso caso di droga a Tarquinia, dove quest'ultimo segue un pericoloso boss mafioso.",
+      "immagine": "immagini/programmi-guida/carabinierisottocopertura.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Tira & Molla",
+      "inizio": "16:00",
+      "fine": "17:00",
+      "descrizione": "Con Paolo Bonolis, Tira e Molla e' un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
+      "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zelig Circus",
+      "inizio": "17:00",
+      "fine": "19:10",
+      "descrizione": "Mago Forest e Teresa Mannino presentano Zelig Circus 2013. Il meglio della comicità italiana è pronta a farvi ridere come non mai.",
+      "immagine": "immagini/programmi-guida/zeligcircus2013.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sei forte, maestro!",
+      "inizio": "19:10",
+      "fine": "20:10",
+      "descrizione": "Emilio, Emilio Solfrizzi, maestro elementare, torna a vivere nella sua città natale per insegnare nella scuola 'Michelangelo', dove il suo grande amico Giulio, Massimo Ciavarro, è direttore. Emilio, grazie alla passione per il proprio lavoro e l'empatia con i suoi allievi, riuscirà sin da subito ad instaurare un ottimo rapporto con gli alunni.",
+      "immagine": "immagini/programmi-guida/seifortemaestro.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sei forte, maestro!",
+      "inizio": "20:10",
+      "fine": "21:10",
+      "descrizione": "Emilio, Emilio Solfrizzi, maestro elementare, torna a vivere nella sua città natale per insegnare nella scuola 'Michelangelo', dove il suo grande amico Giulio, Massimo Ciavarro, è direttore. Emilio, grazie alla passione per il proprio lavoro e l'empatia con i suoi allievi, riuscirà sin da subito ad instaurare un ottimo rapporto con gli alunni.",
+      "immagine": "immagini/programmi-guida/seifortemaestro.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "La notte vola",
+      "inizio": "21:10",
+      "fine": "23:10",
+      "descrizione": "Lorella Cuccarini presenta un incredibile viaggio all'interno della musica e dello spettacolo dei mitici anni '80",
+      "immagine": "immagini/programmi-guida/lanottevola.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sarabanda",
+      "inizio": "23:10",
+      "fine": "23:45",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sarabanda",
+      "inizio": "23:45",
+      "fine": "00:20",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    }
+  ],
+
+  "2026-07-22": [
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "00:20",
+      "fine": "01:10",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "01:10",
+      "fine": "02:00",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Passaparola",
+      "inizio": "02:00",
+      "fine": "03:05",
+      "descrizione": "Gerry Scotti presenta il popolare quiz di Canale 5 in cui i concorrenti affrontano prove di cultura generale, memoria e rapidità. Il percorso culmina con il celebre gioco finale del '21', diventato uno dei simboli della trasmissione.",
+      "immagine": "immagini/programmi-guida/passaparola.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "03:05",
+      "fine": "03:45",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "03:45",
+      "fine": "04:30",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Mai dire Gallery",
+      "inizio": "04:30",
+      "fine": "05:20",
+      "descrizione": "Con la Gialappa's Band",
+      "immagine": "immagini/programmi-guida/maidiregallery.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Finché c'è Ditta c'è speranza",
+      "inizio": "05:20",
+      "fine": "05:35",
+      "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
+      "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Il mammo 2",
+      "inizio": "05:35",
+      "fine": "06:00",
+      "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
+      "immagine": "immagini/programmi-guida/ilmammo.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Casa dolce casa",
+      "inizio": "06:00",
+      "fine": "06:25",
+      "descrizione": "Segue le esperienze vissute in un appartamento, dove si svolgono le vicende di una famiglia insieme al portiere del condominio.",
+      "immagine": "immagini/programmi-guida/casadolcecasa.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Casa dolce casa",
+      "inizio": "06:25",
+      "fine": "06:50",
+      "descrizione": "Segue le esperienze vissute in un appartamento, dove si svolgono le vicende di una famiglia insieme al portiere del condominio.",
+      "immagine": "immagini/programmi-guida/casadolcecasa.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "CentoVetrine 2",
+      "inizio": "06:50",
+      "fine": "07:15",
+      "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
+      "immagine": "immagini/programmi-guida/centovetrine2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "CentoVetrine 2",
+      "inizio": "07:15",
+      "fine": "07:40",
+      "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
+      "immagine": "immagini/programmi-guida/centovetrine2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Vivere 2",
+      "inizio": "07:40",
+      "fine": "08:05",
+      "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
+      "immagine": "immagini/programmi-guida/vivere2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Vivere 2",
+      "inizio": "08:05",
+      "fine": "08:30",
+      "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
+      "immagine": "immagini/programmi-guida/vivere2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "The Wall",
+      "inizio": "08:30",
+      "fine": "09:25",
+      "descrizione": "Torna il mega tabellone luminoso da cui scendono le sfere che possono cambiare la vita dei concorrenti. Conduce Max Giusti.",
+      "immagine": "immagini/programmi-guida/thewall.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:25",
+      "fine": "09:30",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:30",
+      "fine": "09:35",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:35",
+      "fine": "09:40",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:40",
+      "fine": "09:45",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:45",
+      "fine": "09:52",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:52",
+      "fine": "09:58",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:58",
+      "fine": "10:05",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Don Luca",
+      "inizio": "10:05",
+      "fine": "10:30",
+      "descrizione": "Don Luca, viceparroco della chiesa di San Precotto, è un sacerdote fuori dagli schemi: ama il calcio, la musica rock e le moto. Con energia e fantasia, punta a coinvolgere i ragazzi nelle attività parrocchiali, portando in oratorio nuove idee e linguaggi vicini ai loro interessi.",
+      "immagine": "immagini/programmi-guida/donluca.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Don Luca",
+      "inizio": "10:30",
+      "fine": "10:55",
+      "descrizione": "Don Luca, viceparroco della chiesa di San Precotto, è un sacerdote fuori dagli schemi: ama il calcio, la musica rock e le moto. Con energia e fantasia, punta a coinvolgere i ragazzi nelle attività parrocchiali, portando in oratorio nuove idee e linguaggi vicini ai loro interessi.",
+      "immagine": "immagini/programmi-guida/donluca.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Distretto di polizia 6",
+      "inizio": "10:55",
+      "fine": "11:45",
+      "descrizione": "La sesta stagione inizia con un cambiamento nella guida del distretto: Giulia Corsi si trasferisce a Trieste per seguire il capitano dei Carabinieri Rea e il suo posto viene occupato da Roberto Ardenzi, che e anche al suo ultimo anno al distretto. Entrano nella squadra l'ispettore Irene Valli, Francesca Inaudi, e l'ispettore Alessandro Berti, Enrico Silvestrin.",
+      "immagine": "immagini/programmi-guida/distretto6.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Distretto di polizia 6",
+      "inizio": "11:45",
+      "fine": "12:35",
+      "descrizione": "La sesta stagione inizia con un cambiamento nella guida del distretto: Giulia Corsi si trasferisce a Trieste per seguire il capitano dei Carabinieri Rea e il suo posto viene occupato da Roberto Ardenzi, che e anche al suo ultimo anno al distretto. Entrano nella squadra l'ispettore Irene Valli, Francesca Inaudi, e l'ispettore Alessandro Berti, Enrico Silvestrin.",
+      "immagine": "immagini/programmi-guida/distretto6.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Distretto di polizia 6",
+      "inizio": "12:35",
+      "fine": "13:25",
+      "descrizione": "La sesta stagione inizia con un cambiamento nella guida del distretto: Giulia Corsi si trasferisce a Trieste per seguire il capitano dei Carabinieri Rea e il suo posto viene occupato da Roberto Ardenzi, che e anche al suo ultimo anno al distretto. Entrano nella squadra l'ispettore Irene Valli, Francesca Inaudi, e l'ispettore Alessandro Berti, Enrico Silvestrin.",
+      "immagine": "immagini/programmi-guida/distretto6.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Carabinieri - Sotto copertura",
+      "inizio": "13:25",
+      "fine": "15:05",
+      "descrizione": "Il brigadiere Paola Vitali e il capitano Andrea Ferri, dopo l'allontanamento da Città della Pieve, si ritrovano ad indagare sullo stesso caso di droga a Tarquinia, dove quest'ultimo segue un pericoloso boss mafioso.",
+      "immagine": "immagini/programmi-guida/carabinierisottocopertura.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Carabinieri 5",
+      "inizio": "15:05",
+      "fine": "16:00",
+      "descrizione": "I Carabinieri di stanza a Città della Pieve, in Umbria, affrontano un duro lavoro quotidiano e sono costantemente alle prese con crimini e situazioni d'emergenza. Alle indagini si alternano le vicissitudini personali dei protagonisti.",
+      "immagine": "immagini/programmi-guida/carabinieri5.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Tira & Molla",
+      "inizio": "16:00",
+      "fine": "17:00",
+      "descrizione": "Con Paolo Bonolis, Tira e Molla e' un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
+      "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zelig Circus",
+      "inizio": "17:00",
+      "fine": "19:10",
+      "descrizione": "Mago Forest e Teresa Mannino presentano Zelig Circus 2013. Il meglio della comicità italiana è pronta a farvi ridere come non mai.",
+      "immagine": "immagini/programmi-guida/zeligcircus2013.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sei forte, maestro!",
+      "inizio": "19:10",
+      "fine": "20:10",
+      "descrizione": "Emilio, Emilio Solfrizzi, maestro elementare, torna a vivere nella sua città natale per insegnare nella scuola 'Michelangelo', dove il suo grande amico Giulio, Massimo Ciavarro, è direttore. Emilio, grazie alla passione per il proprio lavoro e l'empatia con i suoi allievi, riuscirà sin da subito ad instaurare un ottimo rapporto con gli alunni.",
+      "immagine": "immagini/programmi-guida/seifortemaestro.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sei forte, maestro!",
+      "inizio": "20:10",
+      "fine": "21:10",
+      "descrizione": "Emilio, Emilio Solfrizzi, maestro elementare, torna a vivere nella sua città natale per insegnare nella scuola 'Michelangelo', dove il suo grande amico Giulio, Massimo Ciavarro, è direttore. Emilio, grazie alla passione per il proprio lavoro e l'empatia con i suoi allievi, riuscirà sin da subito ad instaurare un ottimo rapporto con gli alunni.",
+      "immagine": "immagini/programmi-guida/seifortemaestro.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Grande Fratello",
+      "inizio": "21:10",
+      "fine": "23:10",
+      "descrizione": "La versione italiana della casa più spiata dalla televisione.",
+      "immagine": "immagini/programmi-guida/grandefratello2000.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sarabanda",
+      "inizio": "23:30",
+      "fine": "00:00",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    }
+  ],
+
+  "2026-07-23": [
+    {
+      "titolo": "Sarabanda",
+      "inizio": "00:00",
+      "fine": "00:30",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "00:30",
+      "fine": "01:20",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "01:20",
+      "fine": "02:10",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Passaparola",
+      "inizio": "02:10",
+      "fine": "03:20",
+      "descrizione": "Gerry Scotti presenta il popolare quiz di Canale 5 in cui i concorrenti affrontano prove di cultura generale, memoria e rapidità. Il percorso culmina con il celebre gioco finale del '21', diventato uno dei simboli della trasmissione.",
+      "immagine": "immagini/programmi-guida/passaparola.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "03:20",
+      "fine": "04:05",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "04:05",
+      "fine": "04:45",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Mai dire Gallery",
+      "inizio": "04:45",
+      "fine": "05:30",
+      "descrizione": "Con la Gialappa's Band",
+      "immagine": "immagini/programmi-guida/maidiregallery.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Il mammo 2",
+      "inizio": "05:30",
+      "fine": "06:00",
+      "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
+      "immagine": "immagini/programmi-guida/ilmammo.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Casa dolce casa",
+      "inizio": "06:00",
+      "fine": "06:25",
+      "descrizione": "Segue le esperienze vissute in un appartamento, dove si svolgono le vicende di una famiglia insieme al portiere del condominio.",
+      "immagine": "immagini/programmi-guida/casadolcecasa.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Casa dolce casa",
+      "inizio": "06:25",
+      "fine": "06:50",
+      "descrizione": "Segue le esperienze vissute in un appartamento, dove si svolgono le vicende di una famiglia insieme al portiere del condominio.",
+      "immagine": "immagini/programmi-guida/casadolcecasa.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "CentoVetrine 2",
+      "inizio": "06:50",
+      "fine": "07:15",
+      "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
+      "immagine": "immagini/programmi-guida/centovetrine2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "CentoVetrine 2",
+      "inizio": "07:15",
+      "fine": "07:40",
+      "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
+      "immagine": "immagini/programmi-guida/centovetrine2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Vivere 2",
+      "inizio": "07:40",
+      "fine": "08:05",
+      "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
+      "immagine": "immagini/programmi-guida/vivere2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Vivere 2",
+      "inizio": "08:05",
+      "fine": "08:30",
+      "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
+      "immagine": "immagini/programmi-guida/vivere2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "The Wall",
+      "inizio": "08:30",
+      "fine": "09:25",
+      "descrizione": "Torna il mega tabellone luminoso da cui scendono le sfere che possono cambiare la vita dei concorrenti. Conduce Max Giusti.",
+      "immagine": "immagini/programmi-guida/thewall.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:25",
+      "fine": "09:30",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:30",
+      "fine": "09:35",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:35",
+      "fine": "09:40",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:40",
+      "fine": "09:50",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:50",
+      "fine": "09:55",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:55",
+      "fine": "10:00",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "10:00",
+      "fine": "10:05",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Don Luca",
+      "inizio": "10:05",
+      "fine": "10:30",
+      "descrizione": "Don Luca, viceparroco della chiesa di San Precotto, è un sacerdote fuori dagli schemi: ama il calcio, la musica rock e le moto. Con energia e fantasia, punta a coinvolgere i ragazzi nelle attività parrocchiali, portando in oratorio nuove idee e linguaggi vicini ai loro interessi.",
+      "immagine": "immagini/programmi-guida/donluca.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Don Luca",
+      "inizio": "10:30",
+      "fine": "10:55",
+      "descrizione": "Don Luca, viceparroco della chiesa di San Precotto, è un sacerdote fuori dagli schemi: ama il calcio, la musica rock e le moto. Con energia e fantasia, punta a coinvolgere i ragazzi nelle attività parrocchiali, portando in oratorio nuove idee e linguaggi vicini ai loro interessi.",
+      "immagine": "immagini/programmi-guida/donluca.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Distretto di polizia 6",
+      "inizio": "10:55",
+      "fine": "11:45",
+      "descrizione": "La sesta stagione inizia con un cambiamento nella guida del distretto: Giulia Corsi si trasferisce a Trieste per seguire il capitano dei Carabinieri Rea e il suo posto viene occupato da Roberto Ardenzi, che e anche al suo ultimo anno al distretto. Entrano nella squadra l'ispettore Irene Valli, Francesca Inaudi, e l'ispettore Alessandro Berti, Enrico Silvestrin.",
+      "immagine": "immagini/programmi-guida/distretto6.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Distretto di polizia 6",
+      "inizio": "11:45",
+      "fine": "12:35",
+      "descrizione": "La sesta stagione inizia con un cambiamento nella guida del distretto: Giulia Corsi si trasferisce a Trieste per seguire il capitano dei Carabinieri Rea e il suo posto viene occupato da Roberto Ardenzi, che e anche al suo ultimo anno al distretto. Entrano nella squadra l'ispettore Irene Valli, Francesca Inaudi, e l'ispettore Alessandro Berti, Enrico Silvestrin.",
+      "immagine": "immagini/programmi-guida/distretto6.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Distretto di polizia 6",
+      "inizio": "12:35",
+      "fine": "13:25",
+      "descrizione": "La sesta stagione inizia con un cambiamento nella guida del distretto: Giulia Corsi si trasferisce a Trieste per seguire il capitano dei Carabinieri Rea e il suo posto viene occupato da Roberto Ardenzi, che e anche al suo ultimo anno al distretto. Entrano nella squadra l'ispettore Irene Valli, Francesca Inaudi, e l'ispettore Alessandro Berti, Enrico Silvestrin.",
+      "immagine": "immagini/programmi-guida/distretto6.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Carabinieri 5",
+      "inizio": "13:25",
+      "fine": "14:25",
+      "descrizione": "I Carabinieri di stanza a Città della Pieve, in Umbria, affrontano un duro lavoro quotidiano e sono costantemente alle prese con crimini e situazioni d'emergenza. Alle indagini si alternano le vicissitudini personali dei protagonisti.",
+      "immagine": "immagini/programmi-guida/carabinieri5.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Carabinieri 5",
+      "inizio": "14:25",
+      "fine": "15:20",
+      "descrizione": "I Carabinieri di stanza a Città della Pieve, in Umbria, affrontano un duro lavoro quotidiano e sono costantemente alle prese con crimini e situazioni d'emergenza. Alle indagini si alternano le vicissitudini personali dei protagonisti.",
+      "immagine": "immagini/programmi-guida/carabinieri5.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Cristina",
+      "inizio": "15:20",
+      "fine": "15:50",
+      "descrizione": "Cristina è una ragazza che, insieme ai suoi compagni di università, forma un complesso musicale. Si alternano così momenti musicali e studi in medicina, oltre alle vicende familiari divise tra ansie, gioie e delusioni.",
+      "immagine": "immagini/programmi-guida/cristina.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Tira & Molla",
+      "inizio": "15:50",
+      "fine": "16:50",
+      "descrizione": "Con Paolo Bonolis, Tira e Molla e' un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
+      "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zelig Circus",
+      "inizio": "16:50",
+      "fine": "19:20",
+      "descrizione": "Mago Forest e Teresa Mannino presentano Zelig Circus 2013. Il meglio della comicità italiana è pronta a farvi ridere come non mai.",
+      "immagine": "immagini/programmi-guida/zeligcircus2013.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sei forte, maestro!",
+      "inizio": "19:20",
+      "fine": "21:20",
+      "descrizione": "Emilio, Emilio Solfrizzi, maestro elementare, torna a vivere nella sua città natale per insegnare nella scuola 'Michelangelo', dove il suo grande amico Giulio, Massimo Ciavarro, è direttore. Emilio, grazie alla passione per il proprio lavoro e l'empatia con i suoi allievi, riuscirà sin da subito ad instaurare un ottimo rapporto con gli alunni.",
+      "immagine": "immagini/programmi-guida/seifortemaestro.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Scherzi a parte",
+      "inizio": "21:20",
+      "fine": "23:50",
+      "descrizione": "Condotto da Claudio Amendola, Teo Mammucari e Belen Rodríguez. Lo storico show di Canale 5 che prende di mira i personaggi famosi con scherzi irresistibili.",
+      "immagine": "immagini/programmi-guida/scherziaparte2009.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sarabanda",
+      "inizio": "23:50",
+      "fine": "00:20",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    }
+  ],
+
+  "2026-07-24": [
+    {  "titolo": "Avanti un altro!",
+      "inizio": "00:20",
+      "fine": "01:10",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "01:10",
+      "fine": "02:00",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Passaparola",
+      "inizio": "02:00",
+      "fine": "02:35",
+      "descrizione": "Gerry Scotti presenta il popolare quiz di Canale 5 in cui i concorrenti affrontano prove di cultura generale, memoria e rapidità. Il percorso culmina con il celebre gioco finale del '21', diventato uno dei simboli della trasmissione.",
+      "immagine": "immagini/programmi-guida/passaparola.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "02:35",
+      "fine": "03:20",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "03:20",
+      "fine": "04:05",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "04:05",
+      "fine": "04:50",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Mai dire Gallery",
+      "inizio": "04:50",
+      "fine": "05:45",
+      "descrizione": "Con la Gialappa's Band",
+      "immagine": "immagini/programmi-guida/maidiregallery.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Il mammo 2",
+      "inizio": "05:45",
+      "fine": "06:10",
+      "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
+      "immagine": "immagini/programmi-guida/ilmammo.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Casa dolce casa",
+      "inizio": "06:10",
+      "fine": "06:35",
+      "descrizione": "Segue le esperienze vissute in un appartamento, dove si svolgono le vicende di una famiglia insieme al portiere del condominio.",
+      "immagine": "immagini/programmi-guida/casadolcecasa.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Casa dolce casa",
+      "inizio": "06:35",
+      "fine": "07:00",
+      "descrizione": "Segue le esperienze vissute in un appartamento, dove si svolgono le vicende di una famiglia insieme al portiere del condominio.",
+      "immagine": "immagini/programmi-guida/casadolcecasa.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "CentoVetrine 2",
+      "inizio": "07:00",
+      "fine": "07:25",
+      "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
+      "immagine": "immagini/programmi-guida/centovetrine2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "CentoVetrine 2",
+      "inizio": "07:25",
+      "fine": "07:50",
+      "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
+      "immagine": "immagini/programmi-guida/centovetrine2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Vivere 2",
+      "inizio": "07:50",
+      "fine": "08:15",
+      "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
+      "immagine": "immagini/programmi-guida/vivere2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Vivere 2",
+      "inizio": "08:15",
+      "fine": "08:40",
+      "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
+      "immagine": "immagini/programmi-guida/vivere2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "The Wall",
+      "inizio": "08:40",
+      "fine": "09:35",
+      "descrizione": "Torna il mega tabellone luminoso da cui scendono le sfere che possono cambiare la vita dei concorrenti. Conduce Max Giusti.",
+      "immagine": "immagini/programmi-guida/thewall.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:35",
+      "fine": "09:45",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:45",
+      "fine": "09:50",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:50",
+      "fine": "09:55",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:55",
+      "fine": "10:00",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "10:00",
+      "fine": "10:05",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Don Luca",
+      "inizio": "10:05",
+      "fine": "10:30",
+      "descrizione": "Don Luca, viceparroco della chiesa di San Precotto, è un sacerdote fuori dagli schemi: ama il calcio, la musica rock e le moto. Con energia e fantasia, punta a coinvolgere i ragazzi nelle attività parrocchiali, portando in oratorio nuove idee e linguaggi vicini ai loro interessi.",
+      "immagine": "immagini/programmi-guida/donluca.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Don Luca",
+      "inizio": "10:30",
+      "fine": "10:55",
+      "descrizione": "Don Luca, viceparroco della chiesa di San Precotto, è un sacerdote fuori dagli schemi: ama il calcio, la musica rock e le moto. Con energia e fantasia, punta a coinvolgere i ragazzi nelle attività parrocchiali, portando in oratorio nuove idee e linguaggi vicini ai loro interessi.",
+      "immagine": "immagini/programmi-guida/donluca.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Distretto di polizia 6",
+      "inizio": "10:55",
+      "fine": "11:50",
+      "descrizione": "La sesta stagione inizia con un cambiamento nella guida del distretto: Giulia Corsi si trasferisce a Trieste per seguire il capitano dei Carabinieri Rea e il suo posto viene occupato da Roberto Ardenzi, che e anche al suo ultimo anno al distretto. Entrano nella squadra l'ispettore Irene Valli, Francesca Inaudi, e l'ispettore Alessandro Berti, Enrico Silvestrin.",
+      "immagine": "immagini/programmi-guida/distretto6.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Distretto di polizia 7",
+      "inizio": "11:50",
+      "fine": "12:45",
+      "descrizione": "Nella settima stagione, Roberto Ardenzi lascia il distretto per passare all'antimafia e la suo posto entra in scena il commissario Marcello Fontana, interpretato da Massimo Dapporto. Vi è anche l'ingresso nel cast di Max Giusti, nel ruolo dell'ispettore Raffaele Marchetti. In questa serie, il Commissario Fontana deve fare i conti con un'indagine riguardante la 'ndrangheta.",
+      "immagine": "immagini/programmi-guida/distretto7.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Carabinieri 5",
+      "inizio": "12:45",
+      "fine": "13:45",
+      "descrizione": "I Carabinieri di stanza a Città della Pieve, in Umbria, affrontano un duro lavoro quotidiano e sono costantemente alle prese con crimini e situazioni d'emergenza. Alle indagini si alternano le vicissitudini personali dei protagonisti.",
+      "immagine": "immagini/programmi-guida/carabinieri5.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Carabinieri 5",
+      "inizio": "13:45",
+      "fine": "14:45",
+      "descrizione": "I Carabinieri di stanza a Città della Pieve, in Umbria, affrontano un duro lavoro quotidiano e sono costantemente alle prese con crimini e situazioni d'emergenza. Alle indagini si alternano le vicissitudini personali dei protagonisti.",
+      "immagine": "immagini/programmi-guida/carabinieri5.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Cristina",
+      "inizio": "14:45",
+      "fine": "15:10",
+      "descrizione": "Cristina è una ragazza che, insieme ai suoi compagni di università, forma un complesso musicale. Si alternano così momenti musicali e studi in medicina, oltre alle vicende familiari divise tra ansie, gioie e delusioni.",
+      "immagine": "immagini/programmi-guida/cristina.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Cristina",
+      "inizio": "15:10",
+      "fine": "15:35",
+      "descrizione": "Cristina è una ragazza che, insieme ai suoi compagni di università, forma un complesso musicale. Si alternano così momenti musicali e studi in medicina, oltre alle vicende familiari divise tra ansie, gioie e delusioni.",
+      "immagine": "immagini/programmi-guida/cristina.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Cristina",
+      "inizio": "15:35",
+      "fine": "15:50",
+      "descrizione": "Cristina è una ragazza che, insieme ai suoi compagni di università, forma un complesso musicale. Si alternano così momenti musicali e studi in medicina, oltre alle vicende familiari divise tra ansie, gioie e delusioni.",
+      "immagine": "immagini/programmi-guida/cristina.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Tira & Molla",
+      "inizio": "15:50",
+      "fine": "16:50",
+      "descrizione": "Con Paolo Bonolis, Tira e Molla e' un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
+      "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zelig Circus",
+      "inizio": "16:50",
+      "fine": "19:20",
+      "descrizione": "Mago Forest e Teresa Mannino presentano Zelig Circus 2013. Il meglio della comicità italiana è pronta a farvi ridere come non mai.",
+      "immagine": "immagini/programmi-guida/zeligcircus2013.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sei forte, maestro!",
+      "inizio": "19:20",
+      "fine": "21:20",
+      "descrizione": "Emilio, Emilio Solfrizzi, maestro elementare, torna a vivere nella sua città natale per insegnare nella scuola 'Michelangelo', dove il suo grande amico Giulio, Massimo Ciavarro, è direttore. Emilio, grazie alla passione per il proprio lavoro e l'empatia con i suoi allievi, riuscirà sin da subito ad instaurare un ottimo rapporto con gli alunni.",
+      "immagine": "immagini/programmi-guida/seifortemaestro.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "La Corrida - Dilettanti allo sbaraglio",
+      "inizio": "21:20",
+      "fine": "23:30",
+      "descrizione": "Corrado presenta lo storico varietà dedicato ai 'dilettanti allo sbaraglio'. Tra esibizioni di canto, ballo, imitazioni e numeri curiosi, sarà il pubblico in studio, tra applausi, fischietti, campanacci e pentole, a decretare il successo dei concorrenti.",
+      "immagine": "immagini/programmi-guida/corrida.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sarabanda",
+      "inizio": "23:30",
+      "fine": "00:00",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    }
+  ],
+ 
   "2026-07-25": [
     {
       "titolo": "Sarabanda",
