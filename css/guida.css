@@ -383,6 +383,8 @@
 
 .programma{
 
+    position:absolute;
+
     height:80px;
 
     padding:12px;
