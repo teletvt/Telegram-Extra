@@ -713,7 +713,7 @@ setInterval(()=>{
     caricaProgrammi(new Date());
 
 
-},60000);
+},300000);
 
 
 
