@@ -1,24 +1,187 @@
 [
     {
-        "titolo": "Super Sarabanda",
-        "descrizione": "Questa sera alle 21:20 su Telegram Extra.",
-        "video": "video-promo/super-sarabanda.mp4",
+        "titolo": "Buon Capodanno",
+        "descrizione": "L’unico Capodanno che ti porta indietro nel tempo…con i tuoi migliori amici! Questa sera, alle 21:15, Buon Capodanno!",
+        "data": "31 dicembre 2023",
+        "video": "video-promo/buoncapodanno.mp4",
         "principale": true
     },
 
+    {
+        "titolo": "Avanti un altro! Day",
+        "descrizione": "Maratona per tutto il giorno, su Telegram Extra!",
+        "data": "5 settembre 2023",
+        "video": "video-promo/avantiunaltroday.mp4",
+        "principale": false
+    },
 
     {
-        "titolo": "Domenica in famiglia",
-        "descrizione": "Domenica alle 21:20 su Telegram Extra.",
-        "video": "video-promo/domenica.mp4",
+        "titolo": "D'Iva",
+        "descrizione": "Questa sera in prima serata.",
+        "data": "18 agosto 2023",
+        "video": "video-promo/diva.mp4",
+        "principale": false
+    },
+
+    {
+        "titolo": "Buon Natale 2022!",
+        "descrizione": "Gli auguri di Natale da parte di Telegram Extra, con i volti che riempiono le nostre giornate.",
+        "data": "25 dicembre 2022",
+        "video": "video-promo/auguridinatale2022.mp4",
+        "principale": false
+    },
+
+    {
+        "titolo": "Gerry Scotti Day",
+        "descrizione": "Maratona dedicata a Gerry Scotti, per tutto il giorno!",
+        "data": "6 agosto 2023",
+        "video": "video-promo/gerryscottiday.mp4",
+        "principale": false
+    },
+
+    {
+        "titolo": "Buone feste da Telegram Extra",
+        "descrizione": "Gli auguri per delle buone feste da parte di Telegram Extra",
+        "data": "6 dicembre 2022",
+        "video": "video-promo/buonefestedatelegramextra.mp4",
         "principale": false
     },
 
 
     {
-        "titolo": "Speciale Telegram Extra",
-        "descrizione": "Prossimamente.",
-        "video": "video-promo/speciale.mp4",
+        "titolo": "Zelig",
+        "descrizione": "Da giovedì 22 settembre in prima serata.",
+        "data": "21 settembre 2022",
+        "video": "video-promo/zelig2008.mp4",
+        "principale": false
+    },
+
+
+    {
+        "titolo": "Quarta Repubblica - Speciale vincitori e vinti",
+        "descrizione": "QUESTA SERA IN DIRETTA ASSOLUTA SU TELEGRAM EXTRA DALLE 21:15 FINO A QUESTA NOTTE SU TELEGRAM EXTRA",
+        "data": "25 settembre 2022",
+        "video": "video-promo/quartarepubblicavincitorievinti.mp4",
+        "principale": false
+    },
+
+
+    {
+        "titolo": "Felicissima sera",
+        "descrizione": "Questa sera in prima serata.",
+        "data": "30 agosto 2022",
+        "video": "video-promo/felicissimasera.mp4",
+        "principale": false
+    },
+
+
+    {
+        "titolo": "Prermiata Teleditta 2",
+        "descrizione": "DA VENERDÌ 26 AGOSTO ALLE 21:20 SU TELEGRAM EXTRA.",
+        "data": "20 agosto 2022",
+        "video": "video-promo/premiatateleditta2.mp4",
+        "principale": false
+    },
+
+    {
+        "titolo": "Prermiata Teleditta 2",
+        "descrizione": "DA DOMANI IN PRIMA SERATA SU TELEGRAM EXTRA.",
+        "data": "20 agosto 2022",
+        "video": "video-promo/secondopromoteleditta2.mp4",
+        "principale": false
+    },
+
+
+    {
+        "titolo": "Colorado",
+        "descrizione": "DOMANI IN PRIMA SERATA SU TELEGRAM EXTRA.",
+        "data": "17 agosto 2022",
+        "video": "video-promo/colorado.mp4",
+        "principale": false
+    },
+
+    {
+        "titolo": "Avanti un altro... pure di sera!",
+        "descrizione": "OGNI LUNEDÌ IN PRIMA SERATA SU TELEGRAM EXTRA.",
+        "data": "22 luglio 2022",
+        "video": "video-promo/avantiunaltropuredisera.mp4",
+        "principale": false
+    },
+
+
+    {
+        "titolo": "Avanti un altro... pure di sera!",
+        "descrizione": "Questa sera in prima serata.",
+        "data": "14 novembre 2022",
+        "video": "video-promo/puredisera2018.mp4",
+        "principale": false
+    },
+
+    {
+        "titolo": "Premiata Teleditta",
+        "descrizione": "OGNI VENERDÌ ALLE 21:25 SU TELEGRAM EXTRA.",
+        "data": "15 agosto 2022",
+        "video": "video-promo/premiatateleditta1.mp4",
+        "principale": false
+    },
+
+    {
+        "titolo": "Eurogames",
+        "descrizione": "DA DOMANI IN PRIMA SERATA SU TELEGRAM EXTRA.",
+        "data": "16 agosto 2022",
+        "video": "video-promo/eurogames.mp4",
+        "principale": false
+    },
+
+    {
+        "titolo": "I tre tenori",
+        "descrizione": "GIOVEDÌ IN PRIMA SERATA SU TELEGRAM EXTRA.",
+        "data": "29 giugno 2022",
+        "video": "video-promo/itretenori.mp4",
+        "principale": false
+    },
+
+    {
+        "titolo": "Raffaella Carrà Show",
+        "descrizione": "MERCOLEDÌ 29 GIUGNO IN PRIMA SERATA SU TELEGRAM EXTRA.",
+        "data": "20 giugno 2022",
+        "video": "video-promo/raffaellacarrashow.mp4",
+        "principale": false
+    },
+
+
+    {
+        "titolo": "Big Show",
+        "descrizione": "VENERDÌ IN PRIMA SERATA SU TELEGRAM EXTRA.",
+        "data": "30 giugno 2022",
+        "video": "video-promo/bigshowpapi.mp4",
+        "principale": false
+    },
+
+
+    {
+        "titolo": "Brignano con la 'O'",
+        "descrizione": "DOMANI IN PRIMA SERATA SU TELEGRAM EXTRA.",
+        "data": "14 giugno 2022",
+        "video": "video-promo/brignanoconlao.mp4",
+        "principale": false
+    },
+
+
+    {
+        "titolo": "Avanti un altro!",
+        "descrizione": "TUTTI I GIORNI ALLE 07:30 E ALLE 00:35 SU TELEGRAM EXTRA",
+        "data": "3 aprile 2022",
+        "video": "video-promo/avantiunaltropromo.mp4",
+        "principale": false
+    },
+
+
+    {
+        "titolo": "Telegram Extra Games",
+        "descrizione": "Domenica per tutto il giorno, su Telegram Extra.",
+        "data": "17 giugno 2022",
+        "video": "video-promo/telegramextragames.mp4",
         "principale": false
     }
 ]

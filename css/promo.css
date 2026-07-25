@@ -143,3 +143,10 @@ body {
     color:#d0d0d0;
 
 }
+
+.data-promo{
+    display:block;
+    font-size:12px;
+    color:#9caec4;
+    margin:5px 0 8px;
+}

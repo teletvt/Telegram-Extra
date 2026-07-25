@@ -38,6 +38,7 @@ contenitore.innerHTML += `
 
 <h3>${elemento.titolo}</h3>
 
+<small class="data-promo">${elemento.data}</small>
 
 <p>${elemento.descrizione}</p>
 
