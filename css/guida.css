@@ -389,6 +389,8 @@
 
     font-size:14px;
 
+    min-width:0;
+
     overflow:hidden;
 
     box-sizing:border-box;
@@ -404,7 +406,7 @@
 
 .programma strong{
 
-    font-size:16px;
+    font-size:15px;
 
     line-height:1.1;
 
@@ -423,7 +425,7 @@
 
 .programma span{
 
-    font-size:11px;
+    font-size:10px;
 
     display:block;
 

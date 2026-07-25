@@ -656,17 +656,13 @@ parseInt(fine[0])*60 +
 parseInt(fine[1]);
 
 
-
-
+// programma che supera la mezzanotte
 
 if(minutiFine <= minutiInizio){
 
-    minutiFine += 1440;
+    minutiFine = 1440;
 
 }
-
-
-
 
 
 let durata = minutiFine - minutiInizio;
@@ -681,7 +677,7 @@ let scala = 180;
 
 let larghezza = durata / 60 * scala;
 
-div.style.width = Math.max(larghezza, 90) + "px";
+div.style.width = Math.max(larghezza, 60) + "px";
 
 
 
