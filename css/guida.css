@@ -580,5 +580,36 @@
 }
 
 
+/* ==========================
+   POPUP PROGRAMMA GRANDE
+========================== */
+
+.popup-content {
+
+    width: 700px !important;
+    min-height: 520px !important;
+
+    padding: 30px !important;
+
+    box-sizing: border-box;
+
+}
+
+
+
+.popup-content img {
+
+    width: 584px !important;
+    height: 329px !important;
+
+    object-fit: contain !important;
+
+    background: #000;
+
+    border-radius: 12px;
+
+}
+
+
 
 }
