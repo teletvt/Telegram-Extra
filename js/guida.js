@@ -1,634 +1,775 @@
 // ==========================
-// APERTURA POPUP PROGRAMMA
+// POPUP PROGRAMMA
 // ==========================
+
 
 function apriProgramma(titolo, orario, descrizione, immagine) {
 
+
     document.getElementById("popup").style.display = "flex";
 
+
     document.getElementById("popup-titolo").innerHTML = titolo;
+
     document.getElementById("popup-orario").innerHTML = orario;
+
     document.getElementById("popup-descrizione").innerHTML = descrizione;
+
     document.getElementById("popup-img").src = immagine;
+
 
 }
 
 
-// ==========================
-// CHIUSURA POPUP
-// ==========================
 
-function chiudiProgramma() {
+
+
+function chiudiProgramma(){
+
 
     document.getElementById("popup").style.display = "none";
 
+
 }
+
+
+
+
+
+// chiusura con X
+
+document.addEventListener("DOMContentLoaded",()=>{
+
+
+    const pulsante = document.getElementById("chiudi-popup");
+
+
+    if(pulsante){
+
+
+        pulsante.onclick = function(){
+
+
+            chiudiProgramma();
+
+
+        };
+
+
+    }
+
+
+
+});
+
+
+
+
+
+
+
 
 
 // ==========================
 // SCORRIMENTO TIMELINE
 // ==========================
 
+
 const timeline = document.querySelector(".timeline");
 
+
 let premuto = false;
+
 let posizioneInizio;
+
 let scrollInizio;
 
 
-if (timeline) {
+
+if(timeline){
 
 
-    timeline.addEventListener("mousedown", e => {
-
-        premuto = true;
-
-        posizioneInizio =
-            e.pageX - timeline.offsetLeft;
-
-        scrollInizio =
-            timeline.scrollLeft;
-
-    });
+timeline.addEventListener("mousedown",e=>{
 
 
-    timeline.addEventListener("mouseleave", () => {
-
-        premuto = false;
-
-    });
+    premuto=true;
 
 
-    timeline.addEventListener("mouseup", () => {
-
-        premuto = false;
-
-    });
+    posizioneInizio=e.pageX-timeline.offsetLeft;
 
 
-    timeline.addEventListener("mousemove", e => {
-
-        if (!premuto) return;
-
-        e.preventDefault();
-
-        let posizione =
-            e.pageX - timeline.offsetLeft;
-
-        let movimento =
-            (posizione - posizioneInizio) * 2;
+    scrollInizio=timeline.scrollLeft;
 
 
-        timeline.scrollLeft =
-            scrollInizio - movimento;
+});
 
-    });
+
+
+timeline.addEventListener("mouseleave",()=>{
+
+
+    premuto=false;
+
+
+});
+
+
+
+timeline.addEventListener("mouseup",()=>{
+
+
+    premuto=false;
+
+
+});
+
+
+
+timeline.addEventListener("mousemove",e=>{
+
+
+    if(!premuto)return;
+
+
+    e.preventDefault();
+
+
+    let posizione=e.pageX-timeline.offsetLeft;
+
+
+    let movimento=(posizione-posizioneInizio)*2;
+
+
+    timeline.scrollLeft=scrollInizio-movimento;
+
+
+});
+
 
 }
+
+
+
+
+
+
+
 
 
 // ==========================
 // DATA ATTUALE
 // ==========================
 
-let oggi = new Date();
 
-const giorniVisibili = 7;
+let oggi=new Date();
+
+
+const giorniVisibili=7;
+
+
+
+
+
+
+
 
 
 // ==========================
-// CREA GIORNI DINAMICI
+// CREA GIORNI
 // ==========================
 
-function creaGiorni() {
 
-    const contenitore =
-        document.getElementById("giorni-container");
+function creaGiorni(){
 
 
-    contenitore.innerHTML = "";
-
-    oggi = new Date();
+const contenitore=document.getElementById("giorni-container");
 
 
-    for (
-        let i = -giorniVisibili;
-        i <= giorniVisibili;
-        i++
-    ) {
+contenitore.innerHTML="";
 
 
-        let giorno = new Date(oggi);
-
-        giorno.setDate(
-            oggi.getDate() + i
-        );
+oggi=new Date();
 
 
-        let nome;
+
+for(let i=-giorniVisibili;i<=giorniVisibili;i++){
 
 
-        if (i === 0) {
-
-            nome = "OGGI";
-
-        } else {
-
-            nome =
-                giorno.toLocaleDateString(
-                    "it-IT",
-                    {
-                        weekday: "short"
-                    }
-                ).toUpperCase();
-
-        }
+let giorno=new Date(oggi);
 
 
-        let bottone =
-            document.createElement("button");
+giorno.setDate(
+    oggi.getDate()+i
+);
 
 
-        bottone.innerHTML =
-            nome +
-            "<br>" +
-            giorno.getDate();
+
+let nome;
 
 
-        bottone.onclick = function() {
 
-            selezionaGiorno(
-                giorno,
-                bottone
-            );
-
-        };
+if(i===0){
 
 
-        if (i === 0) {
-
-            bottone.classList.add(
-                "giorno-attivo"
-            );
-
-        }
+nome="OGGI";
 
 
-        contenitore.appendChild(
-            bottone
-        );
+}else{
 
+
+nome=giorno.toLocaleDateString(
+    "it-IT",
+    {
+        weekday:"short"
     }
+).toUpperCase();
+
 
 }
+
+
+
+let bottone=document.createElement("button");
+
+
+
+bottone.innerHTML=
+nome+
+"<br>"+
+giorno.getDate();
+
+
+
+bottone.onclick=function(){
+
+
+selezionaGiorno(
+    giorno,
+    bottone
+);
+
+
+};
+
+
+
+if(i===0){
+
+
+bottone.classList.add("giorno-attivo");
+
+
+}
+
+
+
+contenitore.appendChild(bottone);
+
+
+
+}
+
+
+
+}
+
+
+
+
+
+
+
 
 
 // ==========================
 // SELEZIONE GIORNO
 // ==========================
 
-function selezionaGiorno(
-    giorno,
-    bottone
-) {
+
+function selezionaGiorno(giorno,bottone){
 
 
-    document
-        .querySelectorAll(
-            "#giorni-container button"
-        )
-        .forEach(b => {
-
-            b.classList.remove(
-                "giorno-attivo"
-            );
-
-        });
+document
+.querySelectorAll("#giorni-container button")
+.forEach(b=>{
 
 
-    bottone.classList.add(
-        "giorno-attivo"
-    );
+b.classList.remove("giorno-attivo");
 
 
-    caricaProgrammi(giorno);
+});
+
+
+
+bottone.classList.add("giorno-attivo");
+
+
+
+caricaProgrammi(giorno);
+
+
 
 }
 
 
+
+
+
+
+
+
+
 // ==========================
-// CONTROLLO PROGRAMMA IN ONDA
+// PROGRAMMA IN ONDA
 // ==========================
 
-function programmaInOnda(
-    inizio,
-    fine
-) {
+
+function programmaInOnda(inizio,fine){
 
 
-    let adesso = new Date();
+let adesso=new Date();
 
 
-    let minutiAttuali =
-        adesso.getHours() * 60 +
-        adesso.getMinutes();
+let minutiAttuali=
+adesso.getHours()*60+
+adesso.getMinutes();
 
 
-    let a = inizio.split(":");
 
-    let b = fine.split(":");
+let a=inizio.split(":");
 
-
-    let minutiInizio =
-        parseInt(a[0]) * 60 +
-        parseInt(a[1]);
+let b=fine.split(":");
 
 
-    let minutiFine =
-        parseInt(b[0]) * 60 +
-        parseInt(b[1]);
+
+let minutiInizio=
+parseInt(a[0])*60+
+parseInt(a[1]);
 
 
-    if (minutiFine < minutiInizio) {
 
-        minutiFine += 1440;
-
-
-        if (minutiAttuali < minutiInizio) {
-
-            minutiAttuali += 1440;
-
-        }
-
-    }
+let minutiFine=
+parseInt(b[0])*60+
+parseInt(b[1]);
 
 
-    return (
-        minutiAttuali >= minutiInizio &&
-        minutiAttuali < minutiFine
-    );
+
+
+if(minutiFine<minutiInizio){
+
+
+minutiFine+=1440;
+
+
+if(minutiAttuali<minutiInizio){
+
+minutiAttuali+=1440;
 
 }
 
 
-// ==========================
-// CREA ORARI 24 ORE
-// ==========================
-
-function creaOrari() {
-
-    const contenitore =
-        document.getElementById("orari");
+}
 
 
-    contenitore.innerHTML = "";
 
+return(
+minutiAttuali>=minutiInizio &&
+minutiAttuali<minutiFine
+);
 
-    for (let ora = 0; ora < 24; ora++) {
-
-
-        let span =
-            document.createElement("span");
-
-
-        span.innerHTML =
-            ora
-                .toString()
-                .padStart(2, "0") +
-            ":00";
-
-
-        contenitore.appendChild(
-            span
-        );
-
-    }
 
 }
 
 
+
+
+
+
+
+
+
 // ==========================
-// CARICAMENTO PROGRAMMI JSON
+// CREA ORARI
 // ==========================
 
-function caricaProgrammi(giorno) {
 
-    const lista =
-        document.getElementById(
-            "lista-programmi"
-        );
+function creaOrari(){
 
 
-    const titolo =
-        document.getElementById(
-            "giorno-selezionato"
-        );
+const contenitore=document.getElementById("orari");
 
 
-    let data =
-        giorno.getFullYear() +
-        "-" +
-        String(
-            giorno.getMonth() + 1
-        ).padStart(2, "0") +
-        "-" +
-        String(
-            giorno.getDate()
-        ).padStart(2, "0");
+contenitore.innerHTML="";
 
 
-    if (
 
-        giorno.getDate() === oggi.getDate() &&
+for(let ora=0;ora<24;ora++){
 
-        giorno.getMonth() === oggi.getMonth() &&
 
-        giorno.getFullYear() === oggi.getFullYear()
+let span=document.createElement("span");
 
-    ) {
 
-        titolo.innerHTML =
-            "Programmazione di oggi";
+span.innerHTML=
+ora.toString().padStart(2,"0")
++":00";
 
-    } else {
 
-        titolo.innerHTML =
-            "Programmazione di " +
-            giorno.toLocaleDateString(
-                "it-IT",
-                {
-                    weekday: "long",
-                    day: "numeric",
-                    month: "long"
-                }
-            );
 
-    }
+contenitore.appendChild(span);
 
-
-    fetch(
-        "programmi.json?v=" + Date.now()
-    )
-
-    .then(response => response.json())
-
-    .then(dati => {
-
-
-        lista.innerHTML = "";
-
-        creaOrari();
-
-
-        let programmiGiorno =
-            dati[data] || [];
-
-
-        if (programmiGiorno.length === 0) {
-
-            lista.innerHTML =
-                "<p>Nessun programma disponibile.</p>";
-
-            return;
-
-        }
-
-
-        programmiGiorno.forEach(
-            programma => {
-
-
-                let div =
-                    document.createElement(
-                        "div"
-                    );
-
-
-                // ==========================
-                // CONTROLLO IN ONDA
-                // ==========================
-
-                let inOnda = false;
-
-
-                if (
-
-                    giorno.getDate() === oggi.getDate() &&
-
-                    giorno.getMonth() === oggi.getMonth() &&
-
-                    giorno.getFullYear() === oggi.getFullYear()
-
-                ) {
-
-
-                    inOnda =
-                        programmaInOnda(
-                            programma.inizio,
-                            programma.fine
-                        );
-
-                }
-
-
-                div.className =
-                    inOnda
-                        ? "programma in-onda"
-                        : "programma";
-
-
-                div.innerHTML = `
-
-                    <strong>
-                        ${programma.titolo}
-                    </strong>
-
-                    <span>
-                        ${programma.inizio}
-                        -
-                        ${programma.fine}
-                    </span>
-
-                    ${
-                        inOnda
-                        ? "<small>🔴 IN ONDA</small>"
-                        : ""
-                    }
-
-                `;
-
-
-                // ==========================
-                // CALCOLO TIMELINE
-                // ==========================
-
-                let inizio =
-                    programma.inizio.split(":");
-
-
-                let fine =
-                    programma.fine.split(":");
-
-
-                let minutiInizio =
-                    parseInt(inizio[0]) * 60 +
-                    parseInt(inizio[1]);
-
-
-                let minutiFine =
-                    parseInt(fine[0]) * 60 +
-                    parseInt(fine[1]);
-
-
-                // gestione programmi dopo mezzanotte
-
-                if (
-                    minutiFine <= minutiInizio
-                ) {
-
-                    minutiFine = 1440;
-
-                }
-
-
-                let durata =
-                    minutiFine - minutiInizio;
-
-
-                // scala coerente con il CSS
-
-                let scala = 120;
-
-
-                // evita valori negativi
-
-                if (durata <= 0) {
-
-                    return;
-
-                }
-
-
-                let larghezza =
-                    (durata / 60) * scala;
-
-
-                // minimo per programmi brevissimi
-
-                if (larghezza < 20) {
-
-                    larghezza = 20;
-
-                }
-
-
-                div.style.width =
-                    larghezza + "px";
-
-
-                div.style.left =
-                    (
-                        minutiInizio /
-                        60 *
-                        scala
-                    ) + "px";
-
-
-                // ==========================
-                // POPUP
-                // ==========================
-
-                div.onclick = function() {
-
-                    apriProgramma(
-
-                        programma.titolo,
-
-                        programma.inizio +
-                        " - " +
-                        programma.fine,
-
-                        programma.descrizione,
-
-                        programma.immagine
-
-                    );
-
-                };
-
-
-                lista.appendChild(div);
-
-            }
-
-        );
-
-    })
-
-    .catch(errore => {
-
-        console.log(
-            "Errore caricamento programmi:",
-            errore
-        );
-
-    });
 
 }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+// ==========================
+// CARICA PROGRAMMI
+// ==========================
+
+
+function caricaProgrammi(giorno){
+
+
+
+const lista=document.getElementById("lista-programmi");
+
+
+const titolo=document.getElementById("giorno-selezionato");
+
+
+
+
+
+let data=
+
+giorno.getFullYear()
++"-"+
+String(giorno.getMonth()+1).padStart(2,"0")
++"-"+
+String(giorno.getDate()).padStart(2,"0");
+
+
+
+
+
+
+if(
+
+giorno.getDate()===oggi.getDate()
+&&
+giorno.getMonth()===oggi.getMonth()
+&&
+giorno.getFullYear()===oggi.getFullYear()
+
+){
+
+
+titolo.innerHTML="Programmazione di oggi";
+
+
+}else{
+
+
+titolo.innerHTML=
+"Programmazione di "+
+giorno.toLocaleDateString(
+"it-IT",
+{
+weekday:"long",
+day:"numeric",
+month:"long"
+}
+);
+
+
+}
+
+
+
+
+
+
+fetch("programmi.json?v="+Date.now())
+
+
+.then(r=>r.json())
+
+
+.then(dati=>{
+
+
+
+lista.innerHTML="";
+
+
+creaOrari();
+
+
+
+let programmiGiorno=dati[data] || [];
+
+
+
+if(programmiGiorno.length===0){
+
+
+lista.innerHTML=
+"<p>Nessun programma disponibile.</p>";
+
+
+return;
+
+
+}
+
+
+
+
+
+programmiGiorno.forEach(programma=>{
+
+
+
+let div=document.createElement("div");
+
+
+
+let inOnda=false;
+
+
+
+if(
+
+giorno.getDate()===oggi.getDate()
+&&
+giorno.getMonth()===oggi.getMonth()
+&&
+giorno.getFullYear()===oggi.getFullYear()
+
+){
+
+
+inOnda=programmaInOnda(
+programma.inizio,
+programma.fine
+);
+
+
+}
+
+
+
+
+
+div.className=
+inOnda
+?
+"programma in-onda"
+:
+"programma";
+
+
+
+
+
+
+div.innerHTML=`
+
+<strong>${programma.titolo}</strong>
+
+<span>
+${programma.inizio} - ${programma.fine}
+</span>
+
+${inOnda ? "<small>🔴 IN ONDA</small>" : ""}
+
+`;
+
+
+
+
+
+
+
+// larghezza timeline
+
+
+let inizio=programma.inizio.split(":");
+
+let fine=programma.fine.split(":");
+
+
+
+let minutiInizio=
+parseInt(inizio[0])*60+
+parseInt(inizio[1]);
+
+
+
+let minutiFine=
+parseInt(fine[0])*60+
+parseInt(fine[1]);
+
+
+
+if(minutiFine<=minutiInizio){
+
+minutiFine=1440;
+
+}
+
+
+
+let durata=minutiFine-minutiInizio;
+
+
+
+let scala=120;
+
+
+
+div.style.width=
+((durata/60)*scala)
++"px";
+
+
+
+div.style.left=
+((minutiInizio/60)*scala)
++"px";
+
+
+
+
+
+
+div.onclick=function(){
+
+
+apriProgramma(
+
+programma.titolo,
+
+programma.inizio+
+" - "+
+programma.fine,
+
+programma.descrizione,
+
+programma.immagine
+
+);
+
+
+
+};
+
+
+
+
+
+lista.appendChild(div);
+
+
+
+});
+
+
+
+})
+
+
+
+.catch(e=>console.log(
+"Errore programmi:",
+e
+));
+
+
+}
+
+
+
+
+
+
+
 
 
 // ==========================
 // AVVIO
 // ==========================
 
+
 creaGiorni();
+
 
 caricaProgrammi(oggi);
 
 
-// ==========================
-// AGGIORNAMENTO IN ONDA
-// OGNI 5 MINUTI
-// ==========================
 
-setInterval(() => {
 
-    caricaProgrammi(
-        new Date()
-    );
 
-}, 300000);
+
+
 
 
 // ==========================
-// CAMBIO AUTOMATICO GIORNO
+// AGGIORNAMENTI
 // ==========================
 
-setInterval(() => {
 
-    let nuovaData =
-        new Date();
+setInterval(()=>{
 
 
-    if (
-
-        nuovaData.getDate() !== oggi.getDate() ||
-
-        nuovaData.getMonth() !== oggi.getMonth() ||
-
-        nuovaData.getFullYear() !== oggi.getFullYear()
-
-    ) {
+caricaProgrammi(new Date());
 
 
-        oggi = nuovaData;
+},300000);
 
 
-        creaGiorni();
-
-        caricaProgrammi(oggi);
-
-    }
 
 
-}, 60000);
+
+setInterval(()=>{
+
+
+let nuovaData=new Date();
+
+
+
+if(
+
+nuovaData.getDate()!==oggi.getDate()
+||
+nuovaData.getMonth()!==oggi.getMonth()
+||
+nuovaData.getFullYear()!==oggi.getFullYear()
+
+){
+
+
+oggi=nuovaData;
+
+
+creaGiorni();
+
+
+caricaProgrammi(oggi);
+
+
+}
+
+
+
+},60000);
