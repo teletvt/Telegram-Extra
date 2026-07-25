@@ -38,29 +38,41 @@ function chiudiProgramma(){
 
 // chiusura con X
 
-document.addEventListener("DOMContentLoaded",()=>{
+const pulsanteChiudi = document.getElementById("chiudi-popup");
 
 
-    const pulsante = document.getElementById("chiudi-popup");
+if(pulsanteChiudi){
 
 
-    if(pulsante){
+    pulsanteChiudi.addEventListener("click", function(e){
 
 
-        pulsante.onclick = function(){
+        e.stopPropagation();
 
 
-            chiudiProgramma();
+        chiudiProgramma();
 
 
-        };
-
-
-    }
+    });
 
 
 
-});
+    pulsanteChiudi.addEventListener("touchend", function(e){
+
+
+        e.preventDefault();
+
+
+        e.stopPropagation();
+
+
+        chiudiProgramma();
+
+
+    });
+
+
+}
 
 
 

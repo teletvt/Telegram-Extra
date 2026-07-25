@@ -861,3 +861,30 @@ nav a {
 
 
 }
+
+
+.chiudi {
+
+    position:absolute;
+
+    top:10px;
+
+    right:20px;
+
+    width:45px;
+
+    height:45px;
+
+    line-height:40px;
+
+    text-align:center;
+
+    font-size:35px;
+
+    color:white;
+
+    cursor:pointer;
+
+    z-index:9999;
+
+}
