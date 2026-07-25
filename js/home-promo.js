@@ -18,7 +18,9 @@ const promo = await risposta.json();
 
 
 
-promo.forEach(elemento => {
+/* MOSTRA SOLO I PRIMI 3 PROMO */
+
+promo.slice(0,3).forEach(elemento => {
 
 
 contenitore.innerHTML += `
@@ -38,7 +40,9 @@ contenitore.innerHTML += `
 
 <h3>${elemento.titolo}</h3>
 
-<small class="data-promo">${elemento.data}</small>
+
+<small class="data-promo">${elemento.data || ""}</small>
+
 
 <p>${elemento.descrizione}</p>
 

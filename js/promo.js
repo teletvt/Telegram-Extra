@@ -1,82 +1,180 @@
 async function caricaPromo() {
 
+
     const contenitore = document.getElementById("lista-promo");
     const principale = document.getElementById("promo-principale");
 
+
     try {
 
+
         const risposta = await fetch("dati/promo.json");
+
         const promo = await risposta.json();
 
-        contenitore.innerHTML = "";
+
+        let promoAttuale = promo.find(p => p.principale === true);
+
+
 
         function mostraPromoPrincipale(elemento) {
 
+
             principale.innerHTML = `
 
-                <video controls autoplay muted>
-                    <source src="${elemento.video}" type="video/mp4">
-                </video>
+            <video controls autoplay>
 
-                <h2>${elemento.titolo}</h2>
+                <source src="${elemento.video}" type="video/mp4">
 
-                <small class="data-promo">${elemento.data}</small>
+            </video>
 
-                <p>${elemento.descrizione}</p>
 
-            `;
+            <h2>${elemento.titolo}</h2>
 
-        }
 
-        // promo principale iniziale
-        const promoPrincipale = promo.find(p => p.principale === true);
+            <small class="data-promo">
+                ${elemento.data || ""}
+            </small>
 
-        if (promoPrincipale) {
-            mostraPromoPrincipale(promoPrincipale);
-        }
 
-        // lista promo
-        promo.forEach(elemento => {
-
-            const scheda = document.createElement("div");
-
-            scheda.className = "scheda-promo";
-
-            scheda.innerHTML = `
-
-                <video controls>
-                    <source src="${elemento.video}" type="video/mp4">
-                </video>
-
-                <h3>${elemento.titolo}</h3>
-
-                <small class="data-promo">${elemento.data}</small>
-
-                <p>${elemento.descrizione}</p>
+            <p>
+                ${elemento.descrizione}
+            </p>
 
             `;
 
-            scheda.addEventListener("click", () => {
 
-                mostraPromoPrincipale(elemento);
+        }
 
-                principale.scrollIntoView({
-                    behavior: "smooth",
-                    block: "start"
-                });
+
+
+
+        function aggiornaLista(){
+
+
+            contenitore.innerHTML = "";
+
+
+
+            promo.forEach(elemento => {
+
+
+                // nasconde solo quello attualmente principale
+
+                if(elemento.video !== promoAttuale.video){
+
+
+
+                    contenitore.innerHTML += `
+
+
+                    <div class="scheda-promo"
+                    onclick="apriPromo('${elemento.video}')">
+
+
+                        <div class="anteprima-promo">
+
+                            ▶
+
+                        </div>
+
+
+                        <h3>
+                            ${elemento.titolo}
+                        </h3>
+
+
+                        <small class="data-promo">
+                            ${elemento.data || ""}
+                        </small>
+
+
+                        <p>
+                            ${elemento.descrizione}
+                        </p>
+
+
+                    </div>
+
+
+                    `;
+
+
+                }
+
 
             });
 
-            contenitore.appendChild(scheda);
 
-        });
+        }
 
-    } catch (errore) {
 
-        console.log("Errore caricamento promo:", errore);
+
+
+
+
+        window.apriPromo = function(video){
+
+
+            const nuovoPromo =
+            promo.find(p => p.video === video);
+
+
+
+            if(nuovoPromo){
+
+
+                promoAttuale = nuovoPromo;
+
+
+                mostraPromoPrincipale(nuovoPromo);
+
+
+                aggiornaLista();
+
+
+                window.scrollTo({
+
+                    top:0,
+
+                    behavior:"smooth"
+
+                });
+
+
+            }
+
+
+        };
+
+
+
+
+
+
+        // AVVIO
+
+        mostraPromoPrincipale(promoAttuale);
+
+        aggiornaLista();
+
+
+
+
+    } catch(errore){
+
+
+        console.log(
+            "Errore caricamento promo:",
+            errore
+        );
+
 
     }
 
+
 }
+
+
 
 caricaPromo();
