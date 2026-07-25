@@ -381,7 +381,6 @@
 }
 
 
-
 .programma{
 
     height:80px;
@@ -390,6 +389,26 @@
 
     font-size:14px;
 
+    overflow:hidden;
+
+    box-sizing:border-box;
+
+}
+
+
+
+.programma strong{
+
+    font-size:16px;
+
+    line-height:1.1;
+
+    white-space:nowrap;
+
+    overflow:hidden;
+
+    text-overflow:ellipsis;
+
 }
 
 
@@ -397,6 +416,12 @@
 .programma span{
 
     font-size:11px;
+
+    white-space:nowrap;
+
+    overflow:hidden;
+
+    text-overflow:ellipsis;
 
 }
 
