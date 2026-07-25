@@ -11,7 +11,7 @@ if (!contenitore) return;
 try {
 
 
-const risposta = await fetch("dati/promo.json");
+const risposta = await fetch("dati/promo.json?v=2");
 
 
 const promo = await risposta.json();
@@ -19,6 +19,7 @@ const promo = await risposta.json();
 
 
 /* MOSTRA SOLO I PRIMI 3 PROMO */
+
 
 promo.slice(0,3).forEach(elemento => {
 
