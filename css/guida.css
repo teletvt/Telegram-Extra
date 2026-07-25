@@ -393,8 +393,13 @@
 
     box-sizing:border-box;
 
-}
+    display:flex;
 
+    flex-direction:column;
+
+    justify-content:center;
+
+}
 
 
 .programma strong{
@@ -403,23 +408,30 @@
 
     line-height:1.1;
 
-    white-space:nowrap;
+    display:block;
+
+    width:100%;
 
     overflow:hidden;
+
+    white-space:nowrap;
 
     text-overflow:ellipsis;
 
 }
 
 
-
 .programma span{
 
     font-size:11px;
 
-    white-space:nowrap;
+    display:block;
+
+    width:100%;
 
     overflow:hidden;
+
+    white-space:nowrap;
 
     text-overflow:ellipsis;
 

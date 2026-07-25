@@ -679,9 +679,9 @@ let scala = 180;
 
 // larghezza programma
 
-div.style.width =
+let larghezza = durata / 60 * scala;
 
-(durata / 60 * scala) + "px";
+div.style.width = Math.max(larghezza, 90) + "px";
 
 
 
