@@ -1,35 +1,35 @@
 {
   "2026-07-25": [
     {
-      "titolo": "TG Extra",
-      "inizio": "18:00",
-      "fine": "18:30",
-      "descrizione": "Tutte le principali notizie della giornata.",
-      "immagine": "immagini/programmi-guida/tg-extra.jpg",
+      "titolo": "I cinque del quinto piano",
+      "inizio": "06:00",
+      "fine": "10:15",
+      "descrizione": "Periferia milanese, metà anni Ottanta. Fuori la 'Milano da bere', dentro al quinto piano i Sandri trasformano la quotidianità in commedia: tasse universitarie, scioperi a scuola, sogni calcistici, colf imprevedibili e vicini invadenti. Equivoci, ironia e soluzioni creative a ogni puntata.",
+      "immagine": "immagini/programmi-guida/icinquedelquintopiano.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Quiz del Sabato",
-      "inizio": "18:30",
-      "fine": "20:00",
-      "descrizione": "Il quiz più divertente di Telegram Extra.",
-      "immagine": "immagini/programmi-guida/quiz.jpg",
+      "titolo": "Festivalbar 1983 - La partenza",
+      "inizio": "10:15",
+      "fine": "12:15",
+      "descrizione": "Riviviamo le note e i personaggi degli anni 80 proposti nel popolare programma musicale del periodo.",
+      "immagine": "immagini/programmi-guida/festivalbar1983lapartenza.jpeg",
       "inOnda": false
     },
     {
-      "titolo": "Super Sarabanda",
-      "inizio": "21:20",
-      "fine": "23:30",
-      "descrizione": "Il grande appuntamento musicale di Telegram Extra.",
-      "immagine": "immagini/programmi-guida/super-sarabanda.jpg",
-      "inOnda": true
+      "titolo": "Tira & Molla",
+      "inizio": "12:15",
+      "fine": "13:10",
+      "descrizione": "Con Paolo Bonolis, Tira e Molla e' un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
+      "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
+      "inOnda": false
     },
     {
-      "titolo": "Film",
-      "inizio": "23:30",
-      "fine": "01:00",
-      "descrizione": "Una grande prima visione.",
-      "immagine": "immagini/programmi-guida/film.jpg",
+      "titolo": "Ok, il prezzo è giusto!",
+      "inizio": "13:10",
+      "fine": "15:00",
+      "descrizione": "Il celebre gioco a premi degli anni '90 con Gigi Sabani torna con le sue sfide indimenticabili: concorrenti, giochi, la mitica ruota e la sfida finale per aggiudicarsi fantastici premi indovinando il prezzo esatto degli oggetti in palio.",
+      "immagine": "immagini/programmi-guida/okilprezzoegiustosabani.jpeg",
       "inOnda": false
     }
   ],
