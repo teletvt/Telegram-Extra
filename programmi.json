@@ -1,70 +1,6 @@
 {
   "2026-07-25": [
     {
-      "titolo": "Sarabanda",
-      "inizio": "00:00",
-      "fine": "00:30",
-      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
-      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
-      "inOnda": false
-    },
-    {
-      "titolo": "Avanti un altro!",
-      "inizio": "00:30",
-      "fine": "01:20",
-      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
-      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
-      "inOnda": false
-    },
-    {
-      "titolo": "Avanti un altro!",
-      "inizio": "01:20",
-      "fine": "02:10",
-      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
-      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
-      "inOnda": false
-    },
-    {
-      "titolo": "Passaparola",
-      "inizio": "02:10",
-      "fine": "03:15",
-      "descrizione": "Gerry Scotti presenta il popolare quiz di Canale 5 in cui i concorrenti affrontano prove di cultura generale, memoria e rapidità. Il percorso culmina con il celebre gioco finale del '21', diventato uno dei simboli della trasmissione.",
-      "immagine": "immagini/programmi-guida/passaparola.jpg",
-      "inOnda": false
-    },
-    {
-      "titolo": "Zig Zag",
-      "inizio": "03:15",
-      "fine": "04:00",
-      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
-      "immagine": "immagini/programmi-guida/zigzag.jpg",
-      "inOnda": false
-    },
-    {
-      "titolo": "Zig Zag",
-      "inizio": "04:00",
-      "fine": "04:45",
-      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
-      "immagine": "immagini/programmi-guida/zigzag.jpg",
-      "inOnda": false
-    },
-    {
-      "titolo": "Mai dire Gallery",
-      "inizio": "04:45",
-      "fine": "05:40",
-      "descrizione": "Con la Gialappa's Band",
-      "immagine": "immagini/programmi-guida/maidiregallery.jpg",
-      "inOnda": false
-    },
-    {
-      "titolo": "Il mammo 2",
-      "inizio": "05:40",
-      "fine": "06:00",
-      "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
-      "immagine": "immagini/programmi-guida/ilmammo.jpg",
-      "inOnda": false
-    }
-    {
       "titolo": "I cinque del quinto piano",
       "inizio": "06:00",
       "fine": "10:15",
@@ -221,5 +157,4 @@
       "inOnda": false
     }
   ]
-
 }
