@@ -549,6 +549,36 @@
 
 }
 
+/* ==========================
+   NUOVO POPUP GUIDA TV
+========================== */
+
+.popup-content {
+
+    width: 650px !important;
+
+    height: 500px !important;
+
+    padding: 30px;
+
+    box-sizing: border-box;
+
+}
+
+
+
+.popup-content img {
+
+    width: 584px !important;
+
+    height: 329px !important;
+
+    object-fit: contain !important;
+
+    background: #000;
+
+}
+
 
 
 }
