@@ -375,57 +375,28 @@
 
 
 .programmi{
-    position:relative;
-   
-    width:2880px;
-   
-    height:100px;
+
+    width:2880px; /* 24 ore × 120px */
 
 }
+
 
 
 .programma{
-    position:absolute;
+
     height:80px;
+
     padding:12px;
+
     font-size:14px;
-    overflow:hidden;
-    box-sizing:border-box;
-}
-
-
-.programma strong{
-
-    font-size:15px;
-
-    line-height:1.1;
-
-    display:block;
-
-    width:100%;
-
-    overflow:hidden;
-
-    white-space:nowrap;
-
-    text-overflow:ellipsis;
 
 }
+
 
 
 .programma span{
 
-    font-size:10px;
-
-    display:block;
-
-    width:100%;
-
-    overflow:hidden;
-
-    white-space:nowrap;
-
-    text-overflow:ellipsis;
+    font-size:11px;
 
 }
 
