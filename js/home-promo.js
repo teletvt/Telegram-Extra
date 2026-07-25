@@ -1,10 +1,9 @@
 async function caricaPromoHome() {
 
+alert("HOME PROMO AGGIORNATA");
+
 
 const contenitore = document.getElementById("lista-promo-home");
-
-
-if (!contenitore) return;
 
 
 
