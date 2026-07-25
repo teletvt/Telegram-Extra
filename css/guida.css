@@ -156,7 +156,7 @@
 
     position:relative;
 
-    width:2880px; /* 24 ore × 120px */
+    width:2880px;
 
     height:130px;
 
@@ -359,11 +359,17 @@
 
     color:#cbd5e1;
 
-    line-height:1.5;
+    line-height:1.35;
 
-    max-height:80px;
+    font-size:14px;
 
-    overflow-y:auto;
+    overflow:hidden;
+
+    display:-webkit-box;
+
+    -webkit-line-clamp:5;
+
+    -webkit-box-orient:vertical;
 
 }
 
@@ -538,7 +544,9 @@
 
 .popup-content p {
 
-    max-height:120px;
+    font-size:13px;
+
+    -webkit-line-clamp:6;
 
 }
 
