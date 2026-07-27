@@ -1956,56 +1956,40 @@
       "inOnda": false
     },
     {
-      "titolo": "Cristina",
+      "titolo": "La ruota della fortuna",
       "inizio": "14:45",
-      "fine": "15:10",
-      "descrizione": "Cristina è una ragazza che, insieme ai suoi compagni di università, forma un complesso musicale. Si alternano così momenti musicali e studi in medicina, oltre alle vicende familiari divise tra ansie, gioie e delusioni.",
-      "immagine": "immagini/programmi-guida/cristina.jpg",
-      "inOnda": false
-    },
-    {
-      "titolo": "Cristina",
-      "inizio": "15:10",
-      "fine": "15:35",
-      "descrizione": "Cristina è una ragazza che, insieme ai suoi compagni di università, forma un complesso musicale. Si alternano così momenti musicali e studi in medicina, oltre alle vicende familiari divise tra ansie, gioie e delusioni.",
-      "immagine": "immagini/programmi-guida/cristina.jpg",
-      "inOnda": false
-    },
-    {
-      "titolo": "Cristina",
-      "inizio": "15:35",
-      "fine": "16:00",
-      "descrizione": "Cristina è una ragazza che, insieme ai suoi compagni di università, forma un complesso musicale. Si alternano così momenti musicali e studi in medicina, oltre alle vicende familiari divise tra ansie, gioie e delusioni.",
-      "immagine": "immagini/programmi-guida/cristina.jpg",
+      "fine": "15:50",
+      "descrizione": "Gerry Scotti, Samira e la ruota piu' famosa della tv! I concorrenti devono scoprire le frasi nascoste. Serve bravura ma la fortuna ci mette del suo!",
+      "immagine": "immagini/programmi-guida/ruotafortuna.jpg",
       "inOnda": false
     },
     {
       "titolo": "Tira & Molla",
-      "inizio": "16:00",
-      "fine": "17:00",
+      "inizio": "15:50",
+      "fine": "16:50",
       "descrizione": "Con Paolo Bonolis, Tira e Molla e' un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
       "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
       "inOnda": false
     },
     {
       "titolo": "Zelig Circus",
-      "inizio": "17:00",
-      "fine": "19:30",
+      "inizio": "16:50",
+      "fine": "19:20",
       "descrizione": "Mago Forest e Teresa Mannino presentano Zelig Circus 2013. Il meglio della comicità italiana è pronta a farvi ridere come non mai.",
       "immagine": "immagini/programmi-guida/zeligcircus2013.jpg",
       "inOnda": false
     },
     {
       "titolo": "Sei forte, maestro!",
-      "inizio": "19:30",
-      "fine": "21:25",
+      "inizio": "19:20",
+      "fine": "21:20",
       "descrizione": "Emilio, Emilio Solfrizzi, maestro elementare, torna a vivere nella sua città natale per insegnare nella scuola 'Michelangelo', dove il suo grande amico Giulio, Massimo Ciavarro, è direttore. Emilio, grazie alla passione per il proprio lavoro e l'empatia con i suoi allievi, riuscirà sin da subito ad instaurare un ottimo rapporto con gli alunni.",
       "immagine": "immagini/programmi-guida/seifortemaestro.jpg",
       "inOnda": false
     },
     {
       "titolo": "La notte vola",
-      "inizio": "21:25",
+      "inizio": "21:20",
       "fine": "23:45",
       "descrizione": "Lorella Cuccarini presenta un incredibile viaggio all'interno della musica e dello spettacolo dei mitici anni '80",
       "immagine": "immagini/programmi-guida/lanottevola.jpg",
