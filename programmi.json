@@ -2226,7 +2226,7 @@
       "titolo": "Grande Fratello",
       "inizio": "21:20",
       "fine": "23:40",
-      "descrizione": "La versione italiana della casa più spiata dalla televisione.",
+      "descrizione": "La prima storica edizione del reality che ha rivoluzionato la televisione italiana. Un gruppo di concorrenti vive per settimane sotto lo stesso tetto, osservato 24 ore su 24 dalle telecamere, tra amicizie, scontri, emozioni e colpi di scena. Con Daria Bignardi.",
       "immagine": "immagini/programmi-guida/grandefratello2000.jpeg",
       "inOnda": false
     },
@@ -2434,27 +2434,11 @@
       "inOnda": false
     },
     {
-      "titolo": "Cristina",
+      "titolo": "La ruota della fortuna",
       "inizio": "14:45",
-      "fine": "15:10",
-      "descrizione": "Cristina è una ragazza che, insieme ai suoi compagni di università, forma un complesso musicale. Si alternano così momenti musicali e studi in medicina, oltre alle vicende familiari divise tra ansie, gioie e delusioni.",
-      "immagine": "immagini/programmi-guida/cristina.jpg",
-      "inOnda": false
-    },
-    {
-      "titolo": "Cristina",
-      "inizio": "15:10",
-      "fine": "15:35",
-      "descrizione": "Cristina è una ragazza che, insieme ai suoi compagni di università, forma un complesso musicale. Si alternano così momenti musicali e studi in medicina, oltre alle vicende familiari divise tra ansie, gioie e delusioni.",
-      "immagine": "immagini/programmi-guida/cristina.jpg",
-      "inOnda": false
-    },
-    {
-      "titolo": "Finché c'è Ditta c'è speranza",
-      "inizio": "15:35",
       "fine": "15:50",
-      "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
-      "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
+      "descrizione": "Gerry Scotti, Samira e la ruota piu' famosa della tv! I concorrenti devono scoprire le frasi nascoste. Serve bravura ma la fortuna ci mette del suo!",
+      "immagine": "immagini/programmi-guida/ruotafortuna.jpg",
       "inOnda": false
     },
     {
@@ -2685,27 +2669,11 @@
       "inOnda": false
     },
     {
-      "titolo": "Cristina",
+      "titolo": "La ruota della fortuna",
       "inizio": "14:45",
-      "fine": "15:10",
-      "descrizione": "Cristina è una ragazza che, insieme ai suoi compagni di università, forma un complesso musicale. Si alternano così momenti musicali e studi in medicina, oltre alle vicende familiari divise tra ansie, gioie e delusioni.",
-      "immagine": "immagini/programmi-guida/cristina.jpg",
-      "inOnda": false
-    },
-    {
-      "titolo": "Cristina",
-      "inizio": "15:10",
-      "fine": "15:35",
-      "descrizione": "Cristina è una ragazza che, insieme ai suoi compagni di università, forma un complesso musicale. Si alternano così momenti musicali e studi in medicina, oltre alle vicende familiari divise tra ansie, gioie e delusioni.",
-      "immagine": "immagini/programmi-guida/cristina.jpg",
-      "inOnda": false
-    },
-    {
-      "titolo": "Finché c'è Ditta c'è speranza",
-      "inizio": "15:35",
       "fine": "15:50",
-      "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
-      "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
+      "descrizione": "Gerry Scotti, Samira e la ruota piu' famosa della tv! I concorrenti devono scoprire le frasi nascoste. Serve bravura ma la fortuna ci mette del suo!",
+      "immagine": "immagini/programmi-guida/ruotafortuna.jpg",
       "inOnda": false
     },
     {
@@ -2867,8 +2835,8 @@
       "titolo": "Ok, il prezzo è giusto!",
       "inizio": "13:10",
       "fine": "15:00",
-      "descrizione": "Il celebre gioco a premi degli anni '90 con Gigi Sabani torna con le sue sfide indimenticabili: concorrenti, giochi, la mitica ruota e la sfida finale per aggiudicarsi fantastici premi indovinando il prezzo esatto degli oggetti in palio.",
-      "immagine": "immagini/programmi-guida/okilprezzoegiustosabani.jpeg",
+      "descrizione": "Lo storico game show che ha appassionato intere generazioni. Tra prove di abilità, offerte e strategie, i concorrenti tentano di indovinare il prezzo esatto dei prodotti in palio per conquistare premi sempre più ricchi. Con Iva Zanicchi.",
+      "immagine": "immagini/programmi-guida/okilprezzozanicchi.jpg",
       "inOnda": false
     },
     {
@@ -3848,7 +3816,7 @@
       "titolo": "Grande Fratello",
       "inizio": "21:20",
       "fine": "23:40",
-      "descrizione": "La versione italiana della casa più spiata dalla televisione.",
+      "descrizione": "La prima storica edizione del reality che ha rivoluzionato la televisione italiana. Un gruppo di concorrenti vive per settimane sotto lo stesso tetto, osservato 24 ore su 24 dalle telecamere, tra amicizie, scontri, emozioni e colpi di scena. Con Daria Bignardi.",
       "immagine": "immagini/programmi-guida/grandefratello2000.jpeg",
       "inOnda": false
     },
