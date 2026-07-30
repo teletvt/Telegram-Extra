@@ -2736,75 +2736,75 @@
   "2026-08-01": [
     {
       "titolo": "Sarabanda",
-      "inizio": "00:20",
-      "fine": "01:10",
+      "inizio": "00:00",
+      "fine": "00:50",
       "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
       "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
       "inOnda": false
     },
     {
       "titolo": "Avanti un altro!",
-      "inizio": "01:10",
-      "fine": "02:00",
+      "inizio": "00:50",
+      "fine": "01:40",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
     },
     {
       "titolo": "Avanti un altro!",
-      "inizio": "02:00",
-      "fine": "02:50",
+      "inizio": "01:40",
+      "fine": "02:30",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
     },
     {
       "titolo": "Zig Zag",
-      "inizio": "02:50",
-      "fine": "03:35",
+      "inizio": "02:30",
+      "fine": "03:15",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
     },
     {
       "titolo": "Zig Zag",
-      "inizio": "03:35",
-      "fine": "04:20",
+      "inizio": "03:15",
+      "fine": "04:00",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
     },
     {
       "titolo": "Mai dire Gallery",
-      "inizio": "04:20",
-      "fine": "05:15",
+      "inizio": "04:00",
+      "fine": "04:55",
       "descrizione": "Con la Gialappa's Band",
       "immagine": "immagini/programmi-guida/maidiregallery.jpg",
       "inOnda": false
     },
     {
       "titolo": "Il mammo",
-      "inizio": "05:15",
-      "fine": "05:40",
+      "inizio": "04:55",
+      "fine": "05:20",
       "info": "S2 Ep10 Non è tutto oro",
       "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
       "immagine": "immagini/programmi-guida/ilmammo.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Finché c'è Ditta c'è speranza",
-      "inizio": "05:40",
-      "fine": "05:50",
-      "info": "S1 Ep10",
-      "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
-      "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
+      "titolo": "Il mammo",
+      "inizio": "05:20",
+      "fine": "05:45",
+      "info": "S2 Ep11 Una vita condizionata",
+      "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
+      "immagine": "immagini/programmi-guida/ilmammo.jpg",
       "inOnda": false
     },
     {
       "titolo": "Finché c'è Ditta c'è speranza",
-      "inizio": "05:50",
-      "fine": "06:00",
-      "info": "S1 Ep11",
+      "inizio": "05:45",
+      "fine": "05:50",
+      "info": "S1 Ep10",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
@@ -2968,7 +2968,7 @@
       "titolo": "Il mammo",
       "inizio": "04:55",
       "fine": "05:20",
-      "info": "S2 Ep11 Una vita condizionata",
+      "info": "S2 Ep12 La doppia vita di Silvano",
       "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
       "immagine": "immagini/programmi-guida/ilmammo.jpg",
       "inOnda": false
@@ -2977,7 +2977,7 @@
       "titolo": "Il mammo",
       "inizio": "05:20",
       "fine": "05:45",
-      "info": "S2 Ep12 La doppia vita di Silvano",
+      "info": "S2 Ep13 Sangue blu",
       "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
       "immagine": "immagini/programmi-guida/ilmammo.jpg",
       "inOnda": false
@@ -2986,7 +2986,7 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "05:45",
       "fine": "06:00",
-      "info": "S1 Ep12",
+      "info": "S1 Ep11",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
@@ -3150,7 +3150,7 @@
       "titolo": "Il mammo",
       "inizio": "05:15",
       "fine": "05:40",
-      "info": "S2 Ep13 Sangue blu",
+      "info": "S2 Ep14 Le ragazze degli altri",
       "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
       "immagine": "immagini/programmi-guida/ilmammo.jpg",
       "inOnda": false
@@ -3159,7 +3159,7 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "05:40",
       "fine": "05:50",
-      "info": "S1 Ep13",
+      "info": "S1 Ep12",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
@@ -3168,7 +3168,7 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "05:50",
       "fine": "06:00",
-      "info": "S1 Ep14",
+      "info": "S1 Ep13",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
@@ -3317,7 +3317,7 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "15:35",
       "fine": "15:50",
-      "info": "S1 Ep15",
+      "info": "S1 Ep14",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
@@ -3426,7 +3426,7 @@
       "titolo": "Il mammo",
       "inizio": "05:00",
       "fine": "05:25",
-      "info": "S2 Ep14 Le ragazze degli altri",
+      "info": "S2 Ep15 Il lotto alle otto e ventotto",
       "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
       "immagine": "immagini/programmi-guida/ilmammo.jpg",
       "inOnda": false
@@ -3435,7 +3435,7 @@
       "titolo": "Il mammo",
       "inizio": "05:25",
       "fine": "05:50",
-      "info": "S2 Ep15 Il lotto alle otto e ventotto",
+      "info": "S2 Ep16 Doctor Giada e Misses Hyde",
       "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
       "immagine": "immagini/programmi-guida/ilmammo.jpg",
       "inOnda": false
@@ -3444,7 +3444,7 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "05:50",
       "fine": "06:00",
-      "info": "S1 Ep16",
+      "info": "S1 Ep15",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
@@ -3593,7 +3593,7 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "15:35",
       "fine": "15:50",
-      "info": "S1 Ep17",
+      "info": "S1 Ep16",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
@@ -3695,7 +3695,7 @@
       "titolo": "Il mammo",
       "inizio": "05:20",
       "fine": "05:45",
-      "info": "S2 Ep16 Doctor Giada e Misses Hyde",
+      "info": "S2 Ep17 Perché tutti quei versi",
       "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
       "immagine": "immagini/programmi-guida/ilmammo.jpg",
       "inOnda": false
@@ -3704,7 +3704,7 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "05:45",
       "fine": "06:00",
-      "info": "S1 Ep18",
+      "info": "S1 Ep17",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
@@ -3853,7 +3853,7 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "15:35",
       "fine": "15:50",
-      "info": "S1 Ep19",
+      "info": "S1 Ep18",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
@@ -3954,7 +3954,7 @@
       "titolo": "Il mammo",
       "inizio": "05:25",
       "fine": "05:50",
-      "info": "S2 Ep17 Perché tutti quei versi",
+      "info": "S2 Ep18 Anche le stelle lavano i piatti",
       "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
       "immagine": "immagini/programmi-guida/ilmammo.jpg",
       "inOnda": false
@@ -3963,7 +3963,7 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "05:50",
       "fine": "06:00",
-      "info": "S1 Ep20",
+      "info": "S1 Ep19",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
@@ -4112,7 +4112,7 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "15:35",
       "fine": "15:50",
-      "info": "S1 Ep21",
+      "info": "S1 Ep20",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
@@ -4213,7 +4213,7 @@
       "titolo": "Il mammo",
       "inizio": "05:35",
       "fine": "06:00",
-      "info": "S2 Ep18 Anche le stelle lavano i piatti",
+      "info": "S2 Ep19 Spia",
       "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
       "immagine": "immagini/programmi-guida/ilmammo.jpg",
       "inOnda": false
@@ -4362,7 +4362,7 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "15:35",
       "fine": "15:50",
-      "info": "S1 Ep22",
+      "info": "S1 Ep21",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
@@ -4463,7 +4463,7 @@
       "titolo": "Il mammo",
       "inizio": "05:25",
       "fine": "05:50",
-      "info": "S2 Ep19 Spia",
+      "info": "S2 Ep20 Ti ho fatto la festa!",
       "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
       "immagine": "immagini/programmi-guida/ilmammo.jpg",
       "inOnda": false
@@ -4472,7 +4472,7 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "05:50",
       "fine": "06:00",
-      "info": "S1 Ep23",
+      "info": "S1 Ep22",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
@@ -4646,16 +4646,16 @@
       "titolo": "Il mammo",
       "inizio": "05:20",
       "fine": "05:45",
-      "info": "S2 Ep20 Ti ho fatto la festa!",
-      "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
-      "immagine": "immagini/programmi-guida/ilmammo.jpg",
+      "info": "S3 Ep1 Il grande addio",
+      "descrizione": "La terza stagione di 'Il Mammo' riserva grandi sorprese: la famiglia Zerbi dà il benvenuto alla piccola Pepita, mentre Raffa si appresta a lasciare il nido per un'avventura entusiasmante in Spagna. Ma come farà Silvano senza la sua Raffa? Entrano nel cast Ulla, la tata ingaggiata da Silvano per aiutarlo nella gestione della casa e dei figli, dopo la partenza della figlia maggiore Raffa per studiare in Spagna, e Elisa, una giovane aspirante show-girl.",
+      "immagine": "immagini/programmi-guida/ilmammo3.jpg",
       "inOnda": false
     },
     {
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "05:45",
       "fine": "06:00",
-      "info": "S1 Ep24",
+      "info": "S1 Ep23",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
@@ -4803,7 +4803,7 @@
       "titolo": "Il mammo",
       "inizio": "04:55",
       "fine": "05:20",
-      "info": "S3 Ep1 Il grande addio",
+      "info": "S3 Ep2 Arriba, arriba!",
       "descrizione": "La terza stagione di 'Il Mammo' riserva grandi sorprese: la famiglia Zerbi dà il benvenuto alla piccola Pepita, mentre Raffa si appresta a lasciare il nido per un'avventura entusiasmante in Spagna. Ma come farà Silvano senza la sua Raffa? Entrano nel cast Ulla, la tata ingaggiata da Silvano per aiutarlo nella gestione della casa e dei figli, dopo la partenza della figlia maggiore Raffa per studiare in Spagna, e Elisa, una giovane aspirante show-girl.",
       "immagine": "immagini/programmi-guida/ilmammo3.jpg",
       "inOnda": false
@@ -4812,7 +4812,7 @@
       "titolo": "Il mammo",
       "inizio": "05:20",
       "fine": "05:45",
-      "info": "S3 Ep2 Arriba, arriba!",
+      "info": "S3 Ep3 Tutti pazzi per Ulla",
       "descrizione": "La terza stagione di 'Il Mammo' riserva grandi sorprese: la famiglia Zerbi dà il benvenuto alla piccola Pepita, mentre Raffa si appresta a lasciare il nido per un'avventura entusiasmante in Spagna. Ma come farà Silvano senza la sua Raffa? Entrano nel cast Ulla, la tata ingaggiata da Silvano per aiutarlo nella gestione della casa e dei figli, dopo la partenza della figlia maggiore Raffa per studiare in Spagna, e Elisa, una giovane aspirante show-girl.",
       "immagine": "immagini/programmi-guida/ilmammo3.jpg",
       "inOnda": false
@@ -4821,7 +4821,7 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "05:45",
       "fine": "06:00",
-      "info": "S1 Ep25",
+      "info": "S1 Ep24",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
