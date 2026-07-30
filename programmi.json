@@ -2803,7 +2803,7 @@
     {
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "05:45",
-      "fine": "05:50",
+      "fine": "06:00",
       "info": "S1 Ep10",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
@@ -2812,7 +2812,44 @@
     {
       "titolo": "I cinque del quinto piano",
       "inizio": "06:00",
+      "fine": "06:29",
+      "info": "S1 Ep91",
+      "descrizione": "Periferia milanese, metà anni Ottanta. Fuori la 'Milano da bere', dentro al quinto piano i Sandri trasformano la quotidianità in commedia: tasse universitarie, scioperi a scuola, sogni calcistici, colf imprevedibili e vicini invadenti. Equivoci, ironia e soluzioni creative a ogni puntata.",
+      "immagine": "immagini/programmi-guida/icinquedelquintopiano.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "I cinque del quinto piano",
+      "inizio": "06:29",
+      "fine": "06:58",
+      "info": "S1 Ep92",
+      "descrizione": "Periferia milanese, metà anni Ottanta. Fuori la 'Milano da bere', dentro al quinto piano i Sandri trasformano la quotidianità in commedia: tasse universitarie, scioperi a scuola, sogni calcistici, colf imprevedibili e vicini invadenti. Equivoci, ironia e soluzioni creative a ogni puntata.",
+      "immagine": "immagini/programmi-guida/icinquedelquintopiano.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "I cinque del quinto piano",
+      "inizio": "06:58",
+      "fine": "07:27",
+      "info": "S1 Ep93",
+      "descrizione": "Periferia milanese, metà anni Ottanta. Fuori la 'Milano da bere', dentro al quinto piano i Sandri trasformano la quotidianità in commedia: tasse universitarie, scioperi a scuola, sogni calcistici, colf imprevedibili e vicini invadenti. Equivoci, ironia e soluzioni creative a ogni puntata.",
+      "immagine": "immagini/programmi-guida/icinquedelquintopiano.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "I cinque del quinto piano",
+      "inizio": "07:27",
+      "fine": "07:56",
+      "info": "S1 Ep94",
+      "descrizione": "Periferia milanese, metà anni Ottanta. Fuori la 'Milano da bere', dentro al quinto piano i Sandri trasformano la quotidianità in commedia: tasse universitarie, scioperi a scuola, sogni calcistici, colf imprevedibili e vicini invadenti. Equivoci, ironia e soluzioni creative a ogni puntata.",
+      "immagine": "immagini/programmi-guida/icinquedelquintopiano.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "I cinque del quinto piano",
+      "inizio": "07:56",
       "fine": "08:20",
+      "info": "S1 Ep95",
       "descrizione": "Periferia milanese, metà anni Ottanta. Fuori la 'Milano da bere', dentro al quinto piano i Sandri trasformano la quotidianità in commedia: tasse universitarie, scioperi a scuola, sogni calcistici, colf imprevedibili e vicini invadenti. Equivoci, ironia e soluzioni creative a ogni puntata.",
       "immagine": "immagini/programmi-guida/icinquedelquintopiano.jpg",
       "inOnda": false
