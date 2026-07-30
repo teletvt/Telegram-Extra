@@ -4863,6 +4863,18 @@
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
     }
+  ],
+
+  "2026-09-11": [
+    {
+      "titolo": "Striscia la notizia - Dedicato a Luca Giurato",
+      "inizio": "20:50",
+      "fine": "21:20",
+      "descrizione": "Gli errori e gli strafalcioni di Luca Giurato sono entrati nella storia della televisione e si sono meritati diversi speciali a Striscia la notizia. A due anni dalla scomparsa, il tg satirico vuole rendere omaggio al conduttore con una puntata in cui vengono riproposte le sue gaffe più divertenti.",
+      "immagine": "immagini/programmi-guida/strisciaspecialegiurato.jpg",
+      "inOnda": false
+    }
+
   ]
 
 }
