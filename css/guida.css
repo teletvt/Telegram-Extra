@@ -687,9 +687,27 @@
 
     max-width:95%;
 
+    height:auto;
+
+    min-height:0;
+
     padding:20px;
 
     border-radius:15px;
+
+    overflow:visible;
+
+}
+
+
+
+.popup {
+
+    align-items:flex-start;
+
+    overflow-y:auto;
+
+    padding:20px 0;
 
 }
 
@@ -747,7 +765,17 @@
 
     font-size:13px;
 
-    line-height:1.45;
+    line-height:1.5;
+
+    display:block;
+
+    overflow:visible;
+
+    white-space:normal;
+
+    height:auto;
+
+    max-height:none;
 
 }
 
