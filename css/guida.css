@@ -1,8 +1,13 @@
 .guida {
+
     padding:30px 0;
+
     width:100%;
+
     max-width:100%;
+
 }
+
 
 
 .guida h1 {
@@ -12,6 +17,8 @@
     margin-left:20px;
 
 }
+
+
 
 
 
@@ -26,6 +33,10 @@
 
     width:100%;
 
+    display:flex;
+
+    justify-content:center;
+
 }
 
 
@@ -33,6 +44,8 @@
 #giorni-container {
 
     display:flex;
+
+    justify-content:center;
 
     flex-wrap:nowrap;
 
@@ -88,6 +101,8 @@
 
 
 
+
+
 /* ==========================
    TITOLO GIORNO
 ========================== */
@@ -98,6 +113,8 @@
     padding:0 20px;
 
 }
+
+
 
 
 
@@ -119,6 +136,7 @@
     cursor:grab;
 
 }
+
 
 
 .timeline:active {
@@ -211,6 +229,12 @@
 
 
 
+
+/* ==========================
+   TESTO PROGRAMMI
+========================== */
+
+
 .programma strong {
 
     display:block;
@@ -279,6 +303,9 @@
 }
 
 
+
+
+
 /* ==========================
    POPUP
 ========================== */
@@ -304,7 +331,7 @@
 
     align-items:center;
 
-    z-index:1000;
+    z-index:2000;
 
 }
 
@@ -318,21 +345,23 @@
 
     background:#071426;
 
-    width:700px;
+    width:644px;
 
-    height:520px;
+    max-width:95%;
+
+    height:auto;
 
     padding:30px;
 
     border-radius:20px;
 
-    text-align:center;
-
-    box-shadow:0 10px 40px rgba(0,0,0,0.5);
+    box-shadow:0 10px 40px rgba(0,0,0,.5);
 
     box-sizing:border-box;
 
-    overflow:hidden;
+    overflow:visible;
+
+    text-align:left;
 
 }
 
@@ -342,15 +371,19 @@
 
 .popup-content img {
 
+    display:block;
+
     width:584px;
+
+    max-width:100%;
 
     height:329px;
 
     object-fit:contain;
 
-    border-radius:12px;
-
     background:#000;
+
+    border-radius:12px;
 
 }
 
@@ -358,9 +391,35 @@
 
 
 
+/* ==========================
+   ORARIO
+========================== */
+
+
+#popup-orario {
+
+    margin:15px 0 5px 0;
+
+    color:#8fb3d9;
+
+    font-size:13px;
+
+}
+
+
+
+
+
+/* ==========================
+   TITOLO PROGRAMMA
+========================== */
+
+
 .popup-content h2 {
 
-    margin:10px 0 5px 0;
+    margin:0 0 10px 0;
+
+    color:white;
 
     font-size:22px;
 
@@ -372,15 +431,32 @@
 
 
 
-.popup-content p {
+/* ==========================
+   INFO EPISODIO
+========================== */
 
-    color:#cbd5e1;
 
-    line-height:1.35;
+.popup-info {
 
-    font-size:14px;
+    display:inline-block;
 
-    margin:5px 0;
+    margin:0 0 15px 0;
+
+    padding:5px 12px;
+
+    background:rgba(0,168,255,.12);
+
+    border:1px solid rgba(0,168,255,.35);
+
+    border-radius:20px;
+
+    color:#7fd8ff;
+
+    font-size:12px;
+
+    font-weight:bold;
+
+    text-transform:none;
 
 }
 
@@ -388,38 +464,34 @@
 
 
 
-/* orario */
+/* ==========================
+   DESCRIZIONE
+========================== */
 
-#popup-orario {
-
-    font-size:13px;
-
-    color:#8fb3d9;
-
-    margin:0 0 8px 0;
-
-}
-
-
-
-
-
-/* descrizione */
 
 #popup-descrizione {
 
-    display:-webkit-box;
+    margin:0;
 
-    -webkit-line-clamp:4;
+    color:#cbd5e1;
 
-    -webkit-box-orient:vertical;
+    font-size:14px;
 
-    overflow:hidden;
+    line-height:1.5;
+
+    white-space:normal;
+
+    overflow:visible;
 
 }
 
 
 
+
+
+/* ==========================
+   CHIUSURA POPUP
+========================== */
 
 
 .chiudi {
@@ -428,26 +500,31 @@
 
     top:10px;
 
-    right:20px;
+    right:15px;
+
+    width:45px;
+
+    height:45px;
+
+    background:transparent;
+
+    border:none;
+
+    color:white;
 
     font-size:35px;
 
+    line-height:40px;
+
     cursor:pointer;
 
-}
-
-
-
-
-
-/* nasconde vecchia navigazione */
-
-
-.navigazione-giorni {
-
-    display:none;
+    z-index:9999;
 
 }
+
+
+
+
 
 .info-guida {
 
@@ -464,6 +541,20 @@
 
 
 
+/* ==========================
+   NASCONDE VECCHIA NAVIGAZIONE
+========================== */
+
+
+.navigazione-giorni {
+
+    display:none;
+
+}
+
+
+
+
 
 /* ==========================
    MOBILE
@@ -473,6 +564,7 @@
 @media(max-width:768px){
 
 
+
 .guida{
 
     padding:20px 0;
@@ -480,13 +572,37 @@
 }
 
 
+
 .guida h1,
-#giorno-selezionato,
+#giorno-selezionato {
+
+    padding-left:20px;
+
+    padding-right:20px;
+
+}
+
+
+
+
+
 .giorni {
 
     padding-left:20px;
 
     padding-right:20px;
+
+    justify-content:center;
+
+}
+
+
+
+
+
+#giorni-container {
+
+    justify-content:center;
 
 }
 
@@ -560,17 +676,20 @@
 
 
 
-/* popup mobile */
+/* ==========================
+   POPUP MOBILE
+========================== */
+
 
 .popup-content {
 
     width:95%;
 
-    height:auto;
-
-    min-height:0;
+    max-width:95%;
 
     padding:20px;
+
+    border-radius:15px;
 
 }
 
@@ -584,9 +703,7 @@
 
     height:auto;
 
-    max-height:250px;
-
-    object-fit:contain;
+    max-height:none;
 
 }
 
@@ -614,16 +731,32 @@
 
 
 
-#popup-descrizione {
+.popup-info {
 
-    -webkit-line-clamp:5;
+    font-size:11px;
 
-    font-size:13px;
+    padding:4px 10px;
 
 }
 
 
-html, body {
+
+
+
+#popup-descrizione {
+
+    font-size:13px;
+
+    line-height:1.45;
+
+}
+
+
+
+
+
+html,
+body {
 
     width:100%;
 
@@ -632,6 +765,7 @@ html, body {
     overflow-x:hidden;
 
 }
+
 
 
 }

@@ -2541,9 +2541,10 @@
       "inOnda": false
     },
     {
-      "titolo": "Il mammo 2",
+      "titolo": "Il mammo",
       "inizio": "05:25",
       "fine": "05:50",
+      "info": "S2 Ep9 Parasilvano",
       "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
       "immagine": "immagini/programmi-guida/ilmammo.jpg",
       "inOnda": false
@@ -2552,6 +2553,7 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "05:50",
       "fine": "06:00",
+      "info": "S1 Ep9",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
@@ -2560,6 +2562,7 @@
       "titolo": "Casa dolce casa",
       "inizio": "06:00",
       "fine": "06:25",
+      "info": "S1 Ep17 L'offerta migliore",
       "descrizione": "Segue le esperienze vissute in un appartamento, dove si svolgono le vicende di una famiglia insieme al portiere del condominio.",
       "immagine": "immagini/programmi-guida/casadolcecasastagioneprima.jpg",
       "inOnda": false
@@ -2568,38 +2571,43 @@
       "titolo": "Casa dolce casa",
       "inizio": "06:25",
       "fine": "06:50",
+      "info": "S1 Ep18 L'uomo invisibile",
       "descrizione": "Segue le esperienze vissute in un appartamento, dove si svolgono le vicende di una famiglia insieme al portiere del condominio.",
       "immagine": "immagini/programmi-guida/casadolcecasastagioneprima.jpg",
       "inOnda": false
     },
     {
-      "titolo": "CentoVetrine 2",
+      "titolo": "CentoVetrine",
       "inizio": "06:50",
       "fine": "07:15",
+      "info": "S2 Ep122",
       "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
       "immagine": "immagini/programmi-guida/centovetrine2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "CentoVetrine 2",
+      "titolo": "CentoVetrine",
       "inizio": "07:15",
       "fine": "07:40",
+      "info": "S2 Ep123",
       "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
       "immagine": "immagini/programmi-guida/centovetrine2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Vivere 2",
+      "titolo": "Vivere",
       "inizio": "07:40",
       "fine": "08:05",
+      "info": "S2 Ep157",
       "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
       "immagine": "immagini/programmi-guida/vivere2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Vivere 2",
+      "titolo": "Vivere",
       "inizio": "08:05",
       "fine": "08:30",
+      "info": "S2 Ep158",
       "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
       "immagine": "immagini/programmi-guida/vivere2.jpg",
       "inOnda": false
@@ -2621,59 +2629,65 @@
       "inOnda": false
     },
     {
-      "titolo": "Don Luca 2",
+      "titolo": "Don Luca",
       "inizio": "10:05",
       "fine": "10:30",
+      "info": "S2 Ep8 Mamme: Gioie e dolori...",
       "descrizione": "La serie tratta della missione di Don Luca (Luca Laurenti), parroco nella Chiesa di San Precotto. Ad attenderlo una serie di sorprese non sempre gradite e tante persone da conoscere e sopportare.",
       "immagine": "immagini/programmi-guida/donluca2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Don Luca 2",
+      "titolo": "Don Luca",
       "inizio": "10:30",
       "fine": "10:55",
+      "info": "S2 Ep9 Genitori prodighi",
       "descrizione": "La serie tratta della missione di Don Luca (Luca Laurenti), parroco nella Chiesa di San Precotto. Ad attenderlo una serie di sorprese non sempre gradite e tante persone da conoscere e sopportare.",
       "immagine": "immagini/programmi-guida/donluca2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Distretto di polizia 7",
+      "titolo": "Distretto di polizia",
       "inizio": "10:55",
       "fine": "11:50",
+      "info": "S7 Ep10 L'ultimo colpo",
       "descrizione": "Nella settima stagione, Roberto Ardenzi lascia il distretto per passare all'antimafia e la suo posto entra in scena il commissario Marcello Fontana, interpretato da Massimo Dapporto. Vi è anche l'ingresso nel cast di Max Giusti, nel ruolo dell'ispettore Raffaele Marchetti. In questa serie, il Commissario Fontana deve fare i conti con un'indagine riguardante la 'ndrangheta.",
       "immagine": "immagini/programmi-guida/distretto6.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Distretto di polizia 7",
+      "titolo": "Distretto di polizia",
       "inizio": "11:50",
       "fine": "12:45",
+      "info": "S7 Ep11 Il giorno più lungo",
       "descrizione": "Nella settima stagione, Roberto Ardenzi lascia il distretto per passare all'antimafia e la suo posto entra in scena il commissario Marcello Fontana, interpretato da Massimo Dapporto. Vi è anche l'ingresso nel cast di Max Giusti, nel ruolo dell'ispettore Raffaele Marchetti. In questa serie, il Commissario Fontana deve fare i conti con un'indagine riguardante la 'ndrangheta.",
       "immagine": "immagini/programmi-guida/distretto7.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Carabinieri 5",
+      "titolo": "Carabinieri",
       "inizio": "12:45",
       "fine": "13:45",
+      "info": "S5 Ep14 Ritratto di signora",
       "descrizione": "I Carabinieri di stanza a Città della Pieve, in Umbria, affrontano un duro lavoro quotidiano e sono costantemente alle prese con crimini e situazioni d'emergenza. Alle indagini si alternano le vicissitudini personali dei protagonisti.",
       "immagine": "immagini/programmi-guida/carabinieri5.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Carabinieri 5",
+      "titolo": "Carabinieri",
       "inizio": "13:45",
       "fine": "14:45",
+      "info": "S5 Ep15 Un'altra occasione",
       "descrizione": "I Carabinieri di stanza a Città della Pieve, in Umbria, affrontano un duro lavoro quotidiano e sono costantemente alle prese con crimini e situazioni d'emergenza. Alle indagini si alternano le vicissitudini personali dei protagonisti.",
       "immagine": "immagini/programmi-guida/carabinieri5.jpg",
       "inOnda": false
     },
     {
-      "titolo": "La ruota della fortuna",
+      "titolo": "Disco '80",
       "inizio": "14:45",
       "fine": "15:50",
-      "descrizione": "Gerry Scotti, Samira e la ruota piu' famosa della tv! I concorrenti devono scoprire le frasi nascoste. Serve bravura ma la fortuna ci mette del suo!",
-      "immagine": "immagini/programmi-guida/ruotafortuna.jpg",
+      "descrizione": "Speciali dedicati ai cantanti e ai cantautori che, con la loro musica e le loro parole, hanno scritto la storia della canzone italiana.",
+      "immagine": "immagini/programmi-guida/disco80puntata1.jpg",
       "inOnda": false
     },
     {
@@ -2696,6 +2710,7 @@
       "titolo": "Sei forte, maestro!",
       "inizio": "19:10",
       "fine": "21:10",
+      "info": "S1 Ep19/20 Il cattivo maestro/Famiglie allargate?",
       "descrizione": "Emilio, Emilio Solfrizzi, maestro elementare, torna a vivere nella sua città natale per insegnare nella scuola 'Michelangelo', dove il suo grande amico Giulio, Massimo Ciavarro, è direttore. Emilio, grazie alla passione per il proprio lavoro e l'empatia con i suoi allievi, riuscirà sin da subito ad instaurare un ottimo rapporto con gli alunni.",
       "immagine": "immagini/programmi-guida/seifortemaestro.jpg",
       "inOnda": false
@@ -2768,9 +2783,10 @@
       "inOnda": false
     },
     {
-      "titolo": "Il mammo 2",
+      "titolo": "Il mammo",
       "inizio": "05:15",
       "fine": "05:40",
+      "info": "S2 Ep10 Non è tutto oro",
       "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
       "immagine": "immagini/programmi-guida/ilmammo.jpg",
       "inOnda": false
@@ -2779,6 +2795,7 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "05:40",
       "fine": "05:50",
+      "info": "S1 Ep10",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
@@ -2787,6 +2804,7 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "05:50",
       "fine": "06:00",
+      "info": "S1 Ep11",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
@@ -2947,17 +2965,19 @@
       "inOnda": false
     },
     {
-      "titolo": "Il mammo 2",
+      "titolo": "Il mammo",
       "inizio": "04:55",
       "fine": "05:20",
+      "info": "S2 Ep11 Una vita condizionata",
       "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
       "immagine": "immagini/programmi-guida/ilmammo.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Il mammo 2",
+      "titolo": "Il mammo",
       "inizio": "05:20",
       "fine": "05:45",
+      "info": "S2 Ep12 La doppia vita di Silvano",
       "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
       "immagine": "immagini/programmi-guida/ilmammo.jpg",
       "inOnda": false
@@ -2966,6 +2986,7 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "05:45",
       "fine": "06:00",
+      "info": "S1 Ep12",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
@@ -3013,22 +3034,22 @@
     {
       "titolo": "Mai dire TV",
       "inizio": "13:00",
-      "fine": "13:30",
+      "fine": "13:40",
       "descrizione": "Trasmissione satirica ideata dalla Gialappa's Band con la collaborazione di Davide Parenti.",
       "immagine": "immagini/programmi-guida/maidiretv.jpg",
       "inOnda": false
     },
     {
       "titolo": "Buona Domenica",
-      "inizio": "13:30",
-      "fine": "17:00",
+      "inizio": "13:40",
+      "fine": "16:55",
       "descrizione": "Marco Columbro e Lorella Cuccarini conducono una delle edizioni di successo di Buona Domenica.",
       "immagine": "immagini/programmi-guida/buonadomenica1992.jpg",
       "inOnda": false
     },
     {
       "titolo": "Questa casa non è un albergo",
-      "inizio": "17:00",
+      "inizio": "16:55",
       "fine": "18:50",
       "descrizione": "Le vicende dei Donati, una famiglia di Siena composta da due genitori e quattro figli, alle prese con problemi quotidiani.",
       "immagine": "immagini/programmi-guida/questacasanoneunalbergo.jpg",
@@ -3126,9 +3147,10 @@
       "inOnda": false
     },
     {
-      "titolo": "Il mammo 2",
+      "titolo": "Il mammo",
       "inizio": "05:15",
       "fine": "05:40",
+      "info": "S2 Ep13 Sangue blu",
       "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
       "immagine": "immagini/programmi-guida/ilmammo.jpg",
       "inOnda": false
@@ -3137,6 +3159,7 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "05:40",
       "fine": "05:50",
+      "info": "S1 Ep13",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
@@ -3145,6 +3168,7 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "05:50",
       "fine": "06:00",
+      "info": "S1 Ep14",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
@@ -3153,6 +3177,7 @@
       "titolo": "Casa dolce casa",
       "inizio": "06:00",
       "fine": "06:25",
+      "info": "S1 Ep19 Gli orecchioni",
       "descrizione": "Segue le esperienze vissute in un appartamento, dove si svolgono le vicende di una famiglia insieme al portiere del condominio.",
       "immagine": "immagini/programmi-guida/casadolcecasastagioneprima.jpg",
       "inOnda": false
@@ -3161,38 +3186,43 @@
       "titolo": "Casa dolce casa",
       "inizio": "06:25",
       "fine": "06:50",
+      "info": "S1 Ep20 Hong Kong, eccoci!",
       "descrizione": "Segue le esperienze vissute in un appartamento, dove si svolgono le vicende di una famiglia insieme al portiere del condominio.",
       "immagine": "immagini/programmi-guida/casadolcecasastagioneprima.jpg",
       "inOnda": false
     },
     {
-      "titolo": "CentoVetrine 2",
+      "titolo": "CentoVetrine",
       "inizio": "06:50",
       "fine": "07:15",
+      "info": "S2 Ep124",
       "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
       "immagine": "immagini/programmi-guida/centovetrine2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "CentoVetrine 2",
+      "titolo": "CentoVetrine",
       "inizio": "07:15",
       "fine": "07:40",
+      "info": "S2 Ep125",
       "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
       "immagine": "immagini/programmi-guida/centovetrine2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Vivere 2",
+      "titolo": "Vivere",
       "inizio": "07:40",
       "fine": "08:05",
+      "info": "S2 Ep159",
       "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
       "immagine": "immagini/programmi-guida/vivere2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Vivere 2",
+      "titolo": "Vivere",
       "inizio": "08:05",
       "fine": "08:30",
+      "info": "S2 Ep160",
       "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
       "immagine": "immagini/programmi-guida/vivere2.jpg",
       "inOnda": false
@@ -3214,49 +3244,55 @@
       "inOnda": false
     },
     {
-      "titolo": "Don Luca 2",
+      "titolo": "Don Luca",
       "inizio": "10:05",
       "fine": "10:30",
+      "info": "S2 Ep10 Credenti e creduloni",
       "descrizione": "La serie tratta della missione di Don Luca (Luca Laurenti), parroco nella Chiesa di San Precotto. Ad attenderlo una serie di sorprese non sempre gradite e tante persone da conoscere e sopportare.",
       "immagine": "immagini/programmi-guida/donluca2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Don Luca 2",
+      "titolo": "Don Luca",
       "inizio": "10:30",
       "fine": "10:55",
+      "info": "S2 Ep11 Porgi l'altra guancia",
       "descrizione": "La serie tratta della missione di Don Luca (Luca Laurenti), parroco nella Chiesa di San Precotto. Ad attenderlo una serie di sorprese non sempre gradite e tante persone da conoscere e sopportare.",
       "immagine": "immagini/programmi-guida/donluca2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Distretto di polizia 7",
+      "titolo": "Distretto di polizia",
       "inizio": "10:55",
       "fine": "11:50",
+      "info": "S7 Ep12 Menzogne e verità",
       "descrizione": "Nella settima stagione, Roberto Ardenzi lascia il distretto per passare all'antimafia e la suo posto entra in scena il commissario Marcello Fontana, interpretato da Massimo Dapporto. Vi è anche l'ingresso nel cast di Max Giusti, nel ruolo dell'ispettore Raffaele Marchetti. In questa serie, il Commissario Fontana deve fare i conti con un'indagine riguardante la 'ndrangheta.",
       "immagine": "immagini/programmi-guida/distretto6.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Distretto di polizia 7",
+      "titolo": "Distretto di polizia",
       "inizio": "11:50",
       "fine": "12:45",
+      "info": "S7 Ep13 Genitori sbagliati",
       "descrizione": "Nella settima stagione, Roberto Ardenzi lascia il distretto per passare all'antimafia e la suo posto entra in scena il commissario Marcello Fontana, interpretato da Massimo Dapporto. Vi è anche l'ingresso nel cast di Max Giusti, nel ruolo dell'ispettore Raffaele Marchetti. In questa serie, il Commissario Fontana deve fare i conti con un'indagine riguardante la 'ndrangheta.",
       "immagine": "immagini/programmi-guida/distretto7.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Carabinieri 5",
+      "titolo": "Carabinieri",
       "inizio": "12:45",
       "fine": "13:45",
+      "info": "S5 Ep16 La governante",
       "descrizione": "I Carabinieri di stanza a Città della Pieve, in Umbria, affrontano un duro lavoro quotidiano e sono costantemente alle prese con crimini e situazioni d'emergenza. Alle indagini si alternano le vicissitudini personali dei protagonisti.",
       "immagine": "immagini/programmi-guida/carabinieri5.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Carabinieri 5",
+      "titolo": "Carabinieri",
       "inizio": "13:45",
       "fine": "14:45",
+      "info": "S5 Ep17 L'anniversario",
       "descrizione": "I Carabinieri di stanza a Città della Pieve, in Umbria, affrontano un duro lavoro quotidiano e sono costantemente alle prese con crimini e situazioni d'emergenza. Alle indagini si alternano le vicissitudini personali dei protagonisti.",
       "immagine": "immagini/programmi-guida/carabinieri5.jpg",
       "inOnda": false
@@ -3281,6 +3317,7 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "15:35",
       "fine": "15:50",
+      "info": "S1 Ep15",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
@@ -3305,6 +3342,7 @@
       "titolo": "Sei forte, maestro!",
       "inizio": "19:20",
       "fine": "21:20",
+      "info": "S1 Ep21/22 Abbandoni/La piccola detective",
       "descrizione": "Emilio, Emilio Solfrizzi, maestro elementare, torna a vivere nella sua città natale per insegnare nella scuola 'Michelangelo', dove il suo grande amico Giulio, Massimo Ciavarro, è direttore. Emilio, grazie alla passione per il proprio lavoro e l'empatia con i suoi allievi, riuscirà sin da subito ad instaurare un ottimo rapporto con gli alunni.",
       "immagine": "immagini/programmi-guida/seifortemaestro.jpg",
       "inOnda": false
@@ -3385,17 +3423,19 @@
       "inOnda": false
     },
     {
-      "titolo": "Il mammo 2",
+      "titolo": "Il mammo",
       "inizio": "05:00",
       "fine": "05:25",
+      "info": "S2 Ep14 Le ragazze degli altri",
       "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
       "immagine": "immagini/programmi-guida/ilmammo.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Il mammo 2",
+      "titolo": "Il mammo",
       "inizio": "05:25",
       "fine": "05:50",
+      "info": "S2 Ep15 Il lotto alle otto e ventotto",
       "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
       "immagine": "immagini/programmi-guida/ilmammo.jpg",
       "inOnda": false
@@ -3404,54 +3444,61 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "05:50",
       "fine": "06:00",
+      "info": "S1 Ep16",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Casa dolce casa 2",
+      "titolo": "Casa dolce casa",
       "inizio": "06:00",
       "fine": "06:25",
+      "info": "S2 Ep1 Canditi preziosi",
       "descrizione": "Da qualche tempo Marco si alza di notte in preda a sonnambulismo e gira per casa svegliando tutta la famiglia.",
       "immagine": "immagini/programmi-guida/casadolcecasa.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Casa dolce casa 2",
+      "titolo": "Casa dolce casa",
       "inizio": "06:25",
       "fine": "06:50",
+      "info": "S2 Ep2 Sarò madre",
       "descrizione": "Julie e la sorella devono andare a fare compere, e lasciano in custodia a Pietro il nipotino seduto nel port-enfant.",
       "immagine": "immagini/programmi-guida/casadolcecasa.jpg",
       "inOnda": false
     },
     {
-      "titolo": "CentoVetrine 2",
+      "titolo": "CentoVetrine",
       "inizio": "06:50",
       "fine": "07:15",
+      "info": "S2 Ep126",
       "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
       "immagine": "immagini/programmi-guida/centovetrine2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "CentoVetrine 2",
+      "titolo": "CentoVetrine",
       "inizio": "07:15",
       "fine": "07:40",
+      "info": "S2 Ep127",
       "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
       "immagine": "immagini/programmi-guida/centovetrine2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Vivere 2",
+      "titolo": "Vivere",
       "inizio": "07:40",
       "fine": "08:05",
+      "info": "S2 Ep161",
       "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
       "immagine": "immagini/programmi-guida/vivere2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Vivere 2",
+      "titolo": "Vivere",
       "inizio": "08:05",
       "fine": "08:30",
+      "info": "S2 Ep162",
       "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
       "immagine": "immagini/programmi-guida/vivere2.jpg",
       "inOnda": false
@@ -3473,49 +3520,55 @@
       "inOnda": false
     },
     {
-      "titolo": "Don Luca 2",
+      "titolo": "Don Luca",
       "inizio": "10:05",
       "fine": "10:30",
+      "info": "S2 Ep12 Un voto troppo alto",
       "descrizione": "La serie tratta della missione di Don Luca (Luca Laurenti), parroco nella Chiesa di San Precotto. Ad attenderlo una serie di sorprese non sempre gradite e tante persone da conoscere e sopportare.",
       "immagine": "immagini/programmi-guida/donluca2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Don Luca 2",
+      "titolo": "Don Luca",
       "inizio": "10:30",
       "fine": "10:55",
+      "info": "S2 Ep13 A.A.A. Vedovo cercasi",
       "descrizione": "La serie tratta della missione di Don Luca (Luca Laurenti), parroco nella Chiesa di San Precotto. Ad attenderlo una serie di sorprese non sempre gradite e tante persone da conoscere e sopportare.",
       "immagine": "immagini/programmi-guida/donluca2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Distretto di polizia 7",
+      "titolo": "Distretto di polizia",
       "inizio": "10:55",
       "fine": "11:50",
+      "info": "S7 Ep14 L'angelo della morte",
       "descrizione": "Nella settima stagione, Roberto Ardenzi lascia il distretto per passare all'antimafia e la suo posto entra in scena il commissario Marcello Fontana, interpretato da Massimo Dapporto. Vi è anche l'ingresso nel cast di Max Giusti, nel ruolo dell'ispettore Raffaele Marchetti. In questa serie, il Commissario Fontana deve fare i conti con un'indagine riguardante la 'ndrangheta.",
       "immagine": "immagini/programmi-guida/distretto6.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Distretto di polizia 7",
+      "titolo": "Distretto di polizia",
       "inizio": "11:50",
       "fine": "12:45",
+      "info": "S7 Ep15 Un grido d'aiuto",
       "descrizione": "Nella settima stagione, Roberto Ardenzi lascia il distretto per passare all'antimafia e la suo posto entra in scena il commissario Marcello Fontana, interpretato da Massimo Dapporto. Vi è anche l'ingresso nel cast di Max Giusti, nel ruolo dell'ispettore Raffaele Marchetti. In questa serie, il Commissario Fontana deve fare i conti con un'indagine riguardante la 'ndrangheta.",
       "immagine": "immagini/programmi-guida/distretto7.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Carabinieri 5",
+      "titolo": "Carabinieri",
       "inizio": "12:45",
       "fine": "13:45",
+      "info": "S5 Ep18 Una ragazza difficile",
       "descrizione": "I Carabinieri di stanza a Città della Pieve, in Umbria, affrontano un duro lavoro quotidiano e sono costantemente alle prese con crimini e situazioni d'emergenza. Alle indagini si alternano le vicissitudini personali dei protagonisti.",
       "immagine": "immagini/programmi-guida/carabinieri5.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Carabinieri 5",
+      "titolo": "Carabinieri",
       "inizio": "13:45",
       "fine": "14:45",
+      "info": "S5 Ep19 Strane coincidenze",
       "descrizione": "I Carabinieri di stanza a Città della Pieve, in Umbria, affrontano un duro lavoro quotidiano e sono costantemente alle prese con crimini e situazioni d'emergenza. Alle indagini si alternano le vicissitudini personali dei protagonisti.",
       "immagine": "immagini/programmi-guida/carabinieri5.jpg",
       "inOnda": false
@@ -3540,6 +3593,7 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "15:35",
       "fine": "15:50",
+      "info": "S1 Ep17",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
@@ -3564,6 +3618,7 @@
       "titolo": "Sei forte, maestro!",
       "inizio": "19:20",
       "fine": "21:20",
+      "info": "S1 Ep23/24 La mostra/Una gita pericolosa",
       "descrizione": "Emilio, Emilio Solfrizzi, maestro elementare, torna a vivere nella sua città natale per insegnare nella scuola 'Michelangelo', dove il suo grande amico Giulio, Massimo Ciavarro, è direttore. Emilio, grazie alla passione per il proprio lavoro e l'empatia con i suoi allievi, riuscirà sin da subito ad instaurare un ottimo rapporto con gli alunni.",
       "immagine": "immagini/programmi-guida/seifortemaestro.jpg",
       "inOnda": false
@@ -3637,9 +3692,10 @@
       "inOnda": false
     },
     {
-      "titolo": "Il mammo 2",
+      "titolo": "Il mammo",
       "inizio": "05:20",
       "fine": "05:45",
+      "info": "S2 Ep16 Doctor Giada e Misses Hyde",
       "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
       "immagine": "immagini/programmi-guida/ilmammo.jpg",
       "inOnda": false
@@ -3648,54 +3704,61 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "05:45",
       "fine": "06:00",
+      "info": "S1 Ep18",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Casa dolce casa 2",
+      "titolo": "Casa dolce casa",
       "inizio": "06:00",
       "fine": "06:25",
-      "descrizione": "",
+      "info": "S2 Ep3 Il paradiso può attendere",
+      "descrizione": "La serie racconta le vicende della famiglia Bonetti, le cui trame si svolgono interamente all'interno di un appartamento tra equivoci domestici, gag e dinamiche di coppia",
       "immagine": "immagini/programmi-guida/casadolcecasa.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Casa dolce casa 2",
+      "titolo": "Casa dolce casa",
       "inizio": "06:25",
       "fine": "06:50",
-      "descrizione": "",
+      "info": "S2 Ep4 Donna in carriera",
+      "descrizione": "La serie racconta le vicende della famiglia Bonetti, le cui trame si svolgono interamente all'interno di un appartamento tra equivoci domestici, gag e dinamiche di coppia",
       "immagine": "immagini/programmi-guida/casadolcecasa.jpg",
       "inOnda": false
     },
     {
-      "titolo": "CentoVetrine 2",
+      "titolo": "CentoVetrine",
       "inizio": "06:50",
       "fine": "07:15",
+      "info": "S2 Ep128",
       "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
       "immagine": "immagini/programmi-guida/centovetrine2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "CentoVetrine 2",
+      "titolo": "CentoVetrine",
       "inizio": "07:15",
       "fine": "07:40",
+      "info": "S2 Ep129",
       "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
       "immagine": "immagini/programmi-guida/centovetrine2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Vivere 2",
+      "titolo": "Vivere",
       "inizio": "07:40",
       "fine": "08:05",
+      "info": "S2 Ep163",
       "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
       "immagine": "immagini/programmi-guida/vivere2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Vivere 2",
+      "titolo": "Vivere",
       "inizio": "08:05",
       "fine": "08:30",
+      "info": "S2 Ep164",
       "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
       "immagine": "immagini/programmi-guida/vivere2.jpg",
       "inOnda": false
@@ -3717,49 +3780,55 @@
       "inOnda": false
     },
     {
-      "titolo": "Don Luca 2",
+      "titolo": "Don Luca",
       "inizio": "10:05",
       "fine": "10:30",
+      "info": "S2 Ep14 Salza nuziale",
       "descrizione": "La serie tratta della missione di Don Luca (Luca Laurenti), parroco nella Chiesa di San Precotto. Ad attenderlo una serie di sorprese non sempre gradite e tante persone da conoscere e sopportare.",
       "immagine": "immagini/programmi-guida/donluca2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Don Luca 2",
+      "titolo": "Don Luca",
       "inizio": "10:30",
       "fine": "10:55",
+      "info": "S2 Ep15 Beata ignoranza",
       "descrizione": "La serie tratta della missione di Don Luca (Luca Laurenti), parroco nella Chiesa di San Precotto. Ad attenderlo una serie di sorprese non sempre gradite e tante persone da conoscere e sopportare.",
       "immagine": "immagini/programmi-guida/donluca2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Distretto di polizia 7",
+      "titolo": "Distretto di polizia",
       "inizio": "10:55",
       "fine": "11:50",
+      "info": "S7 Ep16 Il volo della colomba",
       "descrizione": "Nella settima stagione, Roberto Ardenzi lascia il distretto per passare all'antimafia e la suo posto entra in scena il commissario Marcello Fontana, interpretato da Massimo Dapporto. Vi è anche l'ingresso nel cast di Max Giusti, nel ruolo dell'ispettore Raffaele Marchetti. In questa serie, il Commissario Fontana deve fare i conti con un'indagine riguardante la 'ndrangheta.",
       "immagine": "immagini/programmi-guida/distretto6.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Distretto di polizia 7",
+      "titolo": "Distretto di polizia",
       "inizio": "11:50",
       "fine": "12:45",
+      "info": "S7 Ep17 Il lungo addio",
       "descrizione": "Nella settima stagione, Roberto Ardenzi lascia il distretto per passare all'antimafia e la suo posto entra in scena il commissario Marcello Fontana, interpretato da Massimo Dapporto. Vi è anche l'ingresso nel cast di Max Giusti, nel ruolo dell'ispettore Raffaele Marchetti. In questa serie, il Commissario Fontana deve fare i conti con un'indagine riguardante la 'ndrangheta.",
       "immagine": "immagini/programmi-guida/distretto7.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Carabinieri 5",
+      "titolo": "Carabinieri",
       "inizio": "12:45",
       "fine": "13:45",
+      "info": "S5 Ep20 Quando cadono le stelle",
       "descrizione": "I Carabinieri di stanza a Città della Pieve, in Umbria, affrontano un duro lavoro quotidiano e sono costantemente alle prese con crimini e situazioni d'emergenza. Alle indagini si alternano le vicissitudini personali dei protagonisti.",
       "immagine": "immagini/programmi-guida/carabinieri5.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Carabinieri 5",
+      "titolo": "Carabinieri",
       "inizio": "13:45",
       "fine": "14:45",
+      "info": "S5 Ep21 Tracce di sabbia",
       "descrizione": "I Carabinieri di stanza a Città della Pieve, in Umbria, affrontano un duro lavoro quotidiano e sono costantemente alle prese con crimini e situazioni d'emergenza. Alle indagini si alternano le vicissitudini personali dei protagonisti.",
       "immagine": "immagini/programmi-guida/carabinieri5.jpg",
       "inOnda": false
@@ -3784,6 +3853,7 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "15:35",
       "fine": "15:50",
+      "info": "S1 Ep19",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
@@ -3808,6 +3878,7 @@
       "titolo": "Sei forte, maestro!",
       "inizio": "19:20",
       "fine": "21:20",
+      "info": "S1 Ep25/26  Il segreto di Benedetta/Con le buone si ottiene tutto",
       "descrizione": "Emilio, Emilio Solfrizzi, maestro elementare, torna a vivere nella sua città natale per insegnare nella scuola 'Michelangelo', dove il suo grande amico Giulio, Massimo Ciavarro, è direttore. Emilio, grazie alla passione per il proprio lavoro e l'empatia con i suoi allievi, riuscirà sin da subito ad instaurare un ottimo rapporto con gli alunni.",
       "immagine": "immagini/programmi-guida/seifortemaestro.jpg",
       "inOnda": false
@@ -3880,9 +3951,10 @@
       "inOnda": false
     },
     {
-      "titolo": "Il mammo 2",
+      "titolo": "Il mammo",
       "inizio": "05:25",
       "fine": "05:50",
+      "info": "S2 Ep17 Perché tutti quei versi",
       "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
       "immagine": "immagini/programmi-guida/ilmammo.jpg",
       "inOnda": false
@@ -3891,54 +3963,61 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "05:50",
       "fine": "06:00",
+      "info": "S1 Ep20",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Casa dolce casa 2",
+      "titolo": "Casa dolce casa",
       "inizio": "06:00",
       "fine": "06:25",
-      "descrizione": "",
+      "info": "S2 Ep5 Vecchia fiamma",
+      "descrizione": "La serie racconta le vicende della famiglia Bonetti, le cui trame si svolgono interamente all'interno di un appartamento tra equivoci domestici, gag e dinamiche di coppia",
       "immagine": "immagini/programmi-guida/casadolcecasa.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Casa dolce casa 2",
+      "titolo": "Casa dolce casa",
       "inizio": "06:25",
       "fine": "06:50",
-      "descrizione": "",
+      "info": "S2 Ep6 Pulizie pasquali",
+      "descrizione": "La serie racconta le vicende della famiglia Bonetti, le cui trame si svolgono interamente all'interno di un appartamento tra equivoci domestici, gag e dinamiche di coppia",
       "immagine": "immagini/programmi-guida/casadolcecasa.jpg",
       "inOnda": false
     },
     {
-      "titolo": "CentoVetrine 2",
+      "titolo": "CentoVetrine",
       "inizio": "06:50",
       "fine": "07:15",
+      "info": "S2 Ep130",
       "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
       "immagine": "immagini/programmi-guida/centovetrine2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "CentoVetrine 2",
+      "titolo": "CentoVetrine",
       "inizio": "07:15",
       "fine": "07:40",
+      "info": "S2 Ep131",
       "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
       "immagine": "immagini/programmi-guida/centovetrine2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Vivere 2",
+      "titolo": "Vivere",
       "inizio": "07:40",
       "fine": "08:05",
+      "info": "S2 Ep165",
       "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
       "immagine": "immagini/programmi-guida/vivere2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Vivere 2",
+      "titolo": "Vivere",
       "inizio": "08:05",
       "fine": "08:30",
+      "info": "S2 Ep166",
       "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
       "immagine": "immagini/programmi-guida/vivere2.jpg",
       "inOnda": false
@@ -3960,49 +4039,55 @@
       "inOnda": false
     },
     {
-      "titolo": "Don Luca 2",
+      "titolo": "Don Luca",
       "inizio": "10:05",
       "fine": "10:30",
+      "info": "S2 Ep16 Chi non muore si rivede",
       "descrizione": "La serie tratta della missione di Don Luca (Luca Laurenti), parroco nella Chiesa di San Precotto. Ad attenderlo una serie di sorprese non sempre gradite e tante persone da conoscere e sopportare.",
       "immagine": "immagini/programmi-guida/donluca2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Don Luca 2",
+      "titolo": "Don Luca",
       "inizio": "10:30",
       "fine": "10:55",
+      "info": "S2 Ep17 La posta del cuore",
       "descrizione": "La serie tratta della missione di Don Luca (Luca Laurenti), parroco nella Chiesa di San Precotto. Ad attenderlo una serie di sorprese non sempre gradite e tante persone da conoscere e sopportare.",
       "immagine": "immagini/programmi-guida/donluca2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Distretto di polizia 7",
+      "titolo": "Distretto di polizia",
       "inizio": "10:55",
       "fine": "11:50",
+      "info": "S7 Ep18 Un caso di coscienza",
       "descrizione": "Nella settima stagione, Roberto Ardenzi lascia il distretto per passare all'antimafia e la suo posto entra in scena il commissario Marcello Fontana, interpretato da Massimo Dapporto. Vi è anche l'ingresso nel cast di Max Giusti, nel ruolo dell'ispettore Raffaele Marchetti. In questa serie, il Commissario Fontana deve fare i conti con un'indagine riguardante la 'ndrangheta.",
       "immagine": "immagini/programmi-guida/distretto6.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Distretto di polizia 7",
+      "titolo": "Distretto di polizia",
       "inizio": "11:50",
       "fine": "12:45",
+      "info": "S7 Ep19 L'ultima rapina",
       "descrizione": "Nella settima stagione, Roberto Ardenzi lascia il distretto per passare all'antimafia e la suo posto entra in scena il commissario Marcello Fontana, interpretato da Massimo Dapporto. Vi è anche l'ingresso nel cast di Max Giusti, nel ruolo dell'ispettore Raffaele Marchetti. In questa serie, il Commissario Fontana deve fare i conti con un'indagine riguardante la 'ndrangheta.",
       "immagine": "immagini/programmi-guida/distretto7.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Carabinieri 5",
+      "titolo": "Carabinieri",
       "inizio": "12:45",
       "fine": "13:45",
+      "info": "S5 Ep22 Il campione",
       "descrizione": "I Carabinieri di stanza a Città della Pieve, in Umbria, affrontano un duro lavoro quotidiano e sono costantemente alle prese con crimini e situazioni d'emergenza. Alle indagini si alternano le vicissitudini personali dei protagonisti.",
       "immagine": "immagini/programmi-guida/carabinieri5.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Carabinieri 5",
+      "titolo": "Carabinieri",
       "inizio": "13:45",
       "fine": "14:45",
+      "info": "S5 Ep23 Che bella vuole apparire...",
       "descrizione": "I Carabinieri di stanza a Città della Pieve, in Umbria, affrontano un duro lavoro quotidiano e sono costantemente alle prese con crimini e situazioni d'emergenza. Alle indagini si alternano le vicissitudini personali dei protagonisti.",
       "immagine": "immagini/programmi-guida/carabinieri5.jpg",
       "inOnda": false
@@ -4027,6 +4112,7 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "15:35",
       "fine": "15:50",
+      "info": "S1 Ep21",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
@@ -4051,6 +4137,7 @@
       "titolo": "Sei forte, maestro!",
       "inizio": "19:20",
       "fine": "21:20",
+      "info": "S1 Ep27/28 Un amore magico/Al cuor non si comanda",
       "descrizione": "Emilio, Emilio Solfrizzi, maestro elementare, torna a vivere nella sua città natale per insegnare nella scuola 'Michelangelo', dove il suo grande amico Giulio, Massimo Ciavarro, è direttore. Emilio, grazie alla passione per il proprio lavoro e l'empatia con i suoi allievi, riuscirà sin da subito ad instaurare un ottimo rapporto con gli alunni.",
       "immagine": "immagini/programmi-guida/seifortemaestro.jpg",
       "inOnda": false
@@ -4123,57 +4210,64 @@
       "inOnda": false
     },
     {
-      "titolo": "Il mammo 2",
+      "titolo": "Il mammo",
       "inizio": "05:35",
       "fine": "06:00",
+      "info": "S2 Ep18 Anche le stelle lavano i piatti",
       "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
       "immagine": "immagini/programmi-guida/ilmammo.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Casa dolce casa 2",
+      "titolo": "Casa dolce casa",
       "inizio": "06:00",
       "fine": "06:25",
-      "descrizione": "",
+      "info": "S2 Ep7 Recita di beneficenza",
+      "descrizione": "La serie racconta le vicende della famiglia Bonetti, le cui trame si svolgono interamente all'interno di un appartamento tra equivoci domestici, gag e dinamiche di coppia",
       "immagine": "immagini/programmi-guida/casadolcecasa.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Casa dolce casa 2",
+      "titolo": "Casa dolce casa",
       "inizio": "06:25",
       "fine": "06:50",
-      "descrizione": "",
+      "info": "S2 Ep8 Bolle di sapone",
+      "descrizione": "La serie racconta le vicende della famiglia Bonetti, le cui trame si svolgono interamente all'interno di un appartamento tra equivoci domestici, gag e dinamiche di coppia",
       "immagine": "immagini/programmi-guida/casadolcecasa.jpg",
       "inOnda": false
     },
     {
-      "titolo": "CentoVetrine 2",
+      "titolo": "CentoVetrine",
       "inizio": "06:50",
       "fine": "07:15",
+      "info": "S2 Ep132",
       "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
       "immagine": "immagini/programmi-guida/centovetrine2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "CentoVetrine 2",
+      "titolo": "CentoVetrine",
       "inizio": "07:15",
       "fine": "07:40",
+      "info": "S2 Ep133",
       "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
       "immagine": "immagini/programmi-guida/centovetrine2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Vivere 2",
+      "titolo": "Vivere",
       "inizio": "07:40",
       "fine": "08:05",
+      "info": "S2 Ep167",
       "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
       "immagine": "immagini/programmi-guida/vivere2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Vivere 2",
+      "titolo": "Vivere",
       "inizio": "08:05",
       "fine": "08:30",
+      "info": "S2 Ep168",
       "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
       "immagine": "immagini/programmi-guida/vivere2.jpg",
       "inOnda": false
@@ -4195,49 +4289,55 @@
       "inOnda": false
     },
     {
-      "titolo": "Don Luca 2",
+      "titolo": "Don Luca",
       "inizio": "10:05",
       "fine": "10:30",
+      "info": "S2 Ep18 Non c'è più religione",
       "descrizione": "La serie tratta della missione di Don Luca (Luca Laurenti), parroco nella Chiesa di San Precotto. Ad attenderlo una serie di sorprese non sempre gradite e tante persone da conoscere e sopportare.",
       "immagine": "immagini/programmi-guida/donluca2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Don Luca 2",
+      "titolo": "Don Luca",
       "inizio": "10:30",
       "fine": "10:55",
+      "info": "S2 Ep19 La fiamma della libertà",
       "descrizione": "La serie tratta della missione di Don Luca (Luca Laurenti), parroco nella Chiesa di San Precotto. Ad attenderlo una serie di sorprese non sempre gradite e tante persone da conoscere e sopportare.",
       "immagine": "immagini/programmi-guida/donluca2.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Distretto di polizia 7",
+      "titolo": "Distretto di polizia",
       "inizio": "10:55",
       "fine": "11:50",
+      "info": "S7 Ep20 Un sogno spezzato",
       "descrizione": "Nella settima stagione, Roberto Ardenzi lascia il distretto per passare all'antimafia e la suo posto entra in scena il commissario Marcello Fontana, interpretato da Massimo Dapporto. Vi è anche l'ingresso nel cast di Max Giusti, nel ruolo dell'ispettore Raffaele Marchetti. In questa serie, il Commissario Fontana deve fare i conti con un'indagine riguardante la 'ndrangheta.",
       "immagine": "immagini/programmi-guida/distretto6.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Distretto di polizia 7",
+      "titolo": "Distretto di polizia",
       "inizio": "11:50",
       "fine": "12:45",
+      "info": "S7 Ep21 Il ritorno",
       "descrizione": "Nella settima stagione, Roberto Ardenzi lascia il distretto per passare all'antimafia e la suo posto entra in scena il commissario Marcello Fontana, interpretato da Massimo Dapporto. Vi è anche l'ingresso nel cast di Max Giusti, nel ruolo dell'ispettore Raffaele Marchetti. In questa serie, il Commissario Fontana deve fare i conti con un'indagine riguardante la 'ndrangheta.",
       "immagine": "immagini/programmi-guida/distretto7.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Carabinieri 5",
+      "titolo": "Carabinieri",
       "inizio": "12:45",
       "fine": "13:45",
+      "info": "S5 Ep24 I miei migliori amici",
       "descrizione": "I Carabinieri di stanza a Città della Pieve, in Umbria, affrontano un duro lavoro quotidiano e sono costantemente alle prese con crimini e situazioni d'emergenza. Alle indagini si alternano le vicissitudini personali dei protagonisti.",
       "immagine": "immagini/programmi-guida/carabinieri5.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Carabinieri 6",
+      "titolo": "Carabinieri",
       "inizio": "13:45",
       "fine": "14:45",
+      "info": "S6 Ep1 Meglio sole...",
       "descrizione": "Due nuovi arrivi nella sesta stagione a Città della Pieve: Laura Flestero, e il bel brigadiere Giacomo Contini, sciupa femmine. Ad eccezione di Marco e Caterina, che si sono lasciati, in caserma si respira un clima di grande armonia.",
       "immagine": "carabinieri6.jpeg",
       "inOnda": false
@@ -4262,6 +4362,7 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "15:35",
       "fine": "15:50",
+      "info": "S1 Ep22",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
       "inOnda": false
@@ -4283,9 +4384,10 @@
       "inOnda": false
     },
     {
-      "titolo": "Sei forte, maestro! 2",
+      "titolo": "Sei forte, maestro!",
       "inizio": "19:20",
       "fine": "21:20",
+      "info": "S2 Ep1/2 La strategia del ragno/La più brava di tutti",
       "descrizione": "Seconda stagione della fortunatissima serie con Emilio Solfrizzi. Terminata l'estate, Emilio Ricci e Barbara Loriani decidono di andare a vivere insieme in attesa di convolare a nozze. Mentre la figlia di Emilio, Sabrina, è ancora in vacanza, Emilio viene trasferito in un altro istituto ed è costretto ad abbandonare i suoi amati alunni della V A.",
       "immagine": "immagini/programmi-guida/seifortemaestro2.jpeg",
       "inOnda": false
@@ -4306,6 +4408,424 @@
       "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
       "inOnda": false
     }
+  ],
+
+  "2026-08-08": [
+{
+      "titolo": "Sarabanda",
+      "inizio": "00:30",
+      "fine": "01:20",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "01:20",
+      "fine": "02:10",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "02:10",
+      "fine": "03:00",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "03:00",
+      "fine": "03:45",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "03:45",
+      "fine": "04:30",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Mai dire Gallery",
+      "inizio": "04:30",
+      "fine": "05:25",
+      "descrizione": "Con la Gialappa's Band",
+      "immagine": "immagini/programmi-guida/maidiregallery.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Il mammo",
+      "inizio": "05:25",
+      "fine": "05:50",
+      "info": "S2 Ep19 Spia",
+      "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
+      "immagine": "immagini/programmi-guida/ilmammo.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Finché c'è Ditta c'è speranza",
+      "inizio": "05:50",
+      "fine": "06:00",
+      "info": "S1 Ep23",
+      "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
+      "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Il tredicesimo apostolo - Il prescelto",
+      "inizio": "06:00",
+      "fine": "06:55",
+      "info": "S1 Ep 1 Gemelli",
+      "descrizione": "Gabriel Antinori è un gesuita, docente di teologia, deputato a indagare su presunti fenomeni paranormali. E' anche un uomo tormentato da un passato che non riesce a ricordare. Rimasto orfano, è cresciuto sotto la tutela di Monsignor Demetrio Antinori, lo zio che gli affida il primo caso su cui indagare.",
+      "immagine": "immagini/programmi-guida/tredicesimoapostoloep1.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Il tredicesimo apostolo - Il prescelto",
+      "inizio": "06:55",
+      "fine": "08:00",
+      "info": "S1 Ep 2 Anatema",
+      "descrizione": "Gabriel e Claudia si trovano ad indagare su un fenomeno di presunta emolacria, una giovanissima studentessa del Santa Dorotea, in un collegio privato femminile, lacrima sangue. Gabriel scopre inaspettatamente che il fenomeno è legato ad una serie di disegni che semineranno terrore e morte all'interno del collegio.",
+      "immagine": "immagini/programmi-guida/iltredicesimoapostoloep2.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "The Wall",
+      "inizio": "08:00",
+      "fine": "08:50",
+      "descrizione": "Torna il mega tabellone luminoso da cui scendono le sfere che possono cambiare la vita dei concorrenti. Conduce Max Giusti.",
+      "immagine": "immagini/programmi-guida/thewall.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Festivalbar 1983 - Discoverde Chioggia (parte prima)",
+      "inizio": "08:50",
+      "fine": "10:30",
+      "descrizione": "Riviviamo le note e i personaggi degli anni 80 proposti nel popolare programma musicale del periodo.",
+      "immagine": "immagini/programmi-guida/discoverdechioggiap1.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Festivalbar 1983 - Discoverde Chioggia (parte seconda)",
+      "inizio": "10:30",
+      "fine": "12:15",
+      "descrizione": "Riviviamo le note e i personaggi degli anni 80 proposti nel popolare programma musicale del periodo.",
+      "immagine": "immagini/programmi-guida/discoverdechioggiap2.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Tira & Molla",
+      "inizio": "12:15",
+      "fine": "13:10",
+      "descrizione": "Con Paolo Bonolis, Tira e Molla e' un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
+      "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Ok, il prezzo è giusto!",
+      "inizio": "13:10",
+      "fine": "15:00",
+      "descrizione": "Lo storico game show che ha appassionato intere generazioni. Tra prove di abilità, offerte e strategie, i concorrenti tentano di indovinare il prezzo esatto dei prodotti in palio per conquistare premi sempre più ricchi. Con Iva Zanicchi.",
+      "immagine": "immagini/programmi-guida/okilprezzozanicchi.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Mai dire Candid",
+      "inizio": "15:00",
+      "fine": "17:00",
+      "descrizione": "La Gialappa's Band commenta le candid camera più divertenti e le situazioni più assurde, tra scherzi, risate e momenti cult della televisione italiana.",
+      "immagine": "immagini/programmi-guida/maidirecandid.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Lo scherzo perfetto",
+      "inizio": "17:00",
+      "fine": "19:30",
+      "descrizione": "Con Teo Mammucari.",
+      "immagine": "immagini/programmi-guida/scherzoperfettomammucari.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Ciro, il figlio di Target",
+      "inizio": "19:30",
+      "fine": "20:20",
+      "descrizione": "Gaia De Laurentis, insieme a Luca e Paolo apre, negli Anni '90, 'una finestra sull'Italia che cambia'...",
+      "immagine": "immagini/programmi-guida/ciroilfiglioditarget.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Mai dire Isola",
+      "inizio": "20:20",
+      "fine": "20:50",
+      "descrizione": "La Gialappa's band commenta le vicende quotidiane dei naufraghi de 'L'isola dei famosi' attraverso l'utilizzo dei filmati più divertenti e le imitazioni dei concorrenti più celebri.",
+      "immagine": "immagini/programmi-guida/maidireisola.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Mai dire Isola",
+      "inizio": "20:50",
+      "fine": "21:15",
+      "descrizione": "La Gialappa's band commenta le vicende quotidiane dei naufraghi de 'L'isola dei famosi' attraverso l'utilizzo dei filmati più divertenti e le imitazioni dei concorrenti più celebri.",
+      "immagine": "immagini/programmi-guida/maidireisola.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sarabanda, il gioco della musica - Il match",
+      "inizio": "21:15",
+      "fine": "23:35",
+      "descrizione": "Enrico Papi conduce uno speciale di Sarabanda cui prendono parte noti cantanti.",
+      "immagine": "immagini/programmi-guida/sarabandamatchfeb2001.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sarabanda",
+      "inizio": "23:35",
+      "fine": "00:25",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    }
+  ],
+
+  "2026-08-09": [
+    {
+      "titolo": "Sarabanda",
+      "inizio": "00:25",
+      "fine": "01:15",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "01:15",
+      "fine": "02:05",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "02:05",
+      "fine": "02:55",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "02:55",
+      "fine": "03:40",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "03:40",
+      "fine": "04:25",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Mai dire Gallery",
+      "inizio": "04:25",
+      "fine": "05:20",
+      "descrizione": "Con la Gialappa's Band",
+      "immagine": "immagini/programmi-guida/maidiregallery.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Il mammo",
+      "inizio": "05:20",
+      "fine": "05:45",
+      "info": "S2 Ep20 Ti ho fatto la festa!",
+      "descrizione": "Un vedovo e talentuoso creatore di fumetti, Silvano Zerbi, naviga nel caos quotidiano dell'educazione dei suoi tre figli: Raffaella, Luca e la piccola Linda. La sua esistenza è vivacizzata dalla presenza costante di Patti, attrice spagnola di telenovelas e vicina di casa, e dall'irriducibile Pierpaolo, amico di famiglia e maestro nell'arte di finire nei pasticci. Intanto, Giada, la figlia del suo capo, è follemente innamorata di lui.",
+      "immagine": "immagini/programmi-guida/ilmammo.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Finché c'è Ditta c'è speranza",
+      "inizio": "05:45",
+      "fine": "06:00",
+      "info": "S1 Ep24",
+      "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
+      "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Romanzo siciliano",
+      "inizio": "06:00",
+      "fine": "07:40",
+      "descrizione": "Le vicende del colonnello Sergio Spada, a capo del comando dei Carabinieri di Siracusa, che combatte quotidianamente contro mafia e malavita per fare trionfare la giustizia in una terra splendida ma desolata.",
+      "immagine": "immagini/programmi-guida/romanzosiciliano.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Romanzo siciliano",
+      "inizio": "07:40",
+      "fine": "09:15",
+      "descrizione": "Le vicende del colonnello Sergio Spada, a capo del comando dei Carabinieri di Siracusa, che combatte quotidianamente contro mafia e malavita per fare trionfare la giustizia in una terra splendida ma desolata.",
+      "immagine": "immagini/programmi-guida/romanzosiciliano.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Il tempo del coraggio e dell'amore",
+      "inizio": "09:15",
+      "fine": "10:55",
+      "descrizione": "La vita di una giovane sarta, le sue passioni e le sue difficoltà si intrecciano con le vicende storiche della Spagna alla vigilia del colpo di stato del 1936.",
+      "immagine": "immagini/programmi-guida/iltempodelcoraggioedellamore.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Il tempo del coraggio e dell'amore",
+      "inizio": "10:55",
+      "fine": "12:35",
+      "descrizione": "La vita di una giovane sarta, le sue passioni e le sue difficoltà si intrecciano con le vicende storiche della Spagna alla vigilia del colpo di stato del 1936.",
+      "immagine": "immagini/programmi-guida/iltempodelcoraggioedellamore.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Mai dire TV",
+      "inizio": "12:35",
+      "fine": "13:10",
+      "descrizione": "Trasmissione satirica ideata dalla Gialappa's Band con la collaborazione di Davide Parenti.",
+      "immagine": "immagini/programmi-guida/maidiretv.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Buona Domenica",
+      "inizio": "13:10",
+      "fine": "17:20",
+      "descrizione": "Gerry Scotti e Gabriella Carlucci conducono una delle edizioni di successo di Buona Domenica. Con la partecipazione di Umberto Smaila, Trettré, Cristina D'Avena.",
+      "immagine": "immagini/programmi-guida/buonadomenicascotticarlucci.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Questa casa non è un albergo",
+      "inizio": "17:20",
+      "fine": "19:15",
+      "descrizione": "Le vicende dei Donati, una famiglia di Siena composta da due genitori e quattro figli, alle prese con problemi quotidiani.",
+      "immagine": "immagini/programmi-guida/questacasanoneunalbergo.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Aspettando Grande Fratello",
+      "inizio": "19:15",
+      "fine": "20:15",
+      "descrizione": "In attesa della nuova edizione, Mediaset ripropone i momenti migliori e più divertenti del Grande Fratello.",
+      "immagine": "immagini/programmi-guida/aspettandograndefratello.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Love Bugs",
+      "inizio": "20:15",
+      "fine": "21:15",
+      "descrizione": "Una coppia parzialmente disfunzionale ma, a suo modo, felice. L'allegria spontanea, la simpatia dei personaggi risultano del tutto irresistibili. L'assortimento tra i due interpreti è perfetto e l'alchimia tra loro funziona perfettamente.",
+      "immagine": "immagini/programmi-guida/lovebugs.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "SandraRaimondo Show",
+      "inizio": "21:15",
+      "fine": "23:10",
+      "descrizione": "Sandra Mondaini e Raimondo Vianello protagonisti assoluti di una trasmissione di altissimo livello che ha fatto la storia di Canale 5.",
+      "immagine": "immagini/programmi-guida/sandraraimondoshow.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sarabanda",
+      "inizio": "23:10",
+      "fine": "24:00",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    }
+  ],
+
+  "2026-08-10": [
+    {
+      "titolo": "Sarabanda",
+      "inizio": "00:00",
+      "fine": "00:50",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "00:50",
+      "fine": "01:40",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "01:40",
+      "fine": "02:30",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "02:30",
+      "fine": "03:15",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "03:15",
+      "fine": "04:00",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Mai dire Gallery",
+      "inizio": "04:00",
+      "fine": "04:55",
+      "descrizione": "Con la Gialappa's Band",
+      "immagine": "immagini/programmi-guida/maidiregallery.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Il mammo",
+      "inizio": "04:55",
+      "fine": "05:20",
+      "info": "S3 Ep1 Il grande addio",
+      "descrizione": "La terza stagione di 'Il Mammo' riserva grandi sorprese: la famiglia Zerbi dà il benvenuto alla piccola Pepita, mentre Raffa si appresta a lasciare il nido per un'avventura entusiasmante in Spagna. Ma come farà Silvano senza la sua Raffa? Entrano nel cast Ulla, la tata ingaggiata da Silvano per aiutarlo nella gestione della casa e dei figli, dopo la partenza della figlia maggiore Raffa per studiare in Spagna, e Elisa, una giovane aspirante show-girl.",
+      "immagine": "immagini/programmi-guida/ilmammo3.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Il mammo",
+      "inizio": "05:20",
+      "fine": "05:45",
+      "info": "S3 Ep2 Arriba, arriba!",
+      "descrizione": "La terza stagione di 'Il Mammo' riserva grandi sorprese: la famiglia Zerbi dà il benvenuto alla piccola Pepita, mentre Raffa si appresta a lasciare il nido per un'avventura entusiasmante in Spagna. Ma come farà Silvano senza la sua Raffa? Entrano nel cast Ulla, la tata ingaggiata da Silvano per aiutarlo nella gestione della casa e dei figli, dopo la partenza della figlia maggiore Raffa per studiare in Spagna, e Elisa, una giovane aspirante show-girl.",
+      "immagine": "immagini/programmi-guida/ilmammo3.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Finché c'è Ditta c'è speranza",
+      "inizio": "05:45",
+      "fine": "06:00",
+      "info": "S1 Ep25",
+      "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
+      "immagine": "immagini/programmi-guida/finchecedittacesperanza.jpg",
+      "inOnda": false
+    }
   ]
-  
+
 }

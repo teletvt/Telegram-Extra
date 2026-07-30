@@ -29,9 +29,11 @@ body {
 }
 
 
+
 /* ==========================
    HEADER
 ========================== */
+
 
 header {
 
@@ -58,6 +60,7 @@ header {
 }
 
 
+
 .logo {
 
     height:75px;
@@ -67,9 +70,13 @@ header {
 }
 
 
+
+
+
 /* ==========================
    MENU
 ========================== */
+
 
 nav {
 
@@ -80,6 +87,7 @@ nav {
     gap:10px;
 
 }
+
 
 
 nav a {
@@ -101,6 +109,7 @@ nav a {
 }
 
 
+
 nav a:hover {
 
     background:#0066cc;
@@ -108,9 +117,13 @@ nav a:hover {
 }
 
 
+
+
+
 /* ==========================
    HERO
 ========================== */
+
 
 .hero {
 
@@ -127,6 +140,7 @@ nav a:hover {
 }
 
 
+
 .hero img {
 
     width:100%;
@@ -138,6 +152,7 @@ nav a:hover {
     object-position:center;
 
 }
+
 
 
 .hero-testo {
@@ -155,6 +170,7 @@ nav a:hover {
 }
 
 
+
 .hero-testo h1 {
 
     font-size:36px;
@@ -164,11 +180,13 @@ nav a:hover {
 }
 
 
+
 .hero-testo p {
 
     font-size:18px;
 
 }
+
 
 
 .hero-testo h3 {
@@ -178,9 +196,13 @@ nav a:hover {
 }
 
 
+
+
+
 /* ==========================
    COLLEGAMENTI
 ========================== */
+
 
 .collegamenti {
 
@@ -191,6 +213,7 @@ nav a:hover {
     margin:25px 0;
 
 }
+
 
 
 .box-collegamento a {
@@ -216,9 +239,13 @@ nav a:hover {
 }
 
 
+
+
+
 /* ==========================
    PROMO HOME
 ========================== */
+
 
 .promo-home {
 
@@ -229,6 +256,7 @@ nav a:hover {
 }
 
 
+
 .promo-home h2 {
 
     font-size:32px;
@@ -236,6 +264,7 @@ nav a:hover {
     margin-bottom:25px;
 
 }
+
 
 
 #lista-promo-home {
@@ -249,6 +278,7 @@ nav a:hover {
     padding-bottom:20px;
 
 }
+
 
 
 .scheda-promo {
@@ -268,11 +298,13 @@ nav a:hover {
 }
 
 
+
 .scheda-promo:hover {
 
     transform:translateY(-5px);
 
 }
+
 
 
 .scheda-promo video {
@@ -284,6 +316,7 @@ nav a:hover {
 }
 
 
+
 .scheda-promo h3 {
 
     font-size:20px;
@@ -293,11 +326,19 @@ nav a:hover {
 }
 
 
+
 .scheda-promo p {
 
     color:#ccc;
 
 }
+
+
+
+
+/* ==========================
+   PROMO PULSANTI
+========================== */
 
 
 .tutti-promo {
@@ -307,6 +348,7 @@ nav a:hover {
     margin-top:30px;
 
 }
+
 
 
 .tutti-promo a {
@@ -330,9 +372,13 @@ nav a:hover {
 }
 
 
+
+
+
 /* ==========================
    COLLEGAMENTI PICCOLI
 ========================== */
+
 
 .collegamenti-piccoli {
 
@@ -343,6 +389,7 @@ nav a:hover {
     justify-content:center;
 
 }
+
 
 
 .collegamenti-piccoli .box-collegamento a {
@@ -356,9 +403,13 @@ nav a:hover {
 }
 
 
+
+
+
 /* ==========================
-   GUIDA TV
+   GUIDA TV GENERALE
 ========================== */
+
 
 .guida {
 
@@ -367,6 +418,7 @@ nav a:hover {
     margin:40px 0;
 
 }
+
 
 
 .guida h1 {
@@ -378,52 +430,13 @@ nav a:hover {
 }
 
 
-.giorni {
 
-    width:100%;
-
-    display:flex;
-
-    justify-content:center;
-
-    gap:10px;
-
-    overflow-x:auto;
-
-    padding:20px;
-
-}
-
-
-.giorni button {
-
-    background:#0b2447;
-
-    color:white;
-
-    border:none;
-
-    padding:12px 20px;
-
-    border-radius:15px;
-
-    cursor:pointer;
-
-    min-width:80px;
-
-}
-
-
-.giorni button.giorno-attivo {
-
-    background:#0066cc;
-
-}
 
 
 /* ==========================
-   GUIDA PROGRAMMI
+   PROGRAMMI CARD
 ========================== */
+
 
 .programma {
 
@@ -444,6 +457,7 @@ nav a:hover {
 }
 
 
+
 .programma.in-onda {
 
     border:3px solid #00aaff;
@@ -451,6 +465,7 @@ nav a:hover {
     background:#123866;
 
 }
+
 
 
 .programma small {
@@ -462,307 +477,13 @@ nav a:hover {
 }
 
 
-/* ==========================
-   POPUP GUIDA TV
-========================== */
 
-.popup {
-
-    display:none;
-
-    position:fixed;
-
-    top:0;
-
-    left:0;
-
-    width:100%;
-
-    height:100%;
-
-    background:rgba(0,0,0,.75);
-
-    justify-content:center;
-
-    align-items:center;
-
-    z-index:2000;
-
-}
-
-
-.popup-content {
-
-    position:relative;
-
-    background:#071426;
-
-    width:700px;
-
-    height:520px;
-
-    padding:30px;
-
-    border-radius:20px;
-
-    text-align:center;
-
-    box-shadow:0 10px 40px rgba(0,0,0,.5);
-
-    overflow:hidden;
-
-}
-
-
-.popup-content img {
-
-    width:584px;
-
-    height:329px;
-
-    object-fit:contain;
-
-    background:#000;
-
-    border-radius:12px;
-
-}
-
-
-.popup-content h2 {
-
-    font-size:22px;
-
-    margin:10px 0 5px;
-
-}
-
-
-.popup-content p {
-
-    color:#cbd5e1;
-
-    font-size:14px;
-
-}
-
-
-#popup-orario {
-
-    color:#8fb3d9;
-
-    font-size:13px;
-
-}
-
-
-.chiudi {
-
-    position:absolute;
-    top:10px;
-    right:15px;
-
-    background:none;
-    border:none;
-
-    color:white;
-    font-size:35px;
-    cursor:pointer;
-
-    z-index:9999;
-
-}
-
-
-/* ==========================
-   VERSIONE MOBILE
-========================== */
-
-@media(max-width:700px) {
-
-
-header {
-
-    height:70px;
-
-    padding:0 15px;
-
-}
-
-
-.logo {
-
-    height:55px;
-
-}
-
-
-nav {
-
-    gap:5px;
-
-}
-
-
-nav a {
-
-    font-size:13px;
-
-    padding:7px 12px;
-
-}
-
-
-/* HERO MOBILE */
-
-.hero {
-
-    height:260px;
-
-}
-
-
-.hero-testo {
-
-    left:20px;
-
-    bottom:20px;
-
-    max-width:300px;
-
-}
-
-
-.hero-testo h1 {
-
-    font-size:28px;
-
-}
-
-
-.hero-testo p {
-
-    font-size:15px;
-
-}
-
-
-.hero-testo h3 {
-
-    font-size:17px;
-
-}
-
-
-/* PULSANTI */
-
-.box-collegamento a {
-
-    padding:12px 35px;
-
-    font-size:16px;
-
-}
-
-
-/* PROMO */
-
-.promo-home {
-
-    width:90%;
-
-}
-
-
-.promo-home h2 {
-
-    font-size:28px;
-
-}
-
-
-.scheda-promo {
-
-    min-width:260px;
-
-}
-
-
-/* GUIDA */
-
-.guida {
-
-    width:100%;
-
-    margin:20px 0;
-
-}
-
-
-.guida h1 {
-
-    font-size:26px;
-
-    margin-left:15px;
-
-}
-
-
-.giorni {
-
-    justify-content:center;
-
-    padding:15px;
-
-}
-
-
-.giorni button {
-
-    min-width:65px;
-
-    padding:10px;
-
-}
-
-
-/* POPUP MOBILE */
-
-.popup-content {
-
-    width:95%;
-
-    height:auto;
-
-    padding:20px;
-
-}
-
-
-.popup-content img {
-
-    width:100%;
-
-    height:auto;
-
-    max-height:250px;
-
-}
-
-
-.popup-content h2 {
-
-    font-size:20px;
-
-}
-
-
-}
 
 
 /* ==========================
    SICUREZZA LARGHEZZA
 ========================== */
+
 
 html,
 body {
@@ -776,9 +497,13 @@ body {
 }
 
 
+
+
+
 /* ==========================
    ANTEPRIMA PROMO
 ========================== */
+
 
 .anteprima-promo {
 
@@ -801,9 +526,13 @@ body {
 }
 
 
+
+
+
 /* ==========================
    PROMO PRINCIPALE
 ========================== */
+
 
 .promo-principale {
 
@@ -816,6 +545,7 @@ body {
 }
 
 
+
 .promo-principale video {
 
     width:100%;
@@ -825,23 +555,146 @@ body {
 }
 
 
+/* ==========================
+   MOBILE
+========================== */
+
+
 @media(max-width:700px) {
 
 
-nav a {
+header {
 
-    font-size:12px;
+    height:70px;
 
-    padding:6px 10px;
+    padding:0 15px;
 
 }
+
 
 
 .logo {
 
-    height:50px;
+    height:55px;
 
 }
+
+
+
+nav {
+
+    gap:5px;
+
+}
+
+
+
+nav a {
+
+    font-size:13px;
+
+    padding:7px 12px;
+
+}
+
+
+
+
+
+/* HERO MOBILE */
+
+
+.hero {
+
+    height:260px;
+
+}
+
+
+
+.hero-testo {
+
+    left:20px;
+
+    bottom:20px;
+
+    max-width:300px;
+
+}
+
+
+
+.hero-testo h1 {
+
+    font-size:28px;
+
+}
+
+
+
+.hero-testo p {
+
+    font-size:15px;
+
+}
+
+
+
+.hero-testo h3 {
+
+    font-size:17px;
+
+}
+
+
+
+
+
+/* PULSANTI */
+
+
+.box-collegamento a {
+
+    padding:12px 35px;
+
+    font-size:16px;
+
+}
+
+
+
+
+
+/* PROMO */
+
+
+.promo-home {
+
+    width:90%;
+
+}
+
+
+
+.promo-home h2 {
+
+    font-size:28px;
+
+}
+
+
+
+.scheda-promo {
+
+    min-width:260px;
+
+}
+
+
+
+
+
+/* PROMO PRINCIPALE */
 
 
 .promo-principale {
@@ -849,6 +702,9 @@ nav a {
     width:95%;
 
 }
+
+
+
 
 
 .anteprima-promo {
@@ -860,31 +716,37 @@ nav a {
 }
 
 
+
 }
 
 
-.chiudi {
 
-    position:absolute;
 
-    top:10px;
 
-    right:20px;
+/* ==========================
+   VERSIONE MOBILE MENU
+========================== */
 
-    width:45px;
 
-    height:45px;
+@media(max-width:700px){
 
-    line-height:40px;
 
-    text-align:center;
+nav a {
 
-    font-size:35px;
+    font-size:12px;
 
-    color:white;
+    padding:6px 10px;
 
-    cursor:pointer;
+}
 
-    z-index:9999;
+
+
+.logo {
+
+    height:50px;
+
+}
+
+
 
 }

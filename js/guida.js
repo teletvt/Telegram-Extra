@@ -3,19 +3,32 @@
 // ==========================
 
 
-function apriProgramma(titolo, orario, descrizione, immagine) {
+function apriProgramma(titolo, orario, info, descrizione, immagine){
 
 
-    document.getElementById("popup").style.display = "flex";
+    const popup = document.getElementById("popup");
 
 
-    document.getElementById("popup-titolo").innerHTML = titolo;
+    popup.style.display = "flex";
 
-    document.getElementById("popup-orario").innerHTML = orario;
 
-    document.getElementById("popup-descrizione").innerHTML = descrizione;
+    document.getElementById("popup-img").src = immagine || "";
 
-    document.getElementById("popup-img").src = immagine;
+
+    document.getElementById("popup-orario").innerHTML =
+        orario;
+
+
+    document.getElementById("popup-titolo").innerHTML =
+        titolo;
+
+
+    document.getElementById("popup-info").innerHTML =
+        info || "";
+
+
+    document.getElementById("popup-descrizione").innerHTML =
+        descrizione || "";
 
 
 }
@@ -36,9 +49,14 @@ function chiudiProgramma(){
 
 
 
-// chiusura con X
+// ==========================
+// CHIUSURA POPUP
+// ==========================
 
-const pulsanteChiudi = document.getElementById("chiudi-popup");
+
+const pulsanteChiudi =
+document.getElementById("chiudi-popup");
+
 
 
 if(pulsanteChiudi){
@@ -87,10 +105,11 @@ if(pulsanteChiudi){
 // ==========================
 
 
-const timeline = document.querySelector(".timeline");
+const timeline =
+document.querySelector(".timeline");
 
 
-let premuto = false;
+let premuto=false;
 
 let posizioneInizio;
 
@@ -107,10 +126,12 @@ timeline.addEventListener("mousedown",e=>{
     premuto=true;
 
 
-    posizioneInizio=e.pageX-timeline.offsetLeft;
+    posizioneInizio=
+    e.pageX-timeline.offsetLeft;
 
 
-    scrollInizio=timeline.scrollLeft;
+    scrollInizio=
+    timeline.scrollLeft;
 
 
 });
@@ -146,13 +167,16 @@ timeline.addEventListener("mousemove",e=>{
     e.preventDefault();
 
 
-    let posizione=e.pageX-timeline.offsetLeft;
+    let posizione=
+    e.pageX-timeline.offsetLeft;
 
 
-    let movimento=(posizione-posizioneInizio)*2;
+    let movimento=
+    (posizione-posizioneInizio)*2;
 
 
-    timeline.scrollLeft=scrollInizio-movimento;
+    timeline.scrollLeft=
+    scrollInizio-movimento;
 
 
 });
@@ -194,7 +218,9 @@ const giorniVisibili=7;
 function creaGiorni(){
 
 
-const contenitore=document.getElementById("giorni-container");
+const contenitore=
+document.getElementById("giorni-container");
+
 
 
 contenitore.innerHTML="";
@@ -229,11 +255,12 @@ nome="OGGI";
 }else{
 
 
-nome=giorno.toLocaleDateString(
-    "it-IT",
-    {
-        weekday:"short"
-    }
+nome=
+giorno.toLocaleDateString(
+"it-IT",
+{
+weekday:"short"
+}
 ).toUpperCase();
 
 
@@ -241,7 +268,8 @@ nome=giorno.toLocaleDateString(
 
 
 
-let bottone=document.createElement("button");
+let bottone=
+document.createElement("button");
 
 
 
@@ -256,8 +284,8 @@ bottone.onclick=function(){
 
 
 selezionaGiorno(
-    giorno,
-    bottone
+giorno,
+bottone
 );
 
 
@@ -268,15 +296,18 @@ selezionaGiorno(
 if(i===0){
 
 
-bottone.classList.add("giorno-attivo");
+bottone.classList.add(
+"giorno-attivo"
+);
 
 
 }
 
 
 
-contenitore.appendChild(bottone);
-
+contenitore.appendChild(
+bottone
+);
 
 
 }
@@ -306,19 +337,20 @@ document
 .forEach(b=>{
 
 
-b.classList.remove("giorno-attivo");
+b.classList.remove(
+"giorno-attivo"
+);
 
 
 });
 
 
-
-bottone.classList.add("giorno-attivo");
-
+bottone.classList.add(
+"giorno-attivo"
+);
 
 
 caricaProgrammi(giorno);
-
 
 
 }
@@ -366,7 +398,6 @@ parseInt(b[1]);
 
 
 
-
 if(minutiFine<minutiInizio){
 
 
@@ -408,7 +439,8 @@ minutiAttuali<minutiFine
 function creaOrari(){
 
 
-const contenitore=document.getElementById("orari");
+const contenitore=
+document.getElementById("orari");
 
 
 contenitore.innerHTML="";
@@ -418,7 +450,9 @@ contenitore.innerHTML="";
 for(let ora=0;ora<24;ora++){
 
 
-let span=document.createElement("span");
+let span=
+document.createElement("span");
+
 
 
 span.innerHTML=
@@ -431,7 +465,6 @@ contenitore.appendChild(span);
 
 
 }
-
 
 
 }
@@ -453,12 +486,12 @@ function caricaProgrammi(giorno){
 
 
 
-const lista=document.getElementById("lista-programmi");
+const lista=
+document.getElementById("lista-programmi");
 
 
-const titolo=document.getElementById("giorno-selezionato");
-
-
+const titolo=
+document.getElementById("giorno-selezionato");
 
 
 
@@ -469,7 +502,6 @@ giorno.getFullYear()
 String(giorno.getMonth()+1).padStart(2,"0")
 +"-"+
 String(giorno.getDate()).padStart(2,"0");
-
 
 
 
@@ -486,7 +518,8 @@ giorno.getFullYear()===oggi.getFullYear()
 ){
 
 
-titolo.innerHTML="Programmazione di oggi";
+titolo.innerHTML=
+"Programmazione di oggi";
 
 
 }else{
@@ -511,14 +544,15 @@ month:"long"
 
 
 
-fetch("programmi.json?v="+Date.now())
+fetch(
+"programmi.json?v="+Date.now()
+)
 
 
 .then(r=>r.json())
 
 
 .then(dati=>{
-
 
 
 lista.innerHTML="";
@@ -528,7 +562,8 @@ creaOrari();
 
 
 
-let programmiGiorno=dati[data] || [];
+let programmiGiorno=
+dati[data] || [];
 
 
 
@@ -547,12 +582,12 @@ return;
 
 
 
-
 programmiGiorno.forEach(programma=>{
 
 
 
-let div=document.createElement("div");
+let div=
+document.createElement("div");
 
 
 
@@ -571,7 +606,8 @@ giorno.getFullYear()===oggi.getFullYear()
 ){
 
 
-inOnda=programmaInOnda(
+inOnda=
+programmaInOnda(
 programma.inizio,
 programma.fine
 );
@@ -582,15 +618,12 @@ programma.fine
 
 
 
-
 div.className=
 inOnda
 ?
 "programma in-onda"
 :
 "programma";
-
-
 
 
 
@@ -611,14 +644,12 @@ ${inOnda ? "<small>🔴 IN ONDA</small>" : ""}
 
 
 
+let inizio=
+programma.inizio.split(":");
 
 
-// larghezza timeline
-
-
-let inizio=programma.inizio.split(":");
-
-let fine=programma.fine.split(":");
+let fine=
+programma.fine.split(":");
 
 
 
@@ -642,7 +673,8 @@ minutiFine=1440;
 
 
 
-let durata=minutiFine-minutiInizio;
+let durata=
+minutiFine-minutiInizio;
 
 
 
@@ -665,6 +697,7 @@ div.style.left=
 
 
 
+
 div.onclick=function(){
 
 
@@ -676,6 +709,8 @@ programma.inizio+
 " - "+
 programma.fine,
 
+programma.info,
+
 programma.descrizione,
 
 programma.immagine
@@ -683,9 +718,7 @@ programma.immagine
 );
 
 
-
 };
-
 
 
 
@@ -744,7 +777,9 @@ caricaProgrammi(oggi);
 setInterval(()=>{
 
 
-caricaProgrammi(new Date());
+caricaProgrammi(
+new Date()
+);
 
 
 },300000);
@@ -756,7 +791,8 @@ caricaProgrammi(new Date());
 setInterval(()=>{
 
 
-let nuovaData=new Date();
+let nuovaData=
+new Date();
 
 
 
