@@ -200,12 +200,10 @@ timeline.addEventListener("mousemove",e=>{
 let oggi=new Date();
 
 
+let giornoVisualizzato=new Date(oggi);
+
+
 const giorniVisibili=7;
-
-
-
-
-
 
 
 
@@ -293,7 +291,15 @@ bottone
 
 
 
-if(i===0){
+if(
+
+giorno.getDate()===giornoVisualizzato.getDate()
+&&
+giorno.getMonth()===giornoVisualizzato.getMonth()
+&&
+giorno.getFullYear()===giornoVisualizzato.getFullYear()
+
+){
 
 
 bottone.classList.add(
@@ -350,7 +356,14 @@ bottone.classList.add(
 );
 
 
+
+giornoVisualizzato =
+new Date(giorno);
+
+
+
 caricaProgrammi(giorno);
+
 
 
 }
@@ -468,14 +481,6 @@ contenitore.appendChild(span);
 
 
 }
-
-
-
-
-
-
-
-
 
 // ==========================
 // CARICA PROGRAMMI
@@ -770,15 +775,18 @@ caricaProgrammi(oggi);
 
 
 // ==========================
-// AGGIORNAMENTI
+// AGGIORNAMENTI AUTOMATICI
 // ==========================
 
+
+// aggiorna la guida del giorno visualizzato,
+// senza riportare l'utente automaticamente a oggi
 
 setInterval(()=>{
 
 
 caricaProgrammi(
-new Date()
+giornoVisualizzato
 );
 
 
@@ -788,10 +796,13 @@ new Date()
 
 
 
+// aggiorna la lista giorni al cambio data,
+// senza cambiare il giorno che l'utente sta guardando
+
 setInterval(()=>{
 
 
-let nuovaData=
+let nuovaData =
 new Date();
 
 
@@ -812,8 +823,6 @@ oggi=nuovaData;
 
 creaGiorni();
 
-
-caricaProgrammi(oggi);
 
 
 }
