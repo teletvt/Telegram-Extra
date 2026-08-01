@@ -3032,6 +3032,7 @@
       "titolo": "Romanzo siciliano",
       "inizio": "06:00",
       "fine": "07:40",
+      "info": "S1 Ep3",
       "descrizione": "Le vicende del colonnello Sergio Spada, a capo del comando dei Carabinieri di Siracusa, che combatte quotidianamente contro mafia e malavita per fare trionfare la giustizia in una terra splendida ma desolata.",
       "immagine": "immagini/programmi-guida/romanzosiciliano.jpg",
       "inOnda": false
@@ -3040,6 +3041,7 @@
       "titolo": "Romanzo siciliano",
       "inizio": "07:40",
       "fine": "09:15",
+      "info": "S1 Ep4",
       "descrizione": "Le vicende del colonnello Sergio Spada, a capo del comando dei Carabinieri di Siracusa, che combatte quotidianamente contro mafia e malavita per fare trionfare la giustizia in una terra splendida ma desolata.",
       "immagine": "immagini/programmi-guida/romanzosiciliano.jpg",
       "inOnda": false
@@ -3048,6 +3050,7 @@
       "titolo": "Il tempo del coraggio e dell'amore",
       "inizio": "09:15",
       "fine": "10:55",
+      "info": "S1 Ep2",
       "descrizione": "La vita di una giovane sarta, le sue passioni e le sue difficoltà si intrecciano con le vicende storiche della Spagna alla vigilia del colpo di stato del 1936.",
       "immagine": "immagini/programmi-guida/iltempodelcoraggioedellamore.jpg",
       "inOnda": false
@@ -3088,6 +3091,7 @@
       "titolo": "Questa casa non è un albergo",
       "inizio": "16:55",
       "fine": "18:50",
+      "info": "S1 Ep3-4 Una giornata movimentata",
       "descrizione": "Le vicende dei Donati, una famiglia di Siena composta da due genitori e quattro figli, alle prese con problemi quotidiani.",
       "immagine": "immagini/programmi-guida/questacasanoneunalbergo.jpg",
       "inOnda": false
@@ -3104,6 +3108,7 @@
       "titolo": "Love Bugs",
       "inizio": "19:50",
       "fine": "20:40",
+      "info": "S1 Ep2",
       "descrizione": "Una coppia parzialmente disfunzionale ma, a suo modo, felice. L'allegria spontanea, la simpatia dei personaggi risultano del tutto irresistibili. L'assortimento tra i due interpreti è perfetto e l'alchimia tra loro funziona perfettamente.",
       "immagine": "immagini/programmi-guida/lovebugs.jpg",
       "inOnda": false
@@ -3112,6 +3117,7 @@
       "titolo": "Love Bugs",
       "inizio": "20:40",
       "fine": "21:30",
+      "info": "S1 Ep3",
       "descrizione": "Una coppia parzialmente disfunzionale ma, a suo modo, felice. L'allegria spontanea, la simpatia dei personaggi risultano del tutto irresistibili. L'assortimento tra i due interpreti è perfetto e l'alchimia tra loro funziona perfettamente.",
       "immagine": "immagini/programmi-guida/lovebugs.jpg",
       "inOnda": false
@@ -4563,7 +4569,7 @@
       "inizio": "10:30",
       "fine": "12:15",
       "descrizione": "Riviviamo le note e i personaggi degli anni 80 proposti nel popolare programma musicale del periodo.",
-      "immagine": "immagini/programmi-guida/discoverdechioggiap2.jpeg",
+      "immagine": "immagini/programmi-guida/discoverdechioggiap2.jpg",
       "inOnda": false
     },
     {
@@ -4627,7 +4633,7 @@
       "inizio": "21:15",
       "fine": "23:35",
       "descrizione": "Enrico Papi conduce uno speciale di Sarabanda cui prendono parte noti cantanti.",
-      "immagine": "immagini/programmi-guida/sarabandamatchfeb2001.jpeg",
+      "immagine": "immagini/programmi-guida/sarabandamatchfeb2001.jpg",
       "inOnda": false
     },
     {
