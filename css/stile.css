@@ -611,7 +611,15 @@ nav a {
 
 .hero {
 
-    height:360px;
+    height:520px;
+
+    background-size:contain;
+
+    background-repeat:no-repeat;
+
+    background-position:center top;
+
+    background-color:#050f21;
 
 }
 
@@ -622,13 +630,12 @@ nav a {
     background:
     linear-gradient(
         0deg,
-        rgba(0,0,0,0.9),
-        rgba(0,0,0,0.2)
+        rgba(0,0,0,0.95) 0%,
+        rgba(0,0,0,0.55) 45%,
+        rgba(0,0,0,0.15) 100%
     );
 
 }
-
-
 
 
 
@@ -638,7 +645,9 @@ nav a {
 
     right:20px;
 
-    bottom:30px;
+    bottom:35px;
+
+    max-width:none;
 
 }
 
@@ -660,7 +669,7 @@ nav a {
 
 .hero-info h1 {
 
-    font-size:32px;
+    font-size:30px;
 
     line-height:1.1;
 
@@ -669,12 +678,15 @@ nav a {
 
 
 
-
 .hero-info p {
 
-    font-size:15px;
+    font-size:14px;
 
     line-height:1.4;
+
+    max-height:60px;
+
+    overflow:hidden;
 
 }
 
