@@ -621,7 +621,7 @@ nav a {
 
     right:20px;
 
-    bottom:30px;
+    bottom:25px;
 
     max-width:none;
 
@@ -661,11 +661,13 @@ nav a {
 
     font-size:14px;
 
-    line-height:1.4;
+    line-height:1.45;
 
-    max-height:65px;
+    max-height:none;
 
-    overflow:hidden;
+    overflow:visible;
+
+    margin-bottom:0;
 
 }
 
