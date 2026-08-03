@@ -1,6 +1,65 @@
 {
-    "titolo": "La sai l'ultima?",
-    "descrizione": "Una sfida all'insegna della comicità tra i migliori barzellettieri d'Italia, chiamati a divertire il pubblico con battute irresistibili e a conquistare la vittoria a suon di applausi. Con Pippo Franco e Pamela Prati.",
-    "orario": "Questa sera alle 21:20",
-    "immagine": "immagini/home/lasailultima1992.jpg"
+    "2026-08-03": {
+        "titolo": "La sai l'ultima?",
+        "descrizione": "Una sfida all'insegna della comicità tra i migliori barzellettieri d'Italia, chiamati a divertire il pubblico con battute irresistibili e a conquistare la vittoria a suon di applausi. Con Pippo Franco e Pamela Prati.",
+        "inizio": "21:20",
+        "fine": "23:15",
+        "immagine": "immagini/home/lasailultima1992.jpg"
+    },
+
+    "2026-08-04": {
+        "titolo": "La notte vola",
+        "descrizione": "Lorella Cuccarini presenta un incredibile viaggio all'interno della musica e dello spettacolo dei mitici anni '80",
+        "inizio": "21:20",
+        "fine": "23:35",
+        "immagine": "immagini/home/lanottevola.jpg"
+    },
+
+    "2026-08-05": {
+        "titolo": "Grande Fratello",
+        "descrizione": "La prima storica edizione del reality che ha rivoluzionato la televisione italiana. Un gruppo di concorrenti vive per settimane sotto lo stesso tetto, osservato 24 ore su 24 dalle telecamere, tra amicizie, scontri, emozioni e colpi di scena. Con Daria Bignardi.",
+        "inizio": "21:20",
+        "fine": "23:40",
+        "immagine": "immagini/home/grandefratello2000.jpg"
+    },
+
+    "2026-08-06":{
+        "titolo": "Scherzi a parte",
+        "descrizione": "Condotto da Claudio Amendola, Teo Mammucari e Belen Rodríguez. Lo storico show di Canale 5 che prende di mira i personaggi famosi con scherzi irresistibili.",
+        "inizio": "21:20",
+        "fine": "23:50",
+        "immagine": "immagini/home/scherziaparte2009.jpg"
+    },
+
+    "2026-08-07":{
+        "titolo": "La Corrida - Dilettanti allo sbaraglio",
+        "descrizione": "Corrado presenta lo storico varietà dedicato ai 'dilettanti allo sbaraglio'. Tra esibizioni di canto, ballo, imitazioni e numeri curiosi, sarà il pubblico in studio, tra applausi, fischietti, campanacci e pentole, a decretare il successo dei concorrenti.",
+        "inizio": "21:20",
+        "fine": "23:40",
+        "immagine": "immagini/home/corrida.jpg"
+    },
+
+    "2026-08-08":{
+        "titolo": "Sarabanda - Il match",
+        "descrizione": "Il famoso gioco musicale. Con Enrico Papi",
+        "inizio": "21:20",
+        "fine": "23:35",
+        "immagine": "immagini/home/sarabandamatchfeb2001.jpg"
+    },
+
+    "2026-08-09":{
+        "titolo": "SandraRaimondoShow",
+        "descrizione": "Sandra Mondaini e Raimondo Vianello protagonisti assoluti di una trasmissione di altissimo livello che ha fatto la storia di Canale 5.",
+        "inizio": "21:15",
+        "fine": "23:10",
+        "immagine": "immagini/home/sandraraimondoshow.jpg"
+    },
+
+    "2026-08-10":{
+        "titolo": "La sai l'ultima?",
+        "descrizione": "Una sfida all'insegna della comicità tra i migliori barzellettieri d'Italia, chiamati a divertire il pubblico con battute irresistibili e a conquistare la vittoria a suon di applausi. Con Pippo Franco e Pamela Prati.",
+        "inizio": "21:20",
+        "fine": "23:15",
+        "immagine": "immagini/home/lasailultima1992.jpg"
+    }
 }

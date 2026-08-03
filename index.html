@@ -4,49 +4,90 @@
 <head>
 
 <meta charset="UTF-8">
-
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>Telegram Extra</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 
 <link rel="stylesheet" href="css/stile.css">
 
 </head>
 
+
 <body>
 
-<header>
+
+<header class="header-home">
 
 <img src="immagini/logo.png" class="logo">
+
+
+<nav>
+
+<a href="guida.html">Guida TV</a>
+<a href="promo.html">Promo</a>
+
+</nav>
+
 
 </header>
 
 
+
+
 <section class="hero" id="hero">
 
-</section>
+
+<div class="hero-overlay"></div>
 
 
-<section class="collegamenti">
+<div class="hero-content">
 
-<div class="box-collegamento">
 
-<a href="guida.html">
-Guida TV
-</a>
+<div class="hero-info">
+
+
+<div class="hero-top">
+
+<span class="hero-prima-serata" id="hero-orario">
+STASERA IN PRIMA SERATA
+</span>
+
 
 </div>
 
+
+
+<h1 id="hero-titolo"></h1>
+
+
+<p id="hero-descrizione"></p>
+
+
+
+</div>
+
+
+</div>
+
+
 </section>
+
+
+
 
 
 <section class="promo-home">
 
+
 <h2>Promo</h2>
+
 
 <div class="lista-promo" id="lista-promo-home">
 
 </div>
+
 
 
 <div class="tutti-promo">
@@ -57,7 +98,11 @@ Tutti i promo
 
 </div>
 
+
 </section>
+
+
+
 
 
 <footer>
@@ -65,12 +110,42 @@ Tutti i promo
 </footer>
 
 
+
+
+
 <script type="module">
 
 import("./js/home-promo.js?v=" + Date.now());
+
 import("./js/home.js?v=" + Date.now());
 
 </script>
+
+
+
+
+<script>
+
+window.addEventListener("scroll", function(){
+
+    const header = document.querySelector("header");
+
+    if(window.scrollY > 50){
+
+        header.classList.add("scrolled");
+
+    } else {
+
+        header.classList.remove("scrolled");
+
+    }
+
+});
+
+</script>
+
+
+
 
 </body>
 

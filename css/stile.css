@@ -22,7 +22,7 @@ body {
 
     color:white;
 
-    font-family:Arial, sans-serif;
+    font-family:'Montserrat', sans-serif;
 
     overflow-x:hidden;
 
@@ -41,7 +41,7 @@ header {
 
     height:80px;
 
-    background:#061a35;
+    background:transparent;
 
     display:flex;
 
@@ -51,11 +51,26 @@ header {
 
     padding:0 40px;
 
-    position:sticky;
+    position:fixed;
 
     top:0;
 
+    left:0;
+
     z-index:1000;
+
+    transition:background .3s ease, backdrop-filter .3s ease;
+
+}
+
+
+header.scrolled {
+
+    background:rgba(5,15,33,0.75);
+
+    backdrop-filter:blur(12px);
+
+    -webkit-backdrop-filter:blur(12px);
 
 }
 
@@ -96,9 +111,11 @@ nav a {
 
     text-decoration:none;
 
-    font-size:18px;
+    font-size:16px;
 
-    font-weight:bold;
+    font-weight:600;
+
+    letter-spacing:0.2px;
 
     padding:10px 20px;
 
@@ -112,7 +129,7 @@ nav a {
 
 nav a:hover {
 
-    background:#0066cc;
+    background:rgba(0,102,204,0.8);
 
 }
 
@@ -131,115 +148,127 @@ nav a:hover {
 
     width:100%;
 
-    height:420px;
+    height:520px;
+
+    background-size:cover;
+
+    background-position:center 10%;
 
     overflow:hidden;
 
-    background:#050f21;
+    box-shadow:0 15px 40px rgba(0,0,0,.45);
 
 }
 
 
 
-.hero img {
-
-    width:100%;
-
-    height:100%;
-
-    object-fit:contain;
-
-    object-position:center;
-
-}
 
 
-
-.hero-testo {
+.hero-overlay {
 
     position:absolute;
 
-    left:50px;
+    inset:0;
 
-    bottom:40px;
-
-    z-index:2;
-
-    max-width:600px;
-
-}
-
-
-
-.hero-testo h1 {
-
-    font-size:36px;
-
-    margin:5px 0;
+    background:
+    linear-gradient(
+        90deg,
+        rgba(0,0,0,0.85),
+        rgba(0,0,0,0.35),
+        rgba(0,0,0,0.1)
+    );
 
 }
 
 
 
-.hero-testo p {
+
+
+.hero-content {
+
+    position:absolute;
+
+    inset:0;
+
+}
+
+
+
+
+
+.hero-info {
+
+    position:absolute;
+
+    left:60px;
+
+    bottom:60px;
+
+    max-width:650px;
+
+}
+
+
+
+
+
+.hero-top {
+
+    margin-bottom:15px;
+
+}
+
+
+
+
+
+.hero-prima-serata {
+
+    color:#00A8FF;
+
+    font-size:16px;
+
+    font-weight:700;
+
+    letter-spacing:1.5px;
+
+    text-transform:uppercase;
+
+}
+
+
+
+
+
+.hero-info h1 {
+
+    font-size:54px;
+
+    line-height:1.05;
+
+    font-weight:800;
+
+    letter-spacing:-1px;
+
+    margin:12px 0 15px;
+
+}
+
+
+
+
+
+.hero-info p {
 
     font-size:18px;
 
-}
+    line-height:1.55;
 
+    color:#eeeeee;
 
-
-.hero-testo h3 {
-
-    font-size:20px;
+    max-width:620px;
 
 }
-
-
-
-
-
-/* ==========================
-   COLLEGAMENTI
-========================== */
-
-
-.collegamenti {
-
-    display:flex;
-
-    justify-content:center;
-
-    margin:25px 0;
-
-}
-
-
-
-.box-collegamento a {
-
-    display:inline-block;
-
-    background:#0066cc;
-
-    color:white;
-
-    padding:16px 80px;
-
-    border-radius:35px;
-
-    font-size:24px;
-
-    font-weight:bold;
-
-    text-decoration:none;
-
-    box-shadow:0 8px 25px rgba(0,0,0,.4);
-
-}
-
-
-
 
 
 /* ==========================
@@ -259,11 +288,17 @@ nav a:hover {
 
 .promo-home h2 {
 
-    font-size:32px;
+    font-size:30px;
+
+    font-weight:700;
+
+    letter-spacing:-0.5px;
 
     margin-bottom:25px;
 
 }
+
+
 
 
 
@@ -278,6 +313,8 @@ nav a:hover {
     padding-bottom:20px;
 
 }
+
+
 
 
 
@@ -321,6 +358,8 @@ nav a:hover {
 
     font-size:20px;
 
+    font-weight:700;
+
     margin-top:15px;
 
 }
@@ -336,8 +375,9 @@ nav a:hover {
 
 
 
+
 /* ==========================
-   PROMO PULSANTI
+   TUTTI I PROMO
 ========================== */
 
 
@@ -367,7 +407,7 @@ nav a:hover {
 
     font-size:20px;
 
-    font-weight:bold;
+    font-weight:700;
 
 }
 
@@ -376,38 +416,7 @@ nav a:hover {
 
 
 /* ==========================
-   COLLEGAMENTI PICCOLI
-========================== */
-
-
-.collegamenti-piccoli {
-
-    margin:20px 0;
-
-    display:flex;
-
-    justify-content:center;
-
-}
-
-
-
-.collegamenti-piccoli .box-collegamento a {
-
-    padding:8px 18px;
-
-    font-size:15px;
-
-    border-radius:10px;
-
-}
-
-
-
-
-
-/* ==========================
-   GUIDA TV GENERALE
+   GUIDA TV
 ========================== */
 
 
@@ -425,17 +434,14 @@ nav a:hover {
 
     font-size:32px;
 
+    font-weight:700;
+
     margin-left:20px;
 
 }
 
 
 
-
-
-/* ==========================
-   PROGRAMMI CARD
-========================== */
 
 
 .programma {
@@ -458,6 +464,8 @@ nav a:hover {
 
 
 
+
+
 .programma.in-onda {
 
     border:3px solid #00aaff;
@@ -465,6 +473,8 @@ nav a:hover {
     background:#123866;
 
 }
+
+
 
 
 
@@ -481,7 +491,7 @@ nav a:hover {
 
 
 /* ==========================
-   SICUREZZA LARGHEZZA
+   ELEMENTI VARI
 ========================== */
 
 
@@ -498,11 +508,6 @@ body {
 
 
 
-
-
-/* ==========================
-   ANTEPRIMA PROMO
-========================== */
 
 
 .anteprima-promo {
@@ -527,11 +532,6 @@ body {
 
 
 
-
-
-/* ==========================
-   PROMO PRINCIPALE
-========================== */
 
 
 .promo-principale {
@@ -563,6 +563,7 @@ body {
 @media(max-width:700px) {
 
 
+
 header {
 
     height:70px;
@@ -575,9 +576,11 @@ header {
 
 .logo {
 
-    height:55px;
+    height:50px;
 
 }
+
+
 
 
 
@@ -591,9 +594,9 @@ nav {
 
 nav a {
 
-    font-size:13px;
+    font-size:12px;
 
-    padding:7px 12px;
+    padding:6px 10px;
 
 }
 
@@ -601,48 +604,77 @@ nav a {
 
 
 
-/* HERO MOBILE */
+/* ==========================
+   HERO MOBILE
+========================== */
 
 
 .hero {
 
-    height:260px;
+    height:360px;
 
 }
 
 
 
-.hero-testo {
+.hero-overlay {
+
+    background:
+    linear-gradient(
+        0deg,
+        rgba(0,0,0,0.9),
+        rgba(0,0,0,0.2)
+    );
+
+}
+
+
+
+
+
+.hero-info {
 
     left:20px;
 
-    bottom:20px;
+    right:20px;
 
-    max-width:300px;
-
-}
-
-
-
-.hero-testo h1 {
-
-    font-size:28px;
+    bottom:30px;
 
 }
 
 
 
-.hero-testo p {
+
+
+.hero-prima-serata {
+
+    font-size:13px;
+
+    letter-spacing:1.2px;
+
+}
+
+
+
+
+
+.hero-info h1 {
+
+    font-size:32px;
+
+    line-height:1.1;
+
+}
+
+
+
+
+
+.hero-info p {
 
     font-size:15px;
 
-}
-
-
-
-.hero-testo h3 {
-
-    font-size:17px;
+    line-height:1.4;
 
 }
 
@@ -650,22 +682,9 @@ nav a {
 
 
 
-/* PULSANTI */
-
-
-.box-collegamento a {
-
-    padding:12px 35px;
-
-    font-size:16px;
-
-}
-
-
-
-
-
-/* PROMO */
+/* ==========================
+   PROMO MOBILE
+========================== */
 
 
 .promo-home {
@@ -684,22 +703,11 @@ nav a {
 
 
 
+
+
 .scheda-promo {
 
     min-width:260px;
-
-}
-
-
-
-
-
-/* PROMO PRINCIPALE */
-
-
-.promo-principale {
-
-    width:95%;
 
 }
 
@@ -717,33 +725,11 @@ nav a {
 
 
 
-}
 
 
+.promo-principale {
 
-
-
-/* ==========================
-   VERSIONE MOBILE MENU
-========================== */
-
-
-@media(max-width:700px){
-
-
-nav a {
-
-    font-size:12px;
-
-    padding:6px 10px;
-
-}
-
-
-
-.logo {
-
-    height:50px;
+    width:95%;
 
 }
 
