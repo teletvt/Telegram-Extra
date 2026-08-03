@@ -151,7 +151,9 @@ nav a:hover {
 
     width:100%;
 
-    height:520px;
+    min-height:520px;
+
+    height:auto;
 
     background-size:cover;
 
@@ -187,9 +189,9 @@ nav a:hover {
 
 .hero-content {
 
-    position:absolute;
+    position:relative;
 
-    inset:0;
+    min-height:520px;
 
     z-index:2;
 
@@ -203,7 +205,7 @@ nav a:hover {
 
     left:60px;
 
-    bottom:60px;
+    bottom:50px;
 
     max-width:650px;
 
@@ -260,6 +262,8 @@ nav a:hover {
     color:#eee;
 
     max-width:620px;
+
+    margin-bottom:0;
 
 }
 
@@ -583,13 +587,15 @@ nav a {
 
 .hero {
 
-    height:520px;
+    min-height:600px;
+
+    height:auto;
 
     background-size:100% auto;
 
     background-repeat:no-repeat;
 
-    background-position:center 20%;
+    background-position:center 15%;
 
     background-color:#050f21;
 
@@ -621,7 +627,7 @@ nav a {
 
     right:20px;
 
-    bottom:25px;
+    bottom:35px;
 
     max-width:none;
 
