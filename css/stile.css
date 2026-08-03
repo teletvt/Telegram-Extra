@@ -14,6 +14,19 @@
 }
 
 
+html,
+body {
+
+    width:100%;
+
+    max-width:100%;
+
+    overflow-x:hidden;
+
+}
+
+
+
 body {
 
     margin:0;
@@ -23,8 +36,6 @@ body {
     color:white;
 
     font-family:'Montserrat', sans-serif;
-
-    overflow-x:hidden;
 
 }
 
@@ -41,7 +52,13 @@ header {
 
     height:80px;
 
-    background:transparent;
+    position:fixed;
+
+    top:0;
+
+    left:0;
+
+    z-index:99999;
 
     display:flex;
 
@@ -51,13 +68,7 @@ header {
 
     padding:0 40px;
 
-    position:fixed;
-
-    top:0;
-
-    left:0;
-
-    z-index:9999;
+    background:transparent;
 
     transition:
     background .3s ease,
@@ -66,13 +77,14 @@ header {
 }
 
 
+
 header.scrolled {
 
-    background:rgba(5,15,33,0.78);
+    background:rgba(5,15,33,.78);
 
-    backdrop-filter:blur(12px);
+    backdrop-filter:blur(14px);
 
-    -webkit-backdrop-filter:blur(12px);
+    -webkit-backdrop-filter:blur(14px);
 
 }
 
@@ -86,13 +98,6 @@ header.scrolled {
 
 }
 
-
-
-
-
-/* ==========================
-   MENU
-========================== */
 
 
 nav {
@@ -117,8 +122,6 @@ nav a {
 
     font-weight:600;
 
-    letter-spacing:.2px;
-
     padding:10px 20px;
 
     border-radius:20px;
@@ -134,8 +137,6 @@ nav a:hover {
     background:rgba(0,102,204,.8);
 
 }
-
-
 
 
 
@@ -170,12 +171,14 @@ nav a:hover {
 
     inset:0;
 
+    z-index:1;
+
     background:
     linear-gradient(
         90deg,
         rgba(0,0,0,.85),
         rgba(0,0,0,.35),
-        rgba(0,0,0,.1)
+        rgba(0,0,0,.10)
     );
 
 }
@@ -187,6 +190,8 @@ nav a:hover {
     position:absolute;
 
     inset:0;
+
+    z-index:2;
 
 }
 
@@ -258,6 +263,7 @@ nav a:hover {
 
 }
 
+
 /* ==========================
    PROMO HOME
 ========================== */
@@ -279,13 +285,9 @@ nav a:hover {
 
     font-weight:700;
 
-    letter-spacing:-.5px;
-
     margin-bottom:25px;
 
 }
-
-
 
 
 
@@ -344,8 +346,6 @@ nav a:hover {
 .scheda-promo h3 {
 
     font-size:20px;
-
-    font-weight:700;
 
     margin-top:15px;
 
@@ -421,8 +421,6 @@ nav a:hover {
 
     font-size:32px;
 
-    font-weight:700;
-
     margin-left:20px;
 
 }
@@ -451,8 +449,6 @@ nav a:hover {
 
 
 
-
-
 .programma.in-onda {
 
     border:3px solid #00aaff;
@@ -460,8 +456,6 @@ nav a:hover {
     background:#123866;
 
 }
-
-
 
 
 
@@ -478,23 +472,8 @@ nav a:hover {
 
 
 /* ==========================
-   GENERALE
+   ELEMENTI VARI
 ========================== */
-
-
-html,
-body {
-
-    width:100%;
-
-    max-width:100%;
-
-    overflow-x:hidden;
-
-}
-
-
-
 
 
 .anteprima-promo {
@@ -551,8 +530,7 @@ body {
 
 
 
-/* HEADER MOBILE */
-
+/* HEADER */
 
 header {
 
@@ -560,11 +538,11 @@ header {
 
     padding:0 15px;
 
-    background:rgba(5,15,33,.35);
+    background:rgba(5,15,33,.30);
 
-    backdrop-filter:blur(8px);
+    backdrop-filter:blur(10px);
 
-    -webkit-backdrop-filter:blur(8px);
+    -webkit-backdrop-filter:blur(10px);
 
 }
 
@@ -575,8 +553,6 @@ header {
     height:50px;
 
 }
-
-
 
 
 
@@ -607,13 +583,13 @@ nav a {
 
 .hero {
 
-    height:560px;
+    height:520px;
 
-    background-size:88% auto;
+    background-size:100% auto;
 
     background-repeat:no-repeat;
 
-    background-position:center 35%;
+    background-position:center 20%;
 
     background-color:#050f21;
 
@@ -630,7 +606,7 @@ nav a {
         0deg,
         rgba(0,0,0,.95) 0%,
         rgba(0,0,0,.70) 45%,
-        rgba(0,0,0,.15) 100%
+        rgba(0,0,0,.25) 100%
     );
 
 }
@@ -659,7 +635,7 @@ nav a {
 
     font-size:13px;
 
-    letter-spacing:1.2px;
+    letter-spacing:1px;
 
 }
 
@@ -687,8 +663,6 @@ nav a {
 
     line-height:1.4;
 
-    max-width:100%;
-
     max-height:65px;
 
     overflow:hidden;
@@ -699,10 +673,7 @@ nav a {
 
 
 
-/* ==========================
-   PROMO MOBILE
-========================== */
-
+/* PROMO */
 
 .promo-home {
 
