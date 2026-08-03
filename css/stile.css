@@ -587,21 +587,27 @@ nav a {
 
 .hero {
 
-    min-height:600px;
+    min-height:440px;
 
-    height:auto;
+    height:440px;
 
-    background-size:100% auto;
+    background-size:contain;
 
     background-repeat:no-repeat;
 
-    background-position:center 15%;
+    background-position:center top;
 
     background-color:#050f21;
 
 }
 
 
+
+.hero-content {
+
+    min-height:440px;
+
+}
 
 
 
@@ -611,13 +617,11 @@ nav a {
     linear-gradient(
         0deg,
         rgba(0,0,0,.95) 0%,
-        rgba(0,0,0,.70) 45%,
-        rgba(0,0,0,.25) 100%
+        rgba(0,0,0,.75) 45%,
+        rgba(0,0,0,.20) 100%
     );
 
 }
-
-
 
 
 
@@ -627,7 +631,7 @@ nav a {
 
     right:20px;
 
-    bottom:35px;
+    bottom:20px;
 
     max-width:none;
 
@@ -635,11 +639,9 @@ nav a {
 
 
 
-
-
 .hero-prima-serata {
 
-    font-size:13px;
+    font-size:12px;
 
     letter-spacing:1px;
 
@@ -647,33 +649,35 @@ nav a {
 
 
 
-
-
 .hero-info h1 {
 
-    font-size:30px;
+    font-size:28px;
 
     line-height:1.1;
 
-    margin:10px 0;
+    margin:8px 0 10px;
 
 }
 
 
 
-
-
 .hero-info p {
 
-    font-size:14px;
+    font-size:13px;
 
-    line-height:1.45;
+    line-height:1.4;
 
-    max-height:none;
+    max-width:100%;
 
-    overflow:visible;
+    display:-webkit-box;
 
-    margin-bottom:0;
+    -webkit-line-clamp:3;
+
+    -webkit-box-orient:vertical;
+
+    overflow:hidden;
+
+    margin:0;
 
 }
 
