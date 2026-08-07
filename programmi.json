@@ -6534,6 +6534,1380 @@
       "descrizione": "Una raccolta di sketch del quartetto comico della Premiata Ditta che unisce situazioni quotidiane e caricature estreme: mariti che cedono a mogli inflessibili, famiglie in trasferta, nonne argute e medici improbabili. Ogni episodio costruisce un mosaico di personaggi portati all'eccesso nel modo di parlare e muoversi, trasformando ruoli comuni in figure spiazzanti e irresistibilmente strampalate.",
       "immagine": "immagini/programmi-guida/fincheceditta.jpeg",
       "inOnda": false
+    },
+    {
+      "titolo": "Casa dolce casa",
+      "inizio": "06:00",
+      "fine": "06:25",
+      "info": "S2 Ep19 Vento dell'est",
+      "descrizione": "La serie racconta le vicende della famiglia Bonetti, le cui trame si svolgono interamente all'interno di un appartamento tra equivoci domestici, gag e dinamiche di coppia",
+      "immagine": "immagini/programmi-guida/casadolcecasa.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Casa dolce casa",
+      "inizio": "06:25",
+      "fine": "06:50",
+      "info": "S2 Ep20 Le pulci",
+      "descrizione": "La serie racconta le vicende della famiglia Bonetti, le cui trame si svolgono interamente all'interno di un appartamento tra equivoci domestici, gag e dinamiche di coppia",
+      "immagine": "immagini/programmi-guida/casadolcecasa.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "CentoVetrine",
+      "inizio": "06:50",
+      "fine": "07:15",
+      "info": "S2 Ep144",
+      "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
+      "immagine": "immagini/programmi-guida/centovetrine2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "CentoVetrine",
+      "inizio": "07:15",
+      "fine": "07:40",
+      "info": "S2 Ep145",
+      "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
+      "immagine": "immagini/programmi-guida/centovetrine2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Vivere",
+      "inizio": "07:40",
+      "fine": "08:05",
+      "info": "S2 Ep179",
+      "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
+      "immagine": "immagini/programmi-guida/vivere2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Vivere",
+      "inizio": "08:05",
+      "fine": "08:30",
+      "info": "S2 Ep180",
+      "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
+      "immagine": "immagini/programmi-guida/vivere2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "The Wall",
+      "inizio": "08:30",
+      "fine": "09:25",
+      "descrizione": "Torna il mega tabellone luminoso da cui scendono le sfere che possono cambiare la vita dei concorrenti. Conduce Max Giusti.",
+      "immagine": "immagini/programmi-guida/thewall.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:25",
+      "fine": "10:05",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Don Luca c'è",
+      "inizio": "10:05",
+      "fine": "10:30",
+      "info": "S1 Ep10 Poker di santi",
+      "descrizione": "La serie tratta della missione di Don Luca (Luca Laurenti), parroco nella Chiesa di San Precotto. Ad attenderlo una serie di sorprese non sempre gradite e tante persone da conoscere e sopportare.",
+      "immagine": "immagini/programmi-guida/donlucace.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Don Luca c'è",
+      "inizio": "10:30",
+      "fine": "10:55",
+      "info": "S1 Ep11 Casa don Luca",
+      "descrizione": "La serie tratta della missione di Don Luca (Luca Laurenti), parroco nella Chiesa di San Precotto. Ad attenderlo una serie di sorprese non sempre gradite e tante persone da conoscere e sopportare.",
+      "immagine": "immagini/programmi-guida/donlucace.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Distretto di polizia",
+      "inizio": "10:55",
+      "fine": "11:50",
+      "info": "S8 Ep6 L'ultima chiamata",
+      "descrizione": "Nell'ottava stagione, dopo l'uscita di scena del commissario Marcello Fontana, che ha preferito tornare in Calabria con la moglie e Il figlio, la direzione del commissariato viene affidata a Luca Benvenuto, Simone Corrente. Al gruppo si agglungerà anche Anna Foglietta nel ruolo dell'ispettore Elena Argenti, e Alessandro Intini, che interpreta suo fratello Marco.",
+      "immagine": "immagini/programmi-guida/distretto8.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Distretto di polizia",
+      "inizio": "11:50",
+      "fine": "12:45",
+      "info": "S8 Ep7 Abuso di potere",
+      "descrizione": "Nell'ottava stagione, dopo l'uscita di scena del commissario Marcello Fontana, che ha preferito tornare in Calabria con la moglie e Il figlio, la direzione del commissariato viene affidata a Luca Benvenuto, Simone Corrente. Al gruppo si agglungerà anche Anna Foglietta nel ruolo dell'ispettore Elena Argenti, e Alessandro Intini, che interpreta suo fratello Marco.",
+      "immagine": "immagini/programmi-guida/distretto8.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Carabinieri",
+      "inizio": "12:45",
+      "fine": "13:45",
+      "info": "S6 Ep12 Incomprpese",
+      "descrizione": "Due nuovi arrivi nella sesta stagione a Città della Pieve: Laura Flestero, e il bel brigadiere Giacomo Contini, sciupa femmine. Ad eccezione di Marco e Caterina, che si sono lasciati, in caserma si respira un clima di grande armonia.",
+      "immagine": "immagini/programmi-guida/carabinieri6.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Carabinieri",
+      "inizio": "13:45",
+      "fine": "14:45",
+      "info": "S6 Ep13 La minaccia",
+      "descrizione": "Due nuovi arrivi nella sesta stagione a Città della Pieve: Laura Flestero, e il bel brigadiere Giacomo Contini, sciupa femmine. Ad eccezione di Marco e Caterina, che si sono lasciati, in caserma si respira un clima di grande armonia.",
+      "immagine": "immagini/programmi-guida/carabinieri6.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Cristina",
+      "inizio": "14:45",
+      "fine": "15:10",
+      "info": "S1 Ep25 Giallo!",
+      "descrizione": "Cristina è una ragazza che, insieme ai suoi compagni di università, forma un complesso musicale. Si alternano così momenti musicali e studi in medicina, oltre alle vicende familiari divise tra ansie, gioie e delusioni.",
+      "immagine": "immagini/programmi-guida/cristina.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Cristina",
+      "inizio": "15:10",
+      "fine": "15:35",
+      "info": "S1 Ep26 Chi fa da sé...",
+      "descrizione": "Cristina è una ragazza che, insieme ai suoi compagni di università, forma un complesso musicale. Si alternano così momenti musicali e studi in medicina, oltre alle vicende familiari divise tra ansie, gioie e delusioni.",
+      "immagine": "immagini/programmi-guida/cristina.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Tira & Molla",
+      "inizio": "15:35",
+      "fine": "16:35",
+      "descrizione": "Con Paolo Bonolis, Tira e Molla e' un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
+      "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zelig Event",
+      "inizio": "16:35",
+      "fine": "19:20",
+      "info": "Puntata del 09/12/2016",
+      "descrizione": "Michelle Hunziker e Christian De Sica presentano Zelig Event 2016. Nel cast della seconda puntata: Maurizio Battista, Teresa Mannino, Aldo, Giovanni e Giacomo e molti altri.",
+      "immagine": "immagini/programmi-guida/zeligeventpuntata2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sei forte, maestro!",
+      "inizio": "19:20",
+      "fine": "21:30",
+      "info": "S2 Ep13-14 Il nuovo papà/Operazione lupo",
+      "descrizione": "Seconda stagione della fortunatissima serie con Emilio Solfrizzi. Terminata l'estate, Emilio Ricci e Barbara Loriani decidono di andare a vivere insieme in attesa di convolare a nozze. Mentre la figlia di Emilio, Sabrina, è ancora in vacanza, Emilio viene trasferito in un altro istituto ed è costretto ad abbandonare i suoi amati alunni della V A.",
+      "immagine": "immagini/programmi-guida/seifortemaestro2.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "La sai l'ultima?",
+      "inizio": "21:30",
+      "fine": "23:40",
+      "info": "Puntata del 1 agosto 1992",
+      "descrizione": "Paola Barale e Alessia Marcuzzi conducono uno show musicale dedicato alle grandi hit italiane e internazionali, tra videoclip, ospiti, spettacolo e momenti di comicità. Un viaggio nella musica degli anni '60, '70, '80 e '90 con tante sorprese e protagonisti del mondo dello spettacolo.",
+      "immagine": "immagini/programmi-guida/macchemu.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sarabanda",
+      "inizio": "23:40",
+      "fine": "00:30",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    }
+  ],
+
+  "2026-08-18":[
+    {
+      "titolo": "Sarabanda",
+      "inizio": "00:30",
+      "fine": "01:20",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "01:20",
+      "fine": "02:10",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "02:10",
+      "fine": "03:00",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "03:00",
+      "fine": "03:45",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "03:45",
+      "fine": "04:30",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Il mammo",
+      "inizio": "04:30",
+      "fine": "04:55",
+      "info": "S3 Ep13 La figuraccia paterna",
+      "descrizione": "La terza stagione di 'Il Mammo' riserva grandi sorprese: la famiglia Zerbi dà il benvenuto alla piccola Pepita, mentre Raffa si appresta a lasciare il nido per un'avventura entusiasmante in Spagna. Ma come farà Silvano senza la sua Raffa? Entrano nel cast Ulla, la tata ingaggiata da Silvano per aiutarlo nella gestione della casa e dei figli, dopo la partenza della figlia maggiore Raffa per studiare in Spagna, e Elisa, una giovane aspirante show-girl.",
+      "immagine": "immagini/programmi-guida/ilmammo3.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Il mammo",
+      "inizio": "04:55",
+      "fine": "05:20",
+      "info": "S3 Ep14 I fantastici tre",
+      "descrizione": "La terza stagione di 'Il Mammo' riserva grandi sorprese: la famiglia Zerbi dà il benvenuto alla piccola Pepita, mentre Raffa si appresta a lasciare il nido per un'avventura entusiasmante in Spagna. Ma come farà Silvano senza la sua Raffa? Entrano nel cast Ulla, la tata ingaggiata da Silvano per aiutarlo nella gestione della casa e dei figli, dopo la partenza della figlia maggiore Raffa per studiare in Spagna, e Elisa, una giovane aspirante show-girl.",
+      "immagine": "immagini/programmi-guida/ilmammo3.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Finché c'è Ditta c'è speranza",
+      "inizio": "05:20",
+      "fine": "05:30",
+      "info": "S2 Ep5",
+      "descrizione": "Una raccolta di sketch del quartetto comico della Premiata Ditta che unisce situazioni quotidiane e caricature estreme: mariti che cedono a mogli inflessibili, famiglie in trasferta, nonne argute e medici improbabili. Ogni episodio costruisce un mosaico di personaggi portati all'eccesso nel modo di parlare e muoversi, trasformando ruoli comuni in figure spiazzanti e irresistibilmente strampalate.",
+      "immagine": "immagini/programmi-guida/fincheceditta.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Finché c'è Ditta c'è speranza",
+      "inizio": "05:30",
+      "fine": "05:40",
+      "info": "S2 Ep6",
+      "descrizione": "Una raccolta di sketch del quartetto comico della Premiata Ditta che unisce situazioni quotidiane e caricature estreme: mariti che cedono a mogli inflessibili, famiglie in trasferta, nonne argute e medici improbabili. Ogni episodio costruisce un mosaico di personaggi portati all'eccesso nel modo di parlare e muoversi, trasformando ruoli comuni in figure spiazzanti e irresistibilmente strampalate.",
+      "immagine": "immagini/programmi-guida/fincheceditta.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Finché c'è Ditta c'è speranza",
+      "inizio": "05:40",
+      "fine": "05:50",
+      "info": "S2 Ep7",
+      "descrizione": "Una raccolta di sketch del quartetto comico della Premiata Ditta che unisce situazioni quotidiane e caricature estreme: mariti che cedono a mogli inflessibili, famiglie in trasferta, nonne argute e medici improbabili. Ogni episodio costruisce un mosaico di personaggi portati all'eccesso nel modo di parlare e muoversi, trasformando ruoli comuni in figure spiazzanti e irresistibilmente strampalate.",
+      "immagine": "immagini/programmi-guida/fincheceditta.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Finché c'è Ditta c'è speranza",
+      "inizio": "05:50",
+      "fine": "06:00",
+      "info": "S2 Ep8",
+      "descrizione": "Una raccolta di sketch del quartetto comico della Premiata Ditta che unisce situazioni quotidiane e caricature estreme: mariti che cedono a mogli inflessibili, famiglie in trasferta, nonne argute e medici improbabili. Ogni episodio costruisce un mosaico di personaggi portati all'eccesso nel modo di parlare e muoversi, trasformando ruoli comuni in figure spiazzanti e irresistibilmente strampalate.",
+      "immagine": "immagini/programmi-guida/fincheceditta.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Casa dolce casa",
+      "inizio": "06:00",
+      "fine": "06:25",
+      "info": "S3 Ep1 Miseria e nobiltà",
+      "descrizione": "La serie racconta le vicende della famiglia Bonetti, le cui trame si svolgono interamente all'interno di un appartamento tra equivoci domestici, gag e dinamiche di coppia",
+      "immagine": "immagini/programmi-guida/casadolcecasastagioneterza.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Casa dolce casa",
+      "inizio": "06:25",
+      "fine": "06:50",
+      "info": "S3 Ep2 Conti in rosso",
+      "descrizione": "La serie racconta le vicende della famiglia Bonetti, le cui trame si svolgono interamente all'interno di un appartamento tra equivoci domestici, gag e dinamiche di coppia",
+      "immagine": "immagini/programmi-guida/casadolcecasastagioneterza.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "CentoVetrine",
+      "inizio": "06:50",
+      "fine": "07:15",
+      "info": "S2 Ep146",
+      "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
+      "immagine": "immagini/programmi-guida/centovetrine2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "CentoVetrine",
+      "inizio": "07:15",
+      "fine": "07:40",
+      "info": "S2 Ep147",
+      "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
+      "immagine": "immagini/programmi-guida/centovetrine2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Vivere",
+      "inizio": "07:40",
+      "fine": "08:05",
+      "info": "S2 Ep181",
+      "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
+      "immagine": "immagini/programmi-guida/vivere2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Vivere",
+      "inizio": "08:05",
+      "fine": "08:30",
+      "info": "S2 Ep182",
+      "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
+      "immagine": "immagini/programmi-guida/vivere2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "The Wall",
+      "inizio": "08:30",
+      "fine": "09:25",
+      "descrizione": "Torna il mega tabellone luminoso da cui scendono le sfere che possono cambiare la vita dei concorrenti. Conduce Max Giusti.",
+      "immagine": "immagini/programmi-guida/thewall.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:25",
+      "fine": "10:05",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Don Luca c'è",
+      "inizio": "10:05",
+      "fine": "10:30",
+      "info": "S1 Ep12 Una bugia pietosa",
+      "descrizione": "La serie tratta della missione di Don Luca (Luca Laurenti), parroco nella Chiesa di San Precotto. Ad attenderlo una serie di sorprese non sempre gradite e tante persone da conoscere e sopportare.",
+      "immagine": "immagini/programmi-guida/donlucace.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Don Luca c'è",
+      "inizio": "10:30",
+      "fine": "10:55",
+      "info": "S1 Ep13 Com'è dura la clausura",
+      "descrizione": "La serie tratta della missione di Don Luca (Luca Laurenti), parroco nella Chiesa di San Precotto. Ad attenderlo una serie di sorprese non sempre gradite e tante persone da conoscere e sopportare.",
+      "immagine": "immagini/programmi-guida/donlucace.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Distretto di polizia",
+      "inizio": "10:55",
+      "fine": "11:50",
+      "info": "S8 Ep8 Cassetta numero 37",
+      "descrizione": "Nell'ottava stagione, dopo l'uscita di scena del commissario Marcello Fontana, che ha preferito tornare in Calabria con la moglie e Il figlio, la direzione del commissariato viene affidata a Luca Benvenuto, Simone Corrente. Al gruppo si agglungerà anche Anna Foglietta nel ruolo dell'ispettore Elena Argenti, e Alessandro Intini, che interpreta suo fratello Marco.",
+      "immagine": "immagini/programmi-guida/distretto8.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Distretto di polizia",
+      "inizio": "11:50",
+      "fine": "12:45",
+      "info": "S8 Ep9 Effetti collaterali",
+      "descrizione": "Nell'ottava stagione, dopo l'uscita di scena del commissario Marcello Fontana, che ha preferito tornare in Calabria con la moglie e Il figlio, la direzione del commissariato viene affidata a Luca Benvenuto, Simone Corrente. Al gruppo si agglungerà anche Anna Foglietta nel ruolo dell'ispettore Elena Argenti, e Alessandro Intini, che interpreta suo fratello Marco.",
+      "immagine": "immagini/programmi-guida/distretto8.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Carabinieri",
+      "inizio": "12:45",
+      "fine": "13:45",
+      "info": "S6 Ep14 Esclusi gli assenti",
+      "descrizione": "Due nuovi arrivi nella sesta stagione a Città della Pieve: Laura Flestero, e il bel brigadiere Giacomo Contini, sciupa femmine. Ad eccezione di Marco e Caterina, che si sono lasciati, in caserma si respira un clima di grande armonia.",
+      "immagine": "immagini/programmi-guida/carabinieri6.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Carabinieri",
+      "inizio": "13:45",
+      "fine": "14:45",
+      "info": "S6 Ep15 La pista sbagliata",
+      "descrizione": "Due nuovi arrivi nella sesta stagione a Città della Pieve: Laura Flestero, e il bel brigadiere Giacomo Contini, sciupa femmine. Ad eccezione di Marco e Caterina, che si sono lasciati, in caserma si respira un clima di grande armonia.",
+      "immagine": "immagini/programmi-guida/carabinieri6.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Cristina",
+      "inizio": "14:45",
+      "fine": "15:10",
+      "info": "S1 Ep27 La promessa è una promessa",
+      "descrizione": "Cristina è una ragazza che, insieme ai suoi compagni di università, forma un complesso musicale. Si alternano così momenti musicali e studi in medicina, oltre alle vicende familiari divise tra ansie, gioie e delusioni.",
+      "immagine": "immagini/programmi-guida/cristina.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Cristina",
+      "inizio": "15:10",
+      "fine": "15:35",
+      "info": "S1 Ep28 Esami, che paura!",
+      "descrizione": "Cristina è una ragazza che, insieme ai suoi compagni di università, forma un complesso musicale. Si alternano così momenti musicali e studi in medicina, oltre alle vicende familiari divise tra ansie, gioie e delusioni.",
+      "immagine": "immagini/programmi-guida/cristina.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Tira & Molla",
+      "inizio": "15:35",
+      "fine": "16:35",
+      "descrizione": "Con Paolo Bonolis, Tira e Molla e' un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
+      "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zelig Event",
+      "inizio": "16:35",
+      "fine": "19:10",
+      "info": "Puntata del 15/12/2016",
+      "descrizione": "Michelle Hunziker e Christian De Sica conducono Zelig Event 2016. Nel cast della terza puntata: Paolo Cevoli, Ale e Franz, Nuzzo e Di Biase e molti altri.",
+      "immagine": "immagini/programmi-guida/zeligeventpuntatatre.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sei forte, maestro!",
+      "inizio": "19:10",
+      "fine": "21:20",
+      "info": "S2 Ep15-16 Diventare grandi/In rete",
+      "descrizione": "Seconda stagione della fortunatissima serie con Emilio Solfrizzi. Terminata l'estate, Emilio Ricci e Barbara Loriani decidono di andare a vivere insieme in attesa di convolare a nozze. Mentre la figlia di Emilio, Sabrina, è ancora in vacanza, Emilio viene trasferito in un altro istituto ed è costretto ad abbandonare i suoi amati alunni della V A.",
+      "immagine": "immagini/programmi-guida/seifortemaestro2.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "La notte vola",
+      "inizio": "21:20",
+      "fine": "23:40",
+      "info": "Puntata del 4/08/2001",
+      "descrizione": "Lorella Cuccarini presenta un incredibile viaggio all'interno della musica e dello spettacolo dei mitici anni '80",
+      "immagine": "immagini/programmi-guida/lanottevola.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sarabanda",
+      "inizio": "23:40",
+      "fine": "00:30",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    }
+  ],
+
+  "2026-08-19":[
+    {
+      "titolo": "Sarabanda",
+      "inizio": "00:30",
+      "fine": "01:20",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "01:20",
+      "fine": "02:10",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "02:10",
+      "fine": "03:00",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "03:00",
+      "fine": "03:45",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "03:45",
+      "fine": "04:30",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Il mammo",
+      "inizio": "04:30",
+      "fine": "04:55",
+      "info": "S3 Ep15 Sedotta e abbandonata",
+      "descrizione": "La terza stagione di 'Il Mammo' riserva grandi sorprese: la famiglia Zerbi dà il benvenuto alla piccola Pepita, mentre Raffa si appresta a lasciare il nido per un'avventura entusiasmante in Spagna. Ma come farà Silvano senza la sua Raffa? Entrano nel cast Ulla, la tata ingaggiata da Silvano per aiutarlo nella gestione della casa e dei figli, dopo la partenza della figlia maggiore Raffa per studiare in Spagna, e Elisa, una giovane aspirante show-girl.",
+      "immagine": "immagini/programmi-guida/ilmammo3.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Il mammo",
+      "inizio": "04:55",
+      "fine": "05:20",
+      "info": "S3 Ep16 Nessuno è perfetto",
+      "descrizione": "La terza stagione di 'Il Mammo' riserva grandi sorprese: la famiglia Zerbi dà il benvenuto alla piccola Pepita, mentre Raffa si appresta a lasciare il nido per un'avventura entusiasmante in Spagna. Ma come farà Silvano senza la sua Raffa? Entrano nel cast Ulla, la tata ingaggiata da Silvano per aiutarlo nella gestione della casa e dei figli, dopo la partenza della figlia maggiore Raffa per studiare in Spagna, e Elisa, una giovane aspirante show-girl.",
+      "immagine": "immagini/programmi-guida/ilmammo3.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Finché c'è Ditta c'è speranza",
+      "inizio": "05:20",
+      "fine": "05:30",
+      "info": "S2 Ep9",
+      "descrizione": "Una raccolta di sketch del quartetto comico della Premiata Ditta che unisce situazioni quotidiane e caricature estreme: mariti che cedono a mogli inflessibili, famiglie in trasferta, nonne argute e medici improbabili. Ogni episodio costruisce un mosaico di personaggi portati all'eccesso nel modo di parlare e muoversi, trasformando ruoli comuni in figure spiazzanti e irresistibilmente strampalate.",
+      "immagine": "immagini/programmi-guida/fincheceditta.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Finché c'è Ditta c'è speranza",
+      "inizio": "05:30",
+      "fine": "05:40",
+      "info": "S2 Ep10",
+      "descrizione": "Una raccolta di sketch del quartetto comico della Premiata Ditta che unisce situazioni quotidiane e caricature estreme: mariti che cedono a mogli inflessibili, famiglie in trasferta, nonne argute e medici improbabili. Ogni episodio costruisce un mosaico di personaggi portati all'eccesso nel modo di parlare e muoversi, trasformando ruoli comuni in figure spiazzanti e irresistibilmente strampalate.",
+      "immagine": "immagini/programmi-guida/fincheceditta.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Finché c'è Ditta c'è speranza",
+      "inizio": "05:40",
+      "fine": "05:50",
+      "info": "S2 Ep11",
+      "descrizione": "Una raccolta di sketch del quartetto comico della Premiata Ditta che unisce situazioni quotidiane e caricature estreme: mariti che cedono a mogli inflessibili, famiglie in trasferta, nonne argute e medici improbabili. Ogni episodio costruisce un mosaico di personaggi portati all'eccesso nel modo di parlare e muoversi, trasformando ruoli comuni in figure spiazzanti e irresistibilmente strampalate.",
+      "immagine": "immagini/programmi-guida/fincheceditta.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Finché c'è Ditta c'è speranza",
+      "inizio": "05:50",
+      "fine": "06:00",
+      "info": "S2 Ep12",
+      "descrizione": "Una raccolta di sketch del quartetto comico della Premiata Ditta che unisce situazioni quotidiane e caricature estreme: mariti che cedono a mogli inflessibili, famiglie in trasferta, nonne argute e medici improbabili. Ogni episodio costruisce un mosaico di personaggi portati all'eccesso nel modo di parlare e muoversi, trasformando ruoli comuni in figure spiazzanti e irresistibilmente strampalate.",
+      "immagine": "immagini/programmi-guida/fincheceditta.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Casa dolce casa",
+      "inizio": "06:00",
+      "fine": "06:25",
+      "info": "S3 Ep3 Casa dolce casa?",
+      "descrizione": "La serie racconta le vicende della famiglia Bonetti, le cui trame si svolgono interamente all'interno di un appartamento tra equivoci domestici, gag e dinamiche di coppia",
+      "immagine": "immagini/programmi-guida/casadolcecasastagioneterza.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Casa dolce casa",
+      "inizio": "06:25",
+      "fine": "06:50",
+      "info": "S3 Ep4 Un'eredità coi fiocchi",
+      "descrizione": "La serie racconta le vicende della famiglia Bonetti, le cui trame si svolgono interamente all'interno di un appartamento tra equivoci domestici, gag e dinamiche di coppia",
+      "immagine": "immagini/programmi-guida/casadolcecasastagioneterza.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "CentoVetrine",
+      "inizio": "06:50",
+      "fine": "07:15",
+      "info": "S2 Ep148",
+      "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
+      "immagine": "immagini/programmi-guida/centovetrine2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "CentoVetrine",
+      "inizio": "07:15",
+      "fine": "07:40",
+      "info": "S2 Ep149",
+      "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
+      "immagine": "immagini/programmi-guida/centovetrine2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Vivere",
+      "inizio": "07:40",
+      "fine": "08:05",
+      "info": "S2 Ep183",
+      "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
+      "immagine": "immagini/programmi-guida/vivere2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Vivere",
+      "inizio": "08:05",
+      "fine": "08:30",
+      "info": "S2 Ep184",
+      "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
+      "immagine": "immagini/programmi-guida/vivere2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "The Wall",
+      "inizio": "08:30",
+      "fine": "09:25",
+      "descrizione": "Torna il mega tabellone luminoso da cui scendono le sfere che possono cambiare la vita dei concorrenti. Conduce Max Giusti.",
+      "immagine": "immagini/programmi-guida/thewall.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:25",
+      "fine": "10:05",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Don Luca c'è",
+      "inizio": "10:05",
+      "fine": "10:30",
+      "info": "S1 Ep14 Sexy calendario",
+      "descrizione": "La serie tratta della missione di Don Luca (Luca Laurenti), parroco nella Chiesa di San Precotto. Ad attenderlo una serie di sorprese non sempre gradite e tante persone da conoscere e sopportare.",
+      "immagine": "immagini/programmi-guida/donlucace.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Don Luca c'è",
+      "inizio": "10:30",
+      "fine": "10:55",
+      "info": "S1 Ep15 Tiro da tre",
+      "descrizione": "La serie tratta della missione di Don Luca (Luca Laurenti), parroco nella Chiesa di San Precotto. Ad attenderlo una serie di sorprese non sempre gradite e tante persone da conoscere e sopportare.",
+      "immagine": "immagini/programmi-guida/donlucace.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Distretto di polizia",
+      "inizio": "10:55",
+      "fine": "11:50",
+      "info": "S8 Ep10 L'ultimo viaggio",
+      "descrizione": "Nell'ottava stagione, dopo l'uscita di scena del commissario Marcello Fontana, che ha preferito tornare in Calabria con la moglie e Il figlio, la direzione del commissariato viene affidata a Luca Benvenuto, Simone Corrente. Al gruppo si agglungerà anche Anna Foglietta nel ruolo dell'ispettore Elena Argenti, e Alessandro Intini, che interpreta suo fratello Marco.",
+      "immagine": "immagini/programmi-guida/distretto8.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Distretto di polizia",
+      "inizio": "11:50",
+      "fine": "12:45",
+      "info": "S8 Ep11 Invisibili",
+      "descrizione": "Nell'ottava stagione, dopo l'uscita di scena del commissario Marcello Fontana, che ha preferito tornare in Calabria con la moglie e Il figlio, la direzione del commissariato viene affidata a Luca Benvenuto, Simone Corrente. Al gruppo si agglungerà anche Anna Foglietta nel ruolo dell'ispettore Elena Argenti, e Alessandro Intini, che interpreta suo fratello Marco.",
+      "immagine": "immagini/programmi-guida/distretto8.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Carabinieri",
+      "inizio": "12:45",
+      "fine": "13:45",
+      "info": "S6 Ep16 Rubino",
+      "descrizione": "Due nuovi arrivi nella sesta stagione a Città della Pieve: Laura Flestero, e il bel brigadiere Giacomo Contini, sciupa femmine. Ad eccezione di Marco e Caterina, che si sono lasciati, in caserma si respira un clima di grande armonia.",
+      "immagine": "immagini/programmi-guida/carabinieri6.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Carabinieri",
+      "inizio": "13:45",
+      "fine": "14:45",
+      "info": "S6 Ep17 Laura",
+      "descrizione": "Due nuovi arrivi nella sesta stagione a Città della Pieve: Laura Flestero, e il bel brigadiere Giacomo Contini, sciupa femmine. Ad eccezione di Marco e Caterina, che si sono lasciati, in caserma si respira un clima di grande armonia.",
+      "immagine": "immagini/programmi-guida/carabinieri6.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Cristina",
+      "inizio": "14:45",
+      "fine": "15:10",
+      "info": "S1 Ep29 Zio-sitter",
+      "descrizione": "Cristina è una ragazza che, insieme ai suoi compagni di università, forma un complesso musicale. Si alternano così momenti musicali e studi in medicina, oltre alle vicende familiari divise tra ansie, gioie e delusioni.",
+      "immagine": "immagini/programmi-guida/cristina.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Cristina",
+      "inizio": "15:10",
+      "fine": "15:35",
+      "info": "S1 Ep30 La fidanzata segreta",
+      "descrizione": "Cristina è una ragazza che, insieme ai suoi compagni di università, forma un complesso musicale. Si alternano così momenti musicali e studi in medicina, oltre alle vicende familiari divise tra ansie, gioie e delusioni.",
+      "immagine": "immagini/programmi-guida/cristina.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Tira & Molla",
+      "inizio": "15:35",
+      "fine": "16:35",
+      "descrizione": "Con Paolo Bonolis, Tira e Molla e' un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
+      "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zelig Event",
+      "inizio": "16:35",
+      "fine": "19:20",
+      "info": "Puntata del 22/12/2016",
+      "descrizione": "Michelle Hunziker e Christian De Sica conducono l'ultima puntata di Zelig Event 2016. Nel cast: Anna Maria Barbera, Ale e Franz, Enrico Bertolino e molti altri.",
+      "immagine": "immagini/programmi-guida/zeligeventpuntata4.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sei forte, maestro!",
+      "inizio": "19:20",
+      "fine": "21:30",
+      "info": "S2 Ep17-18 Il nonno di Alessia/Sbagliando s'impara",
+      "descrizione": "Seconda stagione della fortunatissima serie con Emilio Solfrizzi. Terminata l'estate, Emilio Ricci e Barbara Loriani decidono di andare a vivere insieme in attesa di convolare a nozze. Mentre la figlia di Emilio, Sabrina, è ancora in vacanza, Emilio viene trasferito in un altro istituto ed è costretto ad abbandonare i suoi amati alunni della V A.",
+      "immagine": "immagini/programmi-guida/seifortemaestro2.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Grande Fratello 9",
+      "inizio": "21:30",
+      "fine": "00:10",
+      "info": "Puntata del 27/01/2009",
+      "descrizione": "La nona edizione del Grande Fratello, condotta da Alessia Marcuzzi con Alfonso Signorini, vede 23 concorrenti vivere nella Casa più spiata d’Italia tra emozioni, relazioni, nomination e colpi di scena.",
+      "immagine": "immagini/programmi-guida/lanottevola.jpg",
+      "inOnda": false
+    }
+  ],
+
+  "2026-08-20":[
+    {
+      "titolo": "Sarabanda",
+      "inizio": "00:10",
+      "fine": "01:00",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "01:00",
+      "fine": "01:50",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "01:50",
+      "fine": "02:40",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "02:40",
+      "fine": "03:25",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "03:25",
+      "fine": "04:10",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Il mammo",
+      "inizio": "04:10",
+      "fine": "04:35",
+      "info": "S3 Ep17 Micho macho",
+      "descrizione": "La terza stagione di 'Il Mammo' riserva grandi sorprese: la famiglia Zerbi dà il benvenuto alla piccola Pepita, mentre Raffa si appresta a lasciare il nido per un'avventura entusiasmante in Spagna. Ma come farà Silvano senza la sua Raffa? Entrano nel cast Ulla, la tata ingaggiata da Silvano per aiutarlo nella gestione della casa e dei figli, dopo la partenza della figlia maggiore Raffa per studiare in Spagna, e Elisa, una giovane aspirante show-girl.",
+      "immagine": "immagini/programmi-guida/ilmammo3.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Il mammo",
+      "inizio": "04:35",
+      "fine": "05:00",
+      "info": "S3 Ep18 Sex and Silvano",
+      "descrizione": "La terza stagione di 'Il Mammo' riserva grandi sorprese: la famiglia Zerbi dà il benvenuto alla piccola Pepita, mentre Raffa si appresta a lasciare il nido per un'avventura entusiasmante in Spagna. Ma come farà Silvano senza la sua Raffa? Entrano nel cast Ulla, la tata ingaggiata da Silvano per aiutarlo nella gestione della casa e dei figli, dopo la partenza della figlia maggiore Raffa per studiare in Spagna, e Elisa, una giovane aspirante show-girl.",
+      "immagine": "immagini/programmi-guida/ilmammo3.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Il mammo",
+      "inizio": "05:00",
+      "fine": "05:25",
+      "info": "S3 Ep19 Piccole donne crescono",
+      "descrizione": "La terza stagione di 'Il Mammo' riserva grandi sorprese: la famiglia Zerbi dà il benvenuto alla piccola Pepita, mentre Raffa si appresta a lasciare il nido per un'avventura entusiasmante in Spagna. Ma come farà Silvano senza la sua Raffa? Entrano nel cast Ulla, la tata ingaggiata da Silvano per aiutarlo nella gestione della casa e dei figli, dopo la partenza della figlia maggiore Raffa per studiare in Spagna, e Elisa, una giovane aspirante show-girl.",
+      "immagine": "immagini/programmi-guida/ilmammo3.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Finché c'è Ditta c'è speranza",
+      "inizio": "05:25",
+      "fine": "05:35",
+      "info": "S2 Ep13",
+      "descrizione": "Una raccolta di sketch del quartetto comico della Premiata Ditta che unisce situazioni quotidiane e caricature estreme: mariti che cedono a mogli inflessibili, famiglie in trasferta, nonne argute e medici improbabili. Ogni episodio costruisce un mosaico di personaggi portati all'eccesso nel modo di parlare e muoversi, trasformando ruoli comuni in figure spiazzanti e irresistibilmente strampalate.",
+      "immagine": "immagini/programmi-guida/fincheceditta.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Finché c'è Ditta c'è speranza",
+      "inizio": "05:35",
+      "fine": "05:45",
+      "info": "S2 Ep14",
+      "descrizione": "Una raccolta di sketch del quartetto comico della Premiata Ditta che unisce situazioni quotidiane e caricature estreme: mariti che cedono a mogli inflessibili, famiglie in trasferta, nonne argute e medici improbabili. Ogni episodio costruisce un mosaico di personaggi portati all'eccesso nel modo di parlare e muoversi, trasformando ruoli comuni in figure spiazzanti e irresistibilmente strampalate.",
+      "immagine": "immagini/programmi-guida/fincheceditta.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Finché c'è Ditta c'è speranza",
+      "inizio": "05:45",
+      "fine": "06:00",
+      "info": "S2 Ep15",
+      "descrizione": "Una raccolta di sketch del quartetto comico della Premiata Ditta che unisce situazioni quotidiane e caricature estreme: mariti che cedono a mogli inflessibili, famiglie in trasferta, nonne argute e medici improbabili. Ogni episodio costruisce un mosaico di personaggi portati all'eccesso nel modo di parlare e muoversi, trasformando ruoli comuni in figure spiazzanti e irresistibilmente strampalate.",
+      "immagine": "immagini/programmi-guida/fincheceditta.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Casa dolce casa",
+      "inizio": "06:00",
+      "fine": "06:25",
+      "info": "S3 Ep5 La parabola",
+      "descrizione": "La serie racconta le vicende della famiglia Bonetti, le cui trame si svolgono interamente all'interno di un appartamento tra equivoci domestici, gag e dinamiche di coppia",
+      "immagine": "immagini/programmi-guida/casadolcecasastagioneterza.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Casa dolce casa",
+      "inizio": "06:25",
+      "fine": "06:50",
+      "info": "S3 Ep6 Quando la moglie è in vacanza",
+      "descrizione": "La serie racconta le vicende della famiglia Bonetti, le cui trame si svolgono interamente all'interno di un appartamento tra equivoci domestici, gag e dinamiche di coppia",
+      "immagine": "immagini/programmi-guida/casadolcecasastagioneterza.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "CentoVetrine",
+      "inizio": "06:50",
+      "fine": "07:15",
+      "info": "S2 Ep150",
+      "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
+      "immagine": "immagini/programmi-guida/centovetrine2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "CentoVetrine",
+      "inizio": "07:15",
+      "fine": "07:40",
+      "info": "S2 Ep151",
+      "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
+      "immagine": "immagini/programmi-guida/centovetrine2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Vivere",
+      "inizio": "07:40",
+      "fine": "08:05",
+      "info": "S2 Ep185",
+      "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
+      "immagine": "immagini/programmi-guida/vivere2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Vivere",
+      "inizio": "08:05",
+      "fine": "08:30",
+      "info": "S2 Ep186",
+      "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
+      "immagine": "immagini/programmi-guida/vivere2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "The Wall",
+      "inizio": "08:30",
+      "fine": "09:25",
+      "descrizione": "Torna il mega tabellone luminoso da cui scendono le sfere che possono cambiare la vita dei concorrenti. Conduce Max Giusti.",
+      "immagine": "immagini/programmi-guida/thewall.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:25",
+      "fine": "10:05",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Don Luca c'è",
+      "inizio": "10:05",
+      "fine": "10:30",
+      "info": "S1 Ep16 Vu vu vu mi piaci tu",
+      "descrizione": "La serie tratta della missione di Don Luca (Luca Laurenti), parroco nella Chiesa di San Precotto. Ad attenderlo una serie di sorprese non sempre gradite e tante persone da conoscere e sopportare.",
+      "immagine": "immagini/programmi-guida/donlucace.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Don Luca c'è",
+      "inizio": "10:30",
+      "fine": "10:55",
+      "info": "S1 Ep17 I giorni del dragone",
+      "descrizione": "La serie tratta della missione di Don Luca (Luca Laurenti), parroco nella Chiesa di San Precotto. Ad attenderlo una serie di sorprese non sempre gradite e tante persone da conoscere e sopportare.",
+      "immagine": "immagini/programmi-guida/donlucace.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Distretto di polizia",
+      "inizio": "10:55",
+      "fine": "11:50",
+      "info": "S8 Ep12 L'economia dei sentimenti",
+      "descrizione": "Nell'ottava stagione, dopo l'uscita di scena del commissario Marcello Fontana, che ha preferito tornare in Calabria con la moglie e Il figlio, la direzione del commissariato viene affidata a Luca Benvenuto, Simone Corrente. Al gruppo si agglungerà anche Anna Foglietta nel ruolo dell'ispettore Elena Argenti, e Alessandro Intini, che interpreta suo fratello Marco.",
+      "immagine": "immagini/programmi-guida/distretto8.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Distretto di polizia",
+      "inizio": "11:50",
+      "fine": "12:45",
+      "info": "S8 Ep13 Una sconosciuta tra noi",
+      "descrizione": "Nell'ottava stagione, dopo l'uscita di scena del commissario Marcello Fontana, che ha preferito tornare in Calabria con la moglie e Il figlio, la direzione del commissariato viene affidata a Luca Benvenuto, Simone Corrente. Al gruppo si agglungerà anche Anna Foglietta nel ruolo dell'ispettore Elena Argenti, e Alessandro Intini, che interpreta suo fratello Marco.",
+      "immagine": "immagini/programmi-guida/distretto8.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Carabinieri",
+      "inizio": "12:45",
+      "fine": "13:45",
+      "info": "S6 Ep18 Uno strano furto",
+      "descrizione": "Due nuovi arrivi nella sesta stagione a Città della Pieve: Laura Flestero, e il bel brigadiere Giacomo Contini, sciupa femmine. Ad eccezione di Marco e Caterina, che si sono lasciati, in caserma si respira un clima di grande armonia.",
+      "immagine": "immagini/programmi-guida/carabinieri6.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Carabinieri",
+      "inizio": "13:45",
+      "fine": "14:45",
+      "info": "S6 Ep19 Affari di famiglia",
+      "descrizione": "Due nuovi arrivi nella sesta stagione a Città della Pieve: Laura Flestero, e il bel brigadiere Giacomo Contini, sciupa femmine. Ad eccezione di Marco e Caterina, che si sono lasciati, in caserma si respira un clima di grande armonia.",
+      "immagine": "immagini/programmi-guida/carabinieri6.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Cristina",
+      "inizio": "14:45",
+      "fine": "15:10",
+      "info": "S1 Ep31 Anime gemelle",
+      "descrizione": "Cristina è una ragazza che, insieme ai suoi compagni di università, forma un complesso musicale. Si alternano così momenti musicali e studi in medicina, oltre alle vicende familiari divise tra ansie, gioie e delusioni.",
+      "immagine": "immagini/programmi-guida/cristina.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Cristina",
+      "inizio": "15:10",
+      "fine": "15:35",
+      "info": "S1 Ep33 Un guaio tira l'altro",
+      "descrizione": "Cristina è una ragazza che, insieme ai suoi compagni di università, forma un complesso musicale. Si alternano così momenti musicali e studi in medicina, oltre alle vicende familiari divise tra ansie, gioie e delusioni.",
+      "immagine": "immagini/programmi-guida/cristina.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Tira & Molla",
+      "inizio": "15:35",
+      "fine": "16:35",
+      "descrizione": "Con Paolo Bonolis, Tira e Molla e' un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
+      "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zelig",
+      "inizio": "16:35",
+      "fine": "19:35",
+      "info": "Puntata del 18/11/2021",
+      "descrizione": "Ritorna la grande comicità di Zelig, Claudio Bisio e Vanessa Incontrada conducono la nuova edizione di Zelig, con la partecipazione dei più grandi talenti comici italiani e nuovi emergenti.",
+      "immagine": "immagini/programmi-guida/zelig2021puntata1.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sei forte, maestro!",
+      "inizio": "19:35",
+      "fine": "21:35",
+      "info": "S2 Ep19-20 Lo scambio/Come uomini primitivi",
+      "descrizione": "Seconda stagione della fortunatissima serie con Emilio Solfrizzi. Terminata l'estate, Emilio Ricci e Barbara Loriani decidono di andare a vivere insieme in attesa di convolare a nozze. Mentre la figlia di Emilio, Sabrina, è ancora in vacanza, Emilio viene trasferito in un altro istituto ed è costretto ad abbandonare i suoi amati alunni della V A.",
+      "immagine": "immagini/programmi-guida/seifortemaestro2.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Scherzi a parte",
+      "inizio": "21:35",
+      "fine": "00:00",
+      "descrizione": "Condotto da Claudio Amendola, Teo Mammucari e Belen Rodríguez. Lo storico show di Canale 5 che prende di mira i personaggi famosi con scherzi irresistibili.",
+      "immagine": "immagini/programmi-guida/scherziaparte2009.jpg",
+      "inOnda": false
+    }
+  ],
+
+  "2026-08-21":[
+    {
+      "titolo": "Sarabanda",
+      "inizio": "00:00",
+      "fine": "00:50",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "00:50",
+      "fine": "01:40",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "01:40",
+      "fine": "02:30",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "02:30",
+      "fine": "03:15",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "03:15",
+      "fine": "04:00",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Il mammo",
+      "inizio": "04:00",
+      "fine": "04:25",
+      "info": "S3 Ep20 Un pony di nome Harvey",
+      "descrizione": "La terza stagione di 'Il Mammo' riserva grandi sorprese: la famiglia Zerbi dà il benvenuto alla piccola Pepita, mentre Raffa si appresta a lasciare il nido per un'avventura entusiasmante in Spagna. Ma come farà Silvano senza la sua Raffa? Entrano nel cast Ulla, la tata ingaggiata da Silvano per aiutarlo nella gestione della casa e dei figli, dopo la partenza della figlia maggiore Raffa per studiare in Spagna, e Elisa, una giovane aspirante show-girl.",
+      "immagine": "immagini/programmi-guida/ilmammo3.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "O la va o la spacca",
+      "inizio": "04:25",
+      "fine": "05:15",
+      "info": "S1 Ep1 Conflitto di interessi",
+      "descrizione": "Erminio arriva a Perozzo dove viene assunto dal commendator Romanazzi a Teleperozzo. Facendo da mediatore in un dibattito elettorale per il nuovo sindaco si fa notare dalla popolazione che lo voterà alle elezioni. Ma Erminio vuole lavorare in televisione e cerca di farsi odiare dai perozzini, uscendone però sempre più apprezzato. Proprio quando inizia ad apprezzare questo suo nuovo ruolo fa insediare i senzatetto in alcune case sfitte, facendosi però odiare dai concittadini. Si dimetterà da sindaco e tornerà al suo lavoro a Teleperozzo.",
+      "immagine": "immagini/programmi-guida/olavaolaspaccaep1.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Finché c'è Ditta c'è speranza",
+      "inizio": "05:15",
+      "fine": "05:25",
+      "info": "S2 Ep16",
+      "descrizione": "Una raccolta di sketch del quartetto comico della Premiata Ditta che unisce situazioni quotidiane e caricature estreme: mariti che cedono a mogli inflessibili, famiglie in trasferta, nonne argute e medici improbabili. Ogni episodio costruisce un mosaico di personaggi portati all'eccesso nel modo di parlare e muoversi, trasformando ruoli comuni in figure spiazzanti e irresistibilmente strampalate.",
+      "immagine": "immagini/programmi-guida/fincheceditta.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Finché c'è Ditta c'è speranza",
+      "inizio": "05:25",
+      "fine": "05:35",
+      "info": "S2 Ep17",
+      "descrizione": "Una raccolta di sketch del quartetto comico della Premiata Ditta che unisce situazioni quotidiane e caricature estreme: mariti che cedono a mogli inflessibili, famiglie in trasferta, nonne argute e medici improbabili. Ogni episodio costruisce un mosaico di personaggi portati all'eccesso nel modo di parlare e muoversi, trasformando ruoli comuni in figure spiazzanti e irresistibilmente strampalate.",
+      "immagine": "immagini/programmi-guida/fincheceditta.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Finché c'è Ditta c'è speranza",
+      "inizio": "05:35",
+      "fine": "05:45",
+      "info": "S2 Ep18",
+      "descrizione": "Una raccolta di sketch del quartetto comico della Premiata Ditta che unisce situazioni quotidiane e caricature estreme: mariti che cedono a mogli inflessibili, famiglie in trasferta, nonne argute e medici improbabili. Ogni episodio costruisce un mosaico di personaggi portati all'eccesso nel modo di parlare e muoversi, trasformando ruoli comuni in figure spiazzanti e irresistibilmente strampalate.",
+      "immagine": "immagini/programmi-guida/fincheceditta.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Finché c'è Ditta c'è speranza",
+      "inizio": "05:45",
+      "fine": "06:00",
+      "info": "S2 Ep19",
+      "descrizione": "Una raccolta di sketch del quartetto comico della Premiata Ditta che unisce situazioni quotidiane e caricature estreme: mariti che cedono a mogli inflessibili, famiglie in trasferta, nonne argute e medici improbabili. Ogni episodio costruisce un mosaico di personaggi portati all'eccesso nel modo di parlare e muoversi, trasformando ruoli comuni in figure spiazzanti e irresistibilmente strampalate.",
+      "immagine": "immagini/programmi-guida/fincheceditta.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Casa dolce casa",
+      "inizio": "06:00",
+      "fine": "06:25",
+      "info": "S3 Ep7 Roma città aperta",
+      "descrizione": "La serie racconta le vicende della famiglia Bonetti, le cui trame si svolgono interamente all'interno di un appartamento tra equivoci domestici, gag e dinamiche di coppia",
+      "immagine": "immagini/programmi-guida/casadolcecasastagioneterza.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Casa dolce casa",
+      "inizio": "06:25",
+      "fine": "06:50",
+      "info": "S3 Ep8 Cerco lavoro",
+      "descrizione": "La serie racconta le vicende della famiglia Bonetti, le cui trame si svolgono interamente all'interno di un appartamento tra equivoci domestici, gag e dinamiche di coppia",
+      "immagine": "immagini/programmi-guida/casadolcecasastagioneterza.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "CentoVetrine",
+      "inizio": "06:50",
+      "fine": "07:15",
+      "info": "S2 Ep152",
+      "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
+      "immagine": "immagini/programmi-guida/centovetrine2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "CentoVetrine",
+      "inizio": "07:15",
+      "fine": "07:40",
+      "info": "S2 Ep153",
+      "descrizione": "Nel centro commerciale di CentoVetrine si consumano gli attori e i tradimenti delle famiglie più potenti di Torino. Ritorna per la seconda stagione una delle soap opera più amate dal pubblico.",
+      "immagine": "immagini/programmi-guida/centovetrine2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Vivere",
+      "inizio": "07:40",
+      "fine": "08:05",
+      "info": "S2 Ep187",
+      "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
+      "immagine": "immagini/programmi-guida/vivere2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Vivere",
+      "inizio": "08:05",
+      "fine": "08:30",
+      "info": "S2 Ep188",
+      "descrizione": "Seconda stagione della soap è ambientata sullo sfondo della ricca città di Como, ed è incentrata sui componenti di diversi nuclei familiari le cui vicende sono intrecciate fra loro: i Gherardi sono una delle famiglie più ricche e conosciute della città, proprietari di un importante setificio. I Bonelli, una famiglia di ristoratori molto unita, avvolta da un calore umano che gli permette di affrontare qualsiasi crisi. E i De Carolis, una famiglia di medici: Vittorio De Carolis, primario all'ospedale di Como è un uomo rigido e severo.",
+      "immagine": "immagini/programmi-guida/vivere2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "The Wall",
+      "inizio": "08:30",
+      "fine": "09:25",
+      "descrizione": "Torna il mega tabellone luminoso da cui scendono le sfere che possono cambiare la vita dei concorrenti. Conduce Max Giusti.",
+      "immagine": "immagini/programmi-guida/thewall.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Camera café",
+      "inizio": "09:25",
+      "fine": "10:05",
+      "descrizione": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.         VISIONE ADATTA A TUTTI.",
+      "immagine": "immagini/programmi-guida/cameracafe.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Don Luca c'è",
+      "inizio": "10:05",
+      "fine": "10:30",
+      "info": "S1 Ep18 Chi predica bene...",
+      "descrizione": "La serie tratta della missione di Don Luca (Luca Laurenti), parroco nella Chiesa di San Precotto. Ad attenderlo una serie di sorprese non sempre gradite e tante persone da conoscere e sopportare.",
+      "immagine": "immagini/programmi-guida/donlucace.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Don Luca c'è",
+      "inizio": "10:30",
+      "fine": "10:55",
+      "info": "S1 Ep19 L'erba di crocefisso",
+      "descrizione": "La serie tratta della missione di Don Luca (Luca Laurenti), parroco nella Chiesa di San Precotto. Ad attenderlo una serie di sorprese non sempre gradite e tante persone da conoscere e sopportare.",
+      "immagine": "immagini/programmi-guida/donlucace.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Distretto di polizia",
+      "inizio": "10:55",
+      "fine": "11:50",
+      "info": "S8 Ep14 Fantasmi del passato",
+      "descrizione": "Nell'ottava stagione, dopo l'uscita di scena del commissario Marcello Fontana, che ha preferito tornare in Calabria con la moglie e Il figlio, la direzione del commissariato viene affidata a Luca Benvenuto, Simone Corrente. Al gruppo si agglungerà anche Anna Foglietta nel ruolo dell'ispettore Elena Argenti, e Alessandro Intini, che interpreta suo fratello Marco.",
+      "immagine": "immagini/programmi-guida/distretto8.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Distretto di polizia",
+      "inizio": "11:50",
+      "fine": "12:45",
+      "info": "S8 Ep15 L'arcano senza nome",
+      "descrizione": "Nell'ottava stagione, dopo l'uscita di scena del commissario Marcello Fontana, che ha preferito tornare in Calabria con la moglie e Il figlio, la direzione del commissariato viene affidata a Luca Benvenuto, Simone Corrente. Al gruppo si agglungerà anche Anna Foglietta nel ruolo dell'ispettore Elena Argenti, e Alessandro Intini, che interpreta suo fratello Marco.",
+      "immagine": "immagini/programmi-guida/distretto8.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Carabinieri",
+      "inizio": "12:45",
+      "fine": "13:45",
+      "info": "S6 Ep20 Il viaggio di Ulisse",
+      "descrizione": "Due nuovi arrivi nella sesta stagione a Città della Pieve: Laura Flestero, e il bel brigadiere Giacomo Contini, sciupa femmine. Ad eccezione di Marco e Caterina, che si sono lasciati, in caserma si respira un clima di grande armonia.",
+      "immagine": "immagini/programmi-guida/carabinieri6.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Carabinieri",
+      "inizio": "13:45",
+      "fine": "14:45",
+      "info": "S6 Ep21 Pericolo di vita",
+      "descrizione": "Due nuovi arrivi nella sesta stagione a Città della Pieve: Laura Flestero, e il bel brigadiere Giacomo Contini, sciupa femmine. Ad eccezione di Marco e Caterina, che si sono lasciati, in caserma si respira un clima di grande armonia.",
+      "immagine": "immagini/programmi-guida/carabinieri6.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Cristina",
+      "inizio": "14:45",
+      "fine": "15:10",
+      "info": "S1 Ep34 Festa mascherata",
+      "descrizione": "Cristina è una ragazza che, insieme ai suoi compagni di università, forma un complesso musicale. Si alternano così momenti musicali e studi in medicina, oltre alle vicende familiari divise tra ansie, gioie e delusioni.",
+      "immagine": "immagini/programmi-guida/cristina.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Cristina",
+      "inizio": "15:10",
+      "fine": "15:35",
+      "info": "S1 Ep35 Appuntamenti...",
+      "descrizione": "Cristina è una ragazza che, insieme ai suoi compagni di università, forma un complesso musicale. Si alternano così momenti musicali e studi in medicina, oltre alle vicende familiari divise tra ansie, gioie e delusioni.",
+      "immagine": "immagini/programmi-guida/cristina.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Tira & Molla",
+      "inizio": "15:35",
+      "fine": "16:35",
+      "descrizione": "Con Paolo Bonolis, Tira e Molla e' un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
+      "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zelig",
+      "inizio": "16:35",
+      "fine": "19:25",
+      "info": "Puntata del 25/11/2021",
+      "descrizione": "Ritorna la grande comicità di Zelig, Claudio Bisio e Vanessa Incontrada conducono la nuova edizione di Zelig, con la partecipazione dei più grandi talenti comici italiani e nuovi emergenti.",
+      "immagine": "immagini/programmi-guida/zelig2021puntata2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sei forte, maestro!",
+      "inizio": "19:25",
+      "fine": "21:25",
+      "info": "S2 Ep21-22 Il terzo uomo/La sfida",
+      "descrizione": "Seconda stagione della fortunatissima serie con Emilio Solfrizzi. Terminata l'estate, Emilio Ricci e Barbara Loriani decidono di andare a vivere insieme in attesa di convolare a nozze. Mentre la figlia di Emilio, Sabrina, è ancora in vacanza, Emilio viene trasferito in un altro istituto ed è costretto ad abbandonare i suoi amati alunni della V A.",
+      "immagine": "immagini/programmi-guida/seifortemaestro2.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Macchemù",
+      "inizio": "21:25",
+      "fine": "23:20",
+      "descrizione": "Paola Barale conduce uno show musicale dedicato alle grandi hit italiane e internazionali, tra videoclip, ospiti, spettacolo e momenti di comicità. Un viaggio nella musica degli anni '60, '70, '80 e '90 con tante sorprese e protagonisti del mondo dello spettacolo.",
+      "immagine": "immagini/programmi-guida/macchemu.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sarabanda",
+      "inizio": "23:20",
+      "fine": "00:10",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    }
+  ],
+  
+  "2026-08-22":[
+    {
+      "titolo": "Sarabanda",
+      "inizio": "00:10",
+      "fine": "01:00",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "01:00",
+      "fine": "01:50",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "01:50",
+      "fine": "02:40",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "02:40",
+      "fine": "03:25",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "03:25",
+      "fine": "04:10",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "O la va o la spacca",
+      "inizio": "04:10",
+      "fine": "05:05",
+      "info": "S1 Ep2 La vedova nera",
+      "descrizione": "Erminio inventa il programma 'Funeral Show', in cui riprende e commenta i funerali del paese. Riguardando le registrazioni, nota che in due funerali diversi la vedova è la stessa donna, riconoscibile da un tatuaggio, a forma di ragno, alla caviglia. Indagando assieme all'amico Natalino, scopre che questa è iscritta a un'agenzia matrimoniale ed è una vedova nera: sposa uomini anziani e facoltosi per ucciderli e incassare l'eredità. Un giorno aiuta una donna rumena rimasta in panne con l'auto che si presenta come Ginevra (in realtà Erica Bauk, una ricercata) ed inizia a frequentarla.",
+      "immagine": "immagini/programmi-guida/olavaolaspaccaepisodio2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Finché c'è Ditta c'è speranza",
+      "inizio": "05:05",
+      "fine": "05:15",
+      "info": "S2 Ep20",
+      "descrizione": "Una raccolta di sketch del quartetto comico della Premiata Ditta che unisce situazioni quotidiane e caricature estreme: mariti che cedono a mogli inflessibili, famiglie in trasferta, nonne argute e medici improbabili. Ogni episodio costruisce un mosaico di personaggi portati all'eccesso nel modo di parlare e muoversi, trasformando ruoli comuni in figure spiazzanti e irresistibilmente strampalate.",
+      "immagine": "immagini/programmi-guida/fincheceditta.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Finché c'è Ditta c'è speranza",
+      "inizio": "05:15",
+      "fine": "05:35",
+      "info": "S3 Ep1",
+      "descrizione": "La Premiata Ditta: Pino Insegno, Roberto Ciufoli, Tiziana Foschi e Francesca Draghetti, portano in scena una girandola di quadretti comici, popolati da personaggi esasperati e situazioni irriverenti che danno ritmo e brio a ogni momento.",
+      "immagine": "immagini/programmi-guida/finchecedittacesperanzastagione3.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Finché c'è Ditta c'è speranza",
+      "inizio": "05:35",
+      "fine": "06:00",
+      "info": "S3 Ep2",
+      "descrizione": "La Premiata Ditta: Pino Insegno, Roberto Ciufoli, Tiziana Foschi e Francesca Draghetti, portano in scena una girandola di quadretti comici, popolati da personaggi esasperati e situazioni irriverenti che danno ritmo e brio a ogni momento.",
+      "immagine": "immagini/programmi-guida/finchecedittacesperanzastagione3.jpg",
+      "inOnda": false
     }
   ],
   
