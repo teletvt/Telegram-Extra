@@ -1322,7 +1322,7 @@
       "inOnda": false
     },
     {
-      "titolo": "Mai dire Isola",
+      "titolo": "Mai dire Pupa",
       "inizio": "20:20",
       "fine": "20:50",
       "descrizione": "La Gialappa's band commenta le vicende quotidiane dei naufraghi de 'L'isola dei famosi' attraverso l'utilizzo dei filmati più divertenti e le imitazioni dei concorrenti più celebri.",
@@ -1330,7 +1330,7 @@
       "inOnda": false
     },
     {
-      "titolo": "Mai dire Isola",
+      "titolo": "Mai dire Pupa",
       "inizio": "20:50",
       "fine": "21:15",
       "descrizione": "La Gialappa's band commenta le vicende quotidiane dei naufraghi de 'L'isola dei famosi' attraverso l'utilizzo dei filmati più divertenti e le imitazioni dei concorrenti più celebri.",
@@ -2919,7 +2919,7 @@
       "inOnda": false
     },
     {
-      "titolo": "Mai dire Isola",
+      "titolo": "Mai dire Pupa",
       "inizio": "20:20",
       "fine": "20:50",
       "descrizione": "La Gialappa's band commenta le vicende quotidiane dei naufraghi de 'L'isola dei famosi' attraverso l'utilizzo dei filmati più divertenti e le imitazioni dei concorrenti più celebri.",
@@ -2927,7 +2927,7 @@
       "inOnda": false
     },
     {
-      "titolo": "Mai dire Isola",
+      "titolo": "Mai dire Pupa",
       "inizio": "20:50",
       "fine": "21:15",
       "descrizione": "La Gialappa's band commenta le vicende quotidiane dei naufraghi de 'L'isola dei famosi' attraverso l'utilizzo dei filmati più divertenti e le imitazioni dei concorrenti più celebri.",
@@ -3126,6 +3126,7 @@
       "titolo": "SandraRaimondo Show",
       "inizio": "21:30",
       "fine": "23:30",
+      "info": "Puntata del 7/03/1987",
       "descrizione": "Sandra Mondaini e Raimondo Vianello protagonisti assoluti di una trasmissione di altissimo livello che ha fatto la storia di Canale 5.",
       "immagine": "immagini/programmi-guida/sandraraimondoshow.jpg",
       "inOnda": false
@@ -4581,7 +4582,7 @@
       "inOnda": false
     },
     {
-      "titolo": "Ok, il prezzo è giusto!",
+      "titolo": "Ok, il prezzo è giusto! - Speciale 'I ragazzi della 3ªC",
       "inizio": "13:10",
       "fine": "15:00",
       "descrizione": "Lo storico game show che ha appassionato intere generazioni. Tra prove di abilità, offerte e strategie, i concorrenti tentano di indovinare il prezzo esatto dei prodotti in palio per conquistare premi sempre più ricchi. Con Iva Zanicchi.",
@@ -4613,7 +4614,7 @@
       "inOnda": false
     },
     {
-      "titolo": "Mai dire Isola",
+      "titolo": "Mai dire Pupa",
       "inizio": "20:20",
       "fine": "20:50",
       "descrizione": "La Gialappa's band commenta le vicende quotidiane dei naufraghi de 'L'isola dei famosi' attraverso l'utilizzo dei filmati più divertenti e le imitazioni dei concorrenti più celebri.",
@@ -4621,7 +4622,7 @@
       "inOnda": false
     },
     {
-      "titolo": "Mai dire Isola",
+      "titolo": "Mai dire Pupa",
       "inizio": "20:50",
       "fine": "21:15",
       "descrizione": "La Gialappa's band commenta le vicende quotidiane dei naufraghi de 'L'isola dei famosi' attraverso l'utilizzo dei filmati più divertenti e le imitazioni dei concorrenti più celebri.",
@@ -4717,6 +4718,7 @@
       "titolo": "Romanzo siciliano",
       "inizio": "06:00",
       "fine": "07:40",
+      "info": "S1 Ep5",
       "descrizione": "Le vicende del colonnello Sergio Spada, a capo del comando dei Carabinieri di Siracusa, che combatte quotidianamente contro mafia e malavita per fare trionfare la giustizia in una terra splendida ma desolata.",
       "immagine": "immagini/programmi-guida/romanzosiciliano.jpg",
       "inOnda": false
@@ -4725,6 +4727,7 @@
       "titolo": "Romanzo siciliano",
       "inizio": "07:40",
       "fine": "09:15",
+      "info": "S1 Ep6",
       "descrizione": "Le vicende del colonnello Sergio Spada, a capo del comando dei Carabinieri di Siracusa, che combatte quotidianamente contro mafia e malavita per fare trionfare la giustizia in una terra splendida ma desolata.",
       "immagine": "immagini/programmi-guida/romanzosiciliano.jpg",
       "inOnda": false
@@ -4733,6 +4736,7 @@
       "titolo": "Il tempo del coraggio e dell'amore",
       "inizio": "09:15",
       "fine": "10:55",
+      "info": "S1 Ep3",
       "descrizione": "La vita di una giovane sarta, le sue passioni e le sue difficoltà si intrecciano con le vicende storiche della Spagna alla vigilia del colpo di stato del 1936.",
       "immagine": "immagini/programmi-guida/iltempodelcoraggioedellamore.jpg",
       "inOnda": false
@@ -4741,6 +4745,7 @@
       "titolo": "Il tempo del coraggio e dell'amore",
       "inizio": "10:55",
       "fine": "12:35",
+      "info": "S1 Ep4",
       "descrizione": "La vita di una giovane sarta, le sue passioni e le sue difficoltà si intrecciano con le vicende storiche della Spagna alla vigilia del colpo di stato del 1936.",
       "immagine": "immagini/programmi-guida/iltempodelcoraggioedellamore.jpg",
       "inOnda": false
@@ -4757,6 +4762,7 @@
       "titolo": "Buona Domenica",
       "inizio": "13:10",
       "fine": "17:20",
+      "info": "Puntata del 9/01/1994",
       "descrizione": "Gerry Scotti e Gabriella Carlucci conducono una delle edizioni di successo di Buona Domenica. Con la partecipazione di Umberto Smaila, Trettré, Cristina D'Avena.",
       "immagine": "immagini/programmi-guida/buonadomenicascotticarlucci.jpeg",
       "inOnda": false
@@ -4765,6 +4771,7 @@
       "titolo": "Questa casa non è un albergo",
       "inizio": "17:20",
       "fine": "19:15",
+      "info": "S1 Ep5-6 Una battaglia movimentata",
       "descrizione": "Le vicende dei Donati, una famiglia di Siena composta da due genitori e quattro figli, alle prese con problemi quotidiani.",
       "immagine": "immagini/programmi-guida/questacasanoneunalbergo.jpg",
       "inOnda": false
@@ -4773,6 +4780,7 @@
       "titolo": "Aspettando Grande Fratello",
       "inizio": "19:15",
       "fine": "20:15",
+      "info": "Terza puntata",
       "descrizione": "In attesa della nuova edizione, Mediaset ripropone i momenti migliori e più divertenti del Grande Fratello.",
       "immagine": "immagini/programmi-guida/aspettandograndefratello.jpg",
       "inOnda": false
@@ -4781,6 +4789,7 @@
       "titolo": "Love Bugs",
       "inizio": "20:15",
       "fine": "21:15",
+      "info": "S1 Ep4",
       "descrizione": "Una coppia parzialmente disfunzionale ma, a suo modo, felice. L'allegria spontanea, la simpatia dei personaggi risultano del tutto irresistibili. L'assortimento tra i due interpreti è perfetto e l'alchimia tra loro funziona perfettamente.",
       "immagine": "immagini/programmi-guida/lovebugs.jpg",
       "inOnda": false
@@ -4789,6 +4798,7 @@
       "titolo": "SandraRaimondo Show",
       "inizio": "21:15",
       "fine": "23:10",
+      "info": "Puntata del 14/03/1987",
       "descrizione": "Sandra Mondaini e Raimondo Vianello protagonisti assoluti di una trasmissione di altissimo livello che ha fatto la storia di Canale 5.",
       "immagine": "immagini/programmi-guida/sandraraimondoshow.jpg",
       "inOnda": false
@@ -6164,15 +6174,369 @@
     },
     {
       "titolo": "Finché c'è Ditta c'è speranza",
-      "inizio": "15:35",
-      "fine": "15:50",
+      "inizio": "05:45",
+      "fine": "06:00",
       "info": "S2 Ep2",
+      "descrizione": "Una raccolta di sketch del quartetto comico della Premiata Ditta che unisce situazioni quotidiane e caricature estreme: mariti che cedono a mogli inflessibili, famiglie in trasferta, nonne argute e medici improbabili. Ogni episodio costruisce un mosaico di personaggi portati all'eccesso nel modo di parlare e muoversi, trasformando ruoli comuni in figure spiazzanti e irresistibilmente strampalate.",
+      "immagine": "immagini/programmi-guida/fincheceditta.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Il tredicesimo apostolo - Il prescelto",
+      "inizio": "06:00",
+      "fine": "07:00",
+      "info": "S1 Ep 3 Presagi di morte",
+      "descrizione": "Sconvolta dal modo in cui Gabriel ha salvato Agata, e non potendo darsi risposte razionali, Claudia decide di indagare sul suo passato. Demetrio invece decide di non credere al nipote attribuendo il suo potere a scherzi della mente che lo stress e l'ossessione per il suo passato gli stanno causando.",
+      "immagine": "immagini/programmi-guida/tredicesimoapostoloep2.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Il tredicesimo apostolo - Il prescelto",
+      "inizio": "07:00",
+      "fine": "08:00",
+      "info": "S1 Ep 4 Un'altra vita",
+      "descrizione": "Stefano, un ragazzino di sedici anni, in seguito a un trauma fisico inizia ad avere ricordi che sembrano appartenere ad un soldato nazista. Questi ricordi si sostituiscono ai suoi rubandogli la sua storia e la sua personalità. Gabriel e Claudia si trovano ad indagare su questo insolito fenomeno che non pare riconducibile a patologie mentali.",
+      "immagine": "immagini/programmi-guida/iltredicesimoapostoloep4.jpgg",
+      "inOnda": false
+    },
+    {
+      "titolo": "The Wall",
+      "inizio": "08:00",
+      "fine": "09:00",
+      "descrizione": "Torna il mega tabellone luminoso da cui scendono le sfere che possono cambiare la vita dei concorrenti. Conduce Max Giusti.",
+      "immagine": "immagini/programmi-guida/thewall.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Festivalbar 1983 - La finale",
+      "inizio": "09:00",
+      "fine": "12:00",
+      "descrizione": "Riviviamo le note e i personaggi degli anni 80 proposti nel popolare programma musicale del periodo.",
+      "immagine": "immagini/programmi-guida/festivalbarfinale1983.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Tira & Molla",
+      "inizio": "12:00",
+      "fine": "13:00",
+      "descrizione": "Con Paolo Bonolis, Tira e Molla è un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
+      "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Ok, il prezzo è giusto!",
+      "inizio": "13:00",
+      "fine": "14:30",
+      "descrizione": "Lo storico game show che ha appassionato intere generazioni. Tra prove di abilità, offerte e strategie, i concorrenti tentano di indovinare il prezzo esatto dei prodotti in palio per conquistare premi sempre più ricchi. Con Iva Zanicchi.",
+      "immagine": "immagini/programmi-guida/okilprezzozanicchi.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Mai dire Candid",
+      "inizio": "14:30",
+      "fine": "16:25",
+      "info": "Puntata del 11/10/2007",
+      "descrizione": "La Gialappa's Band commenta le candid camera più divertenti e le situazioni più assurde, tra scherzi, risate e momenti cult della televisione italiana.",
+      "immagine": "immagini/programmi-guida/maidirecandid.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Lo scherzo perfetto",
+      "inizio": "16:25",
+      "fine": "19:15",
+      "info": "Puntata del 6 aprile 2017",
+      "descrizione": "Con Teo Mammucari.",
+      "immagine": "immagini/programmi-guida/scherzoperfettomammucari.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Ciro, il figlio di Target",
+      "inizio": "19:15",
+      "fine": "20:15",
+      "info": "Terza puntata",
+      "descrizione": "Gaia De Laurentis, insieme a Luca e Paolo apre, negli Anni '90, 'una finestra sull'Italia che cambia'...",
+      "immagine": "immagini/programmi-guida/ciroilfiglioditarget.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Mai dire Pupa",
+      "inizio": "20:15",
+      "fine": "20:55",
+      "info": "Settima puntata",
+      "descrizione": "Con la Gialappa's Band.",
+      "immagine": "immagini/programmi-guida/gialappa.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Mai dire Banzai",
+      "inizio": "20:55",
+      "fine": "21:20",
+      "descrizione": "Con la Gialappa's Band.",
+      "immagine": "immagini/programmi-guida/mairirebanzai.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sarabanda - I più forti",
+      "inizio": "21:20",
+      "fine": "23:35",
+      "descrizione": "Puntata speciale nel quale si fronteggiarono due squadre, la squadra il cui portavoce era David Guarnieri (Allegria) e quella la cui portavoce era Antonietta Palladino (Professora). Composte entrambe dai migliori campioni fino a quel momento, ad avere la meglio fu la squadra della Professora, il cui montepremi vinto veniva poi suddiviso tra i suoi membri. Con Enrico Papi.",
+      "immagine": "immagini/programmi-guida/ipiufortiprimapuntata.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sarabanda",
+      "inizio": "23:35",
+      "fine": "00:25",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    }
+  ],
+
+  "2026-08-16":[
+    {
+      "titolo": "Sarabanda",
+      "inizio": "00:25",
+      "fine": "01:15",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "01:15",
+      "fine": "02:05",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "02:05",
+      "fine": "02:55",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "02:55",
+      "fine": "03:40",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "03:40",
+      "fine": "04:25",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Mai dire Gallery",
+      "inizio": "04:25",
+      "fine": "05:20",
+      "descrizione": "Con la Gialappa's Band",
+      "immagine": "immagini/programmi-guida/maidiregallery.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Il mammo",
+      "inizio": "05:20",
+      "fine": "05:45",
+      "info": "S3 Ep11 Portobrutto",
+      "descrizione": "La terza stagione di 'Il Mammo' riserva grandi sorprese: la famiglia Zerbi dà il benvenuto alla piccola Pepita, mentre Raffa si appresta a lasciare il nido per un'avventura entusiasmante in Spagna. Ma come farà Silvano senza la sua Raffa? Entrano nel cast Ulla, la tata ingaggiata da Silvano per aiutarlo nella gestione della casa e dei figli, dopo la partenza della figlia maggiore Raffa per studiare in Spagna, e Elisa, una giovane aspirante show-girl.",
+      "immagine": "immagini/programmi-guida/ilmammo3.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Finché c'è Ditta c'è speranza",
+      "inizio": "05:45",
+      "fine": "06:00",
+      "info": "S2 Ep3",
+      "descrizione": "Una raccolta di sketch del quartetto comico della Premiata Ditta che unisce situazioni quotidiane e caricature estreme: mariti che cedono a mogli inflessibili, famiglie in trasferta, nonne argute e medici improbabili. Ogni episodio costruisce un mosaico di personaggi portati all'eccesso nel modo di parlare e muoversi, trasformando ruoli comuni in figure spiazzanti e irresistibilmente strampalate.",
+      "immagine": "immagini/programmi-guida/fincheceditta.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Romanzo siciliano",
+      "inizio": "06:00",
+      "fine": "07:40",
+      "info": "S1 Ep7",
+      "descrizione": "Le vicende del colonnello Sergio Spada, a capo del comando dei Carabinieri di Siracusa, che combatte quotidianamente contro mafia e malavita per fare trionfare la giustizia in una terra splendida ma desolata.",
+      "immagine": "immagini/programmi-guida/romanzosiciliano.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Romanzo siciliano",
+      "inizio": "07:40",
+      "fine": "09:15",
+      "info": "S1 Ep8",
+      "descrizione": "Le vicende del colonnello Sergio Spada, a capo del comando dei Carabinieri di Siracusa, che combatte quotidianamente contro mafia e malavita per fare trionfare la giustizia in una terra splendida ma desolata.",
+      "immagine": "immagini/programmi-guida/romanzosiciliano.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Il tempo del coraggio e dell'amore",
+      "inizio": "09:15",
+      "fine": "10:55",
+      "info": "S1 Ep5",
+      "descrizione": "La vita di una giovane sarta, le sue passioni e le sue difficoltà si intrecciano con le vicende storiche della Spagna alla vigilia del colpo di stato del 1936.",
+      "immagine": "immagini/programmi-guida/iltempodelcoraggioedellamore.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Il tempo del coraggio e dell'amore",
+      "inizio": "10:55",
+      "fine": "12:35",
+      "info": "S1 Ep6",
+      "descrizione": "La vita di una giovane sarta, le sue passioni e le sue difficoltà si intrecciano con le vicende storiche della Spagna alla vigilia del colpo di stato del 1936.",
+      "immagine": "immagini/programmi-guida/iltempodelcoraggioedellamore.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Mai dire TV",
+      "inizio": "12:35",
+      "fine": "13:10",
+      "descrizione": "Trasmissione satirica ideata dalla Gialappa's Band con la collaborazione di Davide Parenti.",
+      "immagine": "immagini/programmi-guida/maidiretv.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Buona Domenica",
+      "inizio": "13:10",
+      "fine": "16:30",
+      "info": "Puntata del 16/10/1994",
+      "descrizione": "Gerry Scotti e Gabriella Carlucci conducono una delle edizioni di successo di Buona Domenica. Con la partecipazione di Umberto Smaila, Trettré, Cristina D'Avena.",
+      "immagine": "immagini/programmi-guida/buonadomenicascotticarlucci.jpeg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Questa casa non è un albergo",
+      "inizio": "16:30",
+      "fine": "18:30",
+      "info": "S1 Ep7-8 Un medico non può sbagliare",
+      "descrizione": "Le vicende dei Donati, una famiglia di Siena composta da due genitori e quattro figli, alle prese con problemi quotidiani.",
+      "immagine": "immagini/programmi-guida/questacasanoneunalbergo.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Aspettando Grande Fratello",
+      "inizio": "18:30",
+      "fine": "19:45",
+      "info": "Quarta puntata",
+      "descrizione": "In attesa della nuova edizione, Mediaset ripropone i momenti migliori e più divertenti del Grande Fratello.",
+      "immagine": "immagini/programmi-guida/aspettandograndefratello.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Love Bugs",
+      "inizio": "19:45",
+      "fine": "21:00",
+      "info": "S1 Ep5",
+      "descrizione": "Una coppia parzialmente disfunzionale ma, a suo modo, felice. L'allegria spontanea, la simpatia dei personaggi risultano del tutto irresistibili. L'assortimento tra i due interpreti è perfetto e l'alchimia tra loro funziona perfettamente.",
+      "immagine": "immagini/programmi-guida/lovebugs.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Love Bugs",
+      "inizio": "21:00",
+      "fine": "21:25",
+      "info": "S1 Ep6",
+      "descrizione": "Una coppia parzialmente disfunzionale ma, a suo modo, felice. L'allegria spontanea, la simpatia dei personaggi risultano del tutto irresistibili. L'assortimento tra i due interpreti è perfetto e l'alchimia tra loro funziona perfettamente.",
+      "immagine": "immagini/programmi-guida/lovebugs.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "SandraRaimondo Show",
+      "inizio": "21:25",
+      "fine": "23:20",
+      "info": "Puntata del 21/03/1987",
+      "descrizione": "Sandra Mondaini e Raimondo Vianello protagonisti assoluti di una trasmissione di altissimo livello che ha fatto la storia di Canale 5.",
+      "immagine": "immagini/programmi-guida/sandraraimondoshow.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Sarabanda",
+      "inizio": "23:20",
+      "fine": "00:10",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    }
+  ],
+
+  "2026-08-17":[
+     {
+      "titolo": "Sarabanda",
+      "inizio": "00:10",
+      "fine": "01:00",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "01:00",
+      "fine": "01:55",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "01:55",
+      "fine": "02:45",
+      "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
+      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "02:45",
+      "fine": "03:30",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Zig Zag",
+      "inizio": "03:30",
+      "fine": "04:15",
+      "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
+      "immagine": "immagini/programmi-guida/zigzag.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Mai dire Gallery",
+      "inizio": "04:15",
+      "fine": "05:25",
+      "descrizione": "Con la Gialappa's Band",
+      "immagine": "immagini/programmi-guida/maidiregallery.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Il mammo",
+      "inizio": "05:25",
+      "fine": "05:45",
+      "info": "S3 Ep12 La lettura del gas",
+      "descrizione": "La terza stagione di 'Il Mammo' riserva grandi sorprese: la famiglia Zerbi dà il benvenuto alla piccola Pepita, mentre Raffa si appresta a lasciare il nido per un'avventura entusiasmante in Spagna. Ma come farà Silvano senza la sua Raffa? Entrano nel cast Ulla, la tata ingaggiata da Silvano per aiutarlo nella gestione della casa e dei figli, dopo la partenza della figlia maggiore Raffa per studiare in Spagna, e Elisa, una giovane aspirante show-girl.",
+      "immagine": "immagini/programmi-guida/ilmammo3.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Finché c'è Ditta c'è speranza",
+      "inizio": "05:45",
+      "fine": "06:00",
+      "info": "S2 Ep4",
       "descrizione": "Una raccolta di sketch del quartetto comico della Premiata Ditta che unisce situazioni quotidiane e caricature estreme: mariti che cedono a mogli inflessibili, famiglie in trasferta, nonne argute e medici improbabili. Ogni episodio costruisce un mosaico di personaggi portati all'eccesso nel modo di parlare e muoversi, trasformando ruoli comuni in figure spiazzanti e irresistibilmente strampalate.",
       "immagine": "immagini/programmi-guida/fincheceditta.jpeg",
       "inOnda": false
     }
   ],
-
+  
   "2026-09-11": [
     {
       "titolo": "Striscia la notizia - Dedicato a Luca Giurato",
