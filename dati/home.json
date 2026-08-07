@@ -71,6 +71,14 @@
         "immagine": "immagini/home/lanottevola.jpg"
     },
 
+    "2026-08-12": {
+        "titolo": "Grande Fratello 8",
+        "descrizione": "Alessia Marcuzzi conduce l'ottava edizione del reality più famoso della televisione italiana. Un gruppo di concorrenti vive insieme nella Casa affrontando nomination, sfide e imprevisti in una convivenza seguita 24 ore su 24, con un solo obiettivo: conquistare la vittoria finale.",
+        "inizio": "21:20",
+        "fine": "00:35",
+        "immagine": "immagini/home/gf2008.jpg"
+    },
+
     "2026-08-13":{
         "titolo": "Scherzi a parte",
         "descrizione": "Condotto da Claudio Amendola, Teo Mammucari e Belen Rodríguez. Lo storico show di Canale 5 che prende di mira i personaggi famosi con scherzi irresistibili.",
@@ -101,5 +109,44 @@
         "inizio": "21:25",
         "fine": "23:20",
         "immagine": "immagini/home/sandraraimondoshow.jpg"
+    },
+    "2026-08-17":{
+        "titolo": "La sai l'ultima?",
+        "descrizione": "Una sfida all'insegna della comicità tra i migliori barzellettieri d'Italia, chiamati a divertire il pubblico con battute irresistibili e a conquistare la vittoria a suon di applausi. Con Pippo Franco e Pamela Prati.",
+        "inizio": "21:30",
+        "fine": "23:40",
+        "immagine": "immagini/home/lasailultima1992.jpg"
+    },
+
+    "2026-08-18": {
+        "titolo": "La notte vola",
+        "descrizione": "Lorella Cuccarini presenta un incredibile viaggio all'interno della musica e dello spettacolo dei mitici anni '80",
+        "inizio": "21:20",
+        "fine": "23:40",
+        "immagine": "immagini/home/lanottevola.jpg"
+    },
+
+    "2026-08-19": {
+        "titolo": "Grande Fratello 9",
+        "descrizione": "La nona edizione del Grande Fratello, condotta da Alessia Marcuzzi con Alfonso Signorini, vede 23 concorrenti vivere nella Casa più spiata d’Italia tra emozioni, relazioni, nomination e colpi di scena.",
+        "inizio": "21:30",
+        "fine": "00:10",
+        "immagine": "immagini/home/gf2009.jpg"
+    },
+
+    "2026-08-20":{
+        "titolo": "Scherzi a parte",
+        "descrizione": "Condotto da Claudio Amendola, Teo Mammucari e Belen Rodríguez. Lo storico show di Canale 5 che prende di mira i personaggi famosi con scherzi irresistibili.",
+        "inizio": "21:35",
+        "fine": "00:00",
+        "immagine": "immagini/home/scherziaparte2009.jpg"
+    },
+
+    "2026-08-21":{
+        "titolo": "Macchemù",
+        "descrizione": "Paola Barale conduce uno show musicale dedicato alle grandi hit italiane e internazionali, tra videoclip, ospiti, spettacolo e momenti di comicità. Un viaggio nella musica degli anni '60, '70, '80 e '90 con tante sorprese e protagonisti del mondo dello spettacolo.",
+        "inizio": "21:25",
+        "fine": "23:20",
+        "immagine": "immagini/home/macchemu.jpg"
     }
 }
