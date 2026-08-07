@@ -61,5 +61,45 @@
         "inizio": "21:20",
         "fine": "23:15",
         "immagine": "immagini/home/lasailultima1992.jpg"
+    },
+
+    "2026-08-11": {
+        "titolo": "La notte vola",
+        "descrizione": "Lorella Cuccarini presenta un incredibile viaggio all'interno della musica e dello spettacolo dei mitici anni '80",
+        "inizio": "21:20",
+        "fine": "23:40",
+        "immagine": "immagini/home/lanottevola.jpg"
+    },
+
+    "2026-08-13":{
+        "titolo": "Scherzi a parte",
+        "descrizione": "Condotto da Claudio Amendola, Teo Mammucari e Belen Rodríguez. Lo storico show di Canale 5 che prende di mira i personaggi famosi con scherzi irresistibili.",
+        "inizio": "21:40",
+        "fine": "00:10",
+        "immagine": "immagini/home/scherziaparte2009.jpg"
+    },
+
+    "2026-08-14":{
+        "titolo": "Macchemù",
+        "descrizione": "Paola Barale e Alessia Marcuzzi conducono uno show musicale dedicato alle grandi hit italiane e internazionali, tra videoclip, ospiti, spettacolo e momenti di comicità. Un viaggio nella musica degli anni '60, '70, '80 e '90 con tante sorprese e protagonisti del mondo dello spettacolo.",
+        "inizio": "21:20",
+        "fine": "23:45",
+        "immagine": "immagini/home/macchemu.jpg"
+    },
+
+    "2026-08-15":{
+        "titolo": "Sarabanda - I più forti",
+        "descrizione": "Puntata speciale nel quale si fronteggiarono due squadre, la squadra il cui portavoce era David Guarnieri (Allegria) e quella la cui portavoce era Antonietta Palladino (Professora). Composte entrambe dai migliori campioni fino a quel momento, ad avere la meglio fu la squadra della Professora, il cui montepremi vinto veniva poi suddiviso tra i suoi membri. Con Enrico Papi.",
+        "inizio": "21:20",
+        "fine": "23:35",
+        "immagine": "immagini/home/ipiufortiprimapuntata.jpeg"
+    },
+
+    "2026-08-16":{
+        "titolo": "SandraRaimondo Show",
+        "descrizione": "Sandra Mondaini e Raimondo Vianello protagonisti assoluti di una trasmissione di altissimo livello che ha fatto la storia di Canale 5.",
+        "inizio": "21:25",
+        "fine": "23:20",
+        "immagine": "immagini/home/sandraraimondoshow.jpg"
     }
 }
