@@ -4553,6 +4553,7 @@
       "titolo": "The Wall",
       "inizio": "08:00",
       "fine": "08:50",
+      "info": "Puntata del 28/07/2026",
       "descrizione": "Torna il mega tabellone luminoso da cui scendono le sfere che possono cambiare la vita dei concorrenti. Conduce Max Giusti.",
       "immagine": "immagini/programmi-guida/thewall.jpg",
       "inOnda": false
@@ -4577,6 +4578,7 @@
       "titolo": "Tira & Molla",
       "inizio": "12:15",
       "fine": "13:10",
+      "info": "Puntata del 24/10/96",
       "descrizione": "Con Paolo Bonolis, Tira e Molla e' un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
       "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
       "inOnda": false
@@ -4593,6 +4595,7 @@
       "titolo": "Mai dire Candid",
       "inizio": "15:00",
       "fine": "17:00",
+      "info": "Puntata del 4/10/2007",
       "descrizione": "La Gialappa's Band commenta le candid camera più divertenti e le situazioni più assurde, tra scherzi, risate e momenti cult della televisione italiana.",
       "immagine": "immagini/programmi-guida/maidirecandid.jpeg",
       "inOnda": false
@@ -4601,6 +4604,7 @@
       "titolo": "Lo scherzo perfetto",
       "inizio": "17:00",
       "fine": "19:30",
+      "info": "Puntata del 30/03/2017",
       "descrizione": "Con Teo Mammucari.",
       "immagine": "immagini/programmi-guida/scherzoperfettomammucari.jpeg",
       "inOnda": false
@@ -4609,6 +4613,7 @@
       "titolo": "Ciro, il figlio di Target",
       "inizio": "19:30",
       "fine": "20:20",
+      "info": "Terza puntata",
       "descrizione": "Gaia De Laurentis, insieme a Luca e Paolo apre, negli Anni '90, 'una finestra sull'Italia che cambia'...",
       "immagine": "immagini/programmi-guida/ciroilfiglioditarget.jpeg",
       "inOnda": false
@@ -4617,22 +4622,25 @@
       "titolo": "Mai dire Pupa",
       "inizio": "20:20",
       "fine": "20:50",
+      "info": "Settima puntata",
       "descrizione": "La Gialappa's band commenta le vicende quotidiane dei naufraghi de 'L'isola dei famosi' attraverso l'utilizzo dei filmati più divertenti e le imitazioni dei concorrenti più celebri.",
       "immagine": "immagini/programmi-guida/maidireisola.jpg",
       "inOnda": false
     },
     {
-      "titolo": "Mai dire Pupa",
+      "titolo": "Mai dire Banzai",
       "inizio": "20:50",
       "fine": "21:15",
-      "descrizione": "La Gialappa's band commenta le vicende quotidiane dei naufraghi de 'L'isola dei famosi' attraverso l'utilizzo dei filmati più divertenti e le imitazioni dei concorrenti più celebri.",
-      "immagine": "immagini/programmi-guida/maidireisola.jpg",
+      "info": "Puntata del 08/07/89",
+      "descrizione": "Con la Gialappa's Band.",
+      "immagine": "immagini/programmi-guida/mairirebanzai.jpg",
       "inOnda": false
     },
     {
       "titolo": "Sarabanda, il gioco della musica - Il match",
       "inizio": "21:15",
       "fine": "23:35",
+      "info": "Puntata del 14/02/2001",
       "descrizione": "Con Enrico Papi",
       "immagine": "immagini/programmi-guida/sarabandamatchfeb2001.jpg",
       "inOnda": false
@@ -4660,6 +4668,7 @@
       "titolo": "Avanti un altro!",
       "inizio": "01:15",
       "fine": "02:05",
+      "info": "Puntata del 19/10/2011",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
@@ -4668,6 +4677,7 @@
       "titolo": "Avanti un altro!",
       "inizio": "02:05",
       "fine": "02:55",
+      "info": "Puntata del 20/10/2011",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
@@ -4676,6 +4686,7 @@
       "titolo": "Zig Zag",
       "inizio": "02:55",
       "fine": "03:40",
+      "info": "Puntata del 30/11/84",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -4684,6 +4695,7 @@
       "titolo": "Zig Zag",
       "inizio": "03:40",
       "fine": "04:25",
+      "info": "Puntata del 01/12/84",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -4692,6 +4704,7 @@
       "titolo": "Mai dire Gallery",
       "inizio": "04:25",
       "fine": "05:20",
+      "info": "Puntata 24",
       "descrizione": "Con la Gialappa's Band",
       "immagine": "immagini/programmi-guida/maidiregallery.jpg",
       "inOnda": false
@@ -4754,6 +4767,7 @@
       "titolo": "Mai dire TV",
       "inizio": "12:35",
       "fine": "13:10",
+      "info": "Terza puntata",
       "descrizione": "Trasmissione satirica ideata dalla Gialappa's Band con la collaborazione di Davide Parenti.",
       "immagine": "immagini/programmi-guida/maidiretv.jpg",
       "inOnda": false
@@ -4826,6 +4840,7 @@
       "titolo": "Avanti un altro!",
       "inizio": "00:50",
       "fine": "01:40",
+      "info": "Puntata del 21/10/2011",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
@@ -4834,6 +4849,7 @@
       "titolo": "Avanti un altro!",
       "inizio": "01:40",
       "fine": "02:30",
+      "info": "Puntata del 22/10/2011",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
@@ -4842,6 +4858,7 @@
       "titolo": "Zig Zag",
       "inizio": "02:30",
       "fine": "03:15",
+      "info": "Puntata del 03/12/84",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -4850,6 +4867,7 @@
       "titolo": "Zig Zag",
       "inizio": "03:15",
       "fine": "04:00",
+      "info": "Puntata del 04/12/84",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -4858,6 +4876,7 @@
       "titolo": "Mai dire Gallery",
       "inizio": "04:00",
       "fine": "04:55",
+      "info": "Puntata 25",
       "descrizione": "Con la Gialappa's Band",
       "immagine": "immagini/programmi-guida/maidiregallery.jpg",
       "inOnda": false
@@ -4947,6 +4966,7 @@
       "titolo": "The Wall",
       "inizio": "08:30",
       "fine": "09:25",
+      "info": "Puntata del 29/07/2026",
       "descrizione": "Torna il mega tabellone luminoso da cui scendono le sfere che possono cambiare la vita dei concorrenti. Conduce Max Giusti.",
       "immagine": "immagini/programmi-guida/thewall.jpg",
       "inOnda": false
@@ -5044,6 +5064,7 @@
       "titolo": "Tira & Molla",
       "inizio": "15:50",
       "fine": "16:50",
+      "info": "Puntata del 25/10/96",
       "descrizione": "Con Paolo Bonolis, Tira e Molla e' un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
       "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
       "inOnda": false
@@ -5069,6 +5090,7 @@
       "titolo": "La sai l'ultima?",
       "inizio": "21:20",
       "fine": "23:15",
+      "info": "Puntata del 25/07/92",
       "descrizione": "Una sfida all'insegna della comicità tra i migliori barzellettieri d'Italia, chiamati a divertire il pubblico con battute irresistibili e a conquistare la vittoria a suon di applausi. Con Pippo Franco e Pamela Prati.",
       "immagine": "immagini/programmi-guida/lasailultima1992.jpg",
       "inOnda": false
@@ -5097,6 +5119,7 @@
       "titolo": "Avanti un altro!",
       "inizio": "00:55",
       "fine": "01:45",
+      "info": "Puntata del 23/10/2011",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
@@ -5105,6 +5128,7 @@
       "titolo": "Avanti un altro!",
       "inizio": "01:45",
       "fine": "02:35",
+      "info": "Puntata del 24/10/2011",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
@@ -5113,6 +5137,7 @@
       "titolo": "Zig Zag",
       "inizio": "02:35",
       "fine": "03:20",
+      "info": "Puntata del 08/12/84",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -5121,6 +5146,7 @@
       "titolo": "Zig Zag",
       "inizio": "03:20",
       "fine": "04:05",
+      "info": "Puntata del 10/12/84",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -5129,6 +5155,7 @@
       "titolo": "Mai dire Gallery",
       "inizio": "04:05",
       "fine": "05:00",
+      "info": "Puntata 26",
       "descrizione": "Con la Gialappa's Band",
       "immagine": "immagini/programmi-guida/maidiregallery.jpg",
       "inOnda": false
@@ -5218,6 +5245,7 @@
       "titolo": "The Wall",
       "inizio": "08:30",
       "fine": "09:25",
+      "info": "Puntata del 30/07/2026",
       "descrizione": "Torna il mega tabellone luminoso da cui scendono le sfere che possono cambiare la vita dei concorrenti. Conduce Max Giusti.",
       "immagine": "immagini/programmi-guida/thewall.jpg",
       "inOnda": false
@@ -5315,6 +5343,7 @@
       "titolo": "Tira & Molla",
       "inizio": "15:50",
       "fine": "16:50",
+      "info": "Puntata del 26/10/96",
       "descrizione": "Con Paolo Bonolis, Tira e Molla e' un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
       "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
       "inOnda": false
@@ -5340,6 +5369,7 @@
       "titolo": "La notte vola",
       "inizio": "21:20",
       "fine": "23:40",
+      "info": "Puntata del 21/07/2001",
       "descrizione": "Lorella Cuccarini presenta un incredibile viaggio all'interno della musica e dello spettacolo dei mitici anni '80",
       "immagine": "immagini/programmi-guida/lanottevola.jpg",
       "inOnda": false
@@ -5368,6 +5398,7 @@
       "titolo": "Avanti un altro!",
       "inizio": "01:20",
       "fine": "02:10",
+      "info": "Puntata del 25/10/2011",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
@@ -5376,6 +5407,7 @@
       "titolo": "Avanti un altro!",
       "inizio": "02:10",
       "fine": "03:00",
+      "info": "Puntata del 26/10/2011",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
@@ -5384,6 +5416,7 @@
       "titolo": "Zig Zag",
       "inizio": "03:00",
       "fine": "03:45",
+      "info": "Puntata del 11/12/84",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -5392,6 +5425,7 @@
       "titolo": "Zig Zag",
       "inizio": "03:45",
       "fine": "04:30",
+      "info": "Puntata del 12/12/84",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -5400,6 +5434,7 @@
       "titolo": "Mai dire Gallery",
       "inizio": "04:30",
       "fine": "05:25",
+      "info": "Puntata 27",
       "descrizione": "Con la Gialappa's Band",
       "immagine": "immagini/programmi-guida/maidiregallery.jpg",
       "inOnda": false
@@ -5480,6 +5515,7 @@
       "titolo": "The Wall",
       "inizio": "08:30",
       "fine": "09:25",
+      "info": "Puntata del 31/07/2026",
       "descrizione": "Torna il mega tabellone luminoso da cui scendono le sfere che possono cambiare la vita dei concorrenti. Conduce Max Giusti.",
       "immagine": "immagini/programmi-guida/thewall.jpg",
       "inOnda": false
@@ -5577,6 +5613,7 @@
       "titolo": "Tira & Molla",
       "inizio": "15:50",
       "fine": "16:50",
+      "info": "Puntata del 28/10/96",
       "descrizione": "Con Paolo Bonolis, Tira e Molla e' un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
       "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
       "inOnda": false
@@ -5602,6 +5639,7 @@
       "titolo": "Grande Fratello 8",
       "inizio": "21:20",
       "fine": "00:35",
+      "info": "Puntata del 21/04/2009",
       "descrizione": "Alessia Marcuzzi conduce l'ottava edizione del reality più famoso della televisione italiana. Un gruppo di concorrenti vive insieme nella Casa affrontando nomination, sfide e imprevisti in una convivenza seguita 24 ore su 24, con un solo obiettivo: conquistare la vittoria finale.",
       "immagine": "immagini/programmi-guida/gf2008.jpg",
       "inOnda": false
@@ -5622,6 +5660,7 @@
       "titolo": "Avanti un altro!",
       "inizio": "01:25",
       "fine": "02:15",
+      "info": "Puntata del 27/10/2011",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
@@ -5630,6 +5669,7 @@
       "titolo": "Avanti un altro!",
       "inizio": "02:15",
       "fine": "03:05",
+      "info": "Puntata del 28/10/2011",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
@@ -5638,6 +5678,7 @@
       "titolo": "Zig Zag",
       "inizio": "03:05",
       "fine": "03:55",
+      "info": "Puntata del 13/12/84",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -5646,6 +5687,7 @@
       "titolo": "Zig Zag",
       "inizio": "03:55",
       "fine": "04:40",
+      "info": "Puntata del 14/12/84",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -5725,6 +5767,7 @@
       "titolo": "The Wall",
       "inizio": "08:30",
       "fine": "09:25",
+      "info": "Puntata del 01/08/2026",
       "descrizione": "Torna il mega tabellone luminoso da cui scendono le sfere che possono cambiare la vita dei concorrenti. Conduce Max Giusti.",
       "immagine": "immagini/programmi-guida/thewall.jpg",
       "inOnda": false
@@ -5822,6 +5865,7 @@
       "titolo": "Tira & Molla",
       "inizio": "15:50",
       "fine": "16:50",
+      "info": "Puntata del 29/10/96",
       "descrizione": "Con Paolo Bonolis, Tira e Molla e' un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
       "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
       "inOnda": false
@@ -5847,6 +5891,7 @@
       "titolo": "Scherzi a parte",
       "inizio": "21:40",
       "fine": "00:10",
+      "info": "Puntata del 26/02/2009",
       "descrizione": "Condotto da Claudio Amendola, Teo Mammucari e Belen Rodríguez. Lo storico show di Canale 5 che prende di mira i personaggi famosi con scherzi irresistibili.",
       "immagine": "immagini/programmi-guida/scherziaparte2009.jpg",
       "inOnda": false
@@ -5866,6 +5911,7 @@
       "titolo": "Avanti un altro!",
       "inizio": "01:00",
       "fine": "01:55",
+      "info": "Puntata del 29/10/2011",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
@@ -5874,6 +5920,7 @@
       "titolo": "Avanti un altro!",
       "inizio": "01:55",
       "fine": "02:45",
+      "info": "Puntata del 30/10/2011",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
@@ -5882,6 +5929,7 @@
       "titolo": "Zig Zag",
       "inizio": "02:45",
       "fine": "03:30",
+      "info": "Puntata del 15/12/84",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -5890,6 +5938,7 @@
       "titolo": "Zig Zag",
       "inizio": "03:30",
       "fine": "04:15",
+      "info": "Puntata del 17/12/84",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -5975,11 +6024,12 @@
       "inOnda": false
     },
     {
-      "titolo": "The Wall",
+      "titolo": "Sarabanda - Il torneo dei campioni",
       "inizio": "08:30",
       "fine": "09:25",
-      "descrizione": "Torna il mega tabellone luminoso da cui scendono le sfere che possono cambiare la vita dei concorrenti. Conduce Max Giusti.",
-      "immagine": "immagini/programmi-guida/thewall.jpg",
+      "info": "Puntata del 02/08/2026",
+      "descrizione": "Enrico Papi conduce il quiz musicale in cui si sfidano in ogni puntata 8 concorrenti: 4 campioni storici e 4 nuovi aspiranti campioni.",
+      "immagine": "immagini/programmi-guida/sarabandatorneocampioni.jpg",
       "inOnda": false
     },
     {
@@ -6075,6 +6125,7 @@
       "titolo": "Tira & Molla",
       "inizio": "15:50",
       "fine": "16:50",
+      "info": "Puntata del 30/10/96",
       "descrizione": "Con Paolo Bonolis, Tira e Molla e' un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
       "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
       "inOnda": false
@@ -6100,6 +6151,7 @@
       "titolo": "Macchemù",
       "inizio": "21:20",
       "fine": "23:45",
+      "info": "Puntata del 13/06/2000",
       "descrizione": "Paola Barale e Alessia Marcuzzi conducono uno show musicale dedicato alle grandi hit italiane e internazionali, tra videoclip, ospiti, spettacolo e momenti di comicità. Un viaggio nella musica degli anni '60, '70, '80 e '90 con tante sorprese e protagonisti del mondo dello spettacolo.",
       "immagine": "immagini/programmi-guida/macchemu.jpg",
       "inOnda": false
@@ -6127,6 +6179,7 @@
       "titolo": "Avanti un altro!",
       "inizio": "01:25",
       "fine": "02:15",
+      "info": "Puntata del 31/10/2011",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
@@ -6135,6 +6188,7 @@
       "titolo": "Avanti un altro!",
       "inizio": "02:15",
       "fine": "03:05",
+      "info": "Puntata del 01/11/2011",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
@@ -6143,6 +6197,7 @@
       "titolo": "Zig Zag",
       "inizio": "03:05",
       "fine": "03:50",
+      "info": "Puntata del 18/12/84",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -6151,6 +6206,7 @@
       "titolo": "Zig Zag",
       "inizio": "03:50",
       "fine": "04:35",
+      "info": "Puntata del 19/12/84",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -6196,13 +6252,14 @@
       "fine": "08:00",
       "info": "S1 Ep 4 Un'altra vita",
       "descrizione": "Stefano, un ragazzino di sedici anni, in seguito a un trauma fisico inizia ad avere ricordi che sembrano appartenere ad un soldato nazista. Questi ricordi si sostituiscono ai suoi rubandogli la sua storia e la sua personalità. Gabriel e Claudia si trovano ad indagare su questo insolito fenomeno che non pare riconducibile a patologie mentali.",
-      "immagine": "immagini/programmi-guida/tredicesimoapostoloep4",
+      "immagine": "immagini/programmi-guida/tredicesimoapostoloep4.jpg",
       "inOnda": false
     },
     {
       "titolo": "The Wall",
       "inizio": "08:00",
       "fine": "09:00",
+      "info": "Puntata del 03/08/2026",
       "descrizione": "Torna il mega tabellone luminoso da cui scendono le sfere che possono cambiare la vita dei concorrenti. Conduce Max Giusti.",
       "immagine": "immagini/programmi-guida/thewall.jpg",
       "inOnda": false
@@ -6219,6 +6276,7 @@
       "titolo": "Tira & Molla",
       "inizio": "12:00",
       "fine": "13:00",
+      "info": "Puntata del 31/10/96",
       "descrizione": "Con Paolo Bonolis, Tira e Molla è un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
       "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
       "inOnda": false
@@ -6279,6 +6337,7 @@
       "titolo": "Sarabanda - I più forti",
       "inizio": "21:20",
       "fine": "23:35",
+      "info": "Puntata del 15/05/2001",
       "descrizione": "Puntata speciale nel quale si fronteggiarono due squadre, la squadra il cui portavoce era David Guarnieri (Allegria) e quella la cui portavoce era Antonietta Palladino (Professora). Composte entrambe dai migliori campioni fino a quel momento, ad avere la meglio fu la squadra della Professora, il cui montepremi vinto veniva poi suddiviso tra i suoi membri. Con Enrico Papi.",
       "immagine": "immagini/programmi-guida/ipiufortiprimapuntata.jpeg",
       "inOnda": false
@@ -6306,6 +6365,7 @@
       "titolo": "Avanti un altro!",
       "inizio": "01:15",
       "fine": "02:05",
+      "info": "Puntata del 02/11/2011",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
@@ -6314,6 +6374,7 @@
       "titolo": "Avanti un altro!",
       "inizio": "02:05",
       "fine": "02:55",
+      "info": "Puntata del 03/11/2011",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
@@ -6322,6 +6383,7 @@
       "titolo": "Zig Zag",
       "inizio": "02:55",
       "fine": "03:40",
+      "info": "Puntata del 20/12/84",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -6330,6 +6392,7 @@
       "titolo": "Zig Zag",
       "inizio": "03:40",
       "fine": "04:25",
+      "info": "Puntata del 21/12/84",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -6400,6 +6463,7 @@
       "titolo": "Mai dire TV",
       "inizio": "12:35",
       "fine": "13:10",
+      "info": "Quarta puntata",
       "descrizione": "Trasmissione satirica ideata dalla Gialappa's Band con la collaborazione di Davide Parenti.",
       "immagine": "immagini/programmi-guida/maidiretv.jpg",
       "inOnda": false
@@ -6481,6 +6545,7 @@
       "titolo": "Avanti un altro!",
       "inizio": "01:00",
       "fine": "01:55",
+      "info": "Puntata del 04/11/2011",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
@@ -6489,6 +6554,7 @@
       "titolo": "Avanti un altro!",
       "inizio": "01:55",
       "fine": "02:45",
+      "info": "Puntata del 05/11/2011",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
@@ -6497,6 +6563,7 @@
       "titolo": "Zig Zag",
       "inizio": "02:45",
       "fine": "03:30",
+      "info": "Puntata del 22/12/84",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -6505,6 +6572,7 @@
       "titolo": "Zig Zag",
       "inizio": "03:30",
       "fine": "04:15",
+      "info": "Puntata del 24/12/84",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -6513,6 +6581,7 @@
       "titolo": "Mai dire Gallery",
       "inizio": "04:15",
       "fine": "05:25",
+      "info": "Puntata 28",
       "descrizione": "Con la Gialappa's Band",
       "immagine": "immagini/programmi-guida/maidiregallery.jpg",
       "inOnda": false
@@ -6593,6 +6662,7 @@
       "titolo": "The Wall",
       "inizio": "08:30",
       "fine": "09:25",
+      "info": "Puntata del 04/08/2026",
       "descrizione": "Torna il mega tabellone luminoso da cui scendono le sfere che possono cambiare la vita dei concorrenti. Conduce Max Giusti.",
       "immagine": "immagini/programmi-guida/thewall.jpg",
       "inOnda": false
@@ -6681,6 +6751,7 @@
       "titolo": "Tira & Molla",
       "inizio": "15:35",
       "fine": "16:35",
+      "info": "Puntata del 01/11/96",
       "descrizione": "Con Paolo Bonolis, Tira e Molla e' un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
       "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
       "inOnda": false
@@ -6707,7 +6778,7 @@
       "titolo": "La sai l'ultima?",
       "inizio": "21:30",
       "fine": "23:40",
-      "info": "Puntata del 1 agosto 1992",
+      "info": "Puntata del 1/08/92",
       "descrizione": "Una sfida all'insegna della comicità tra i migliori barzellettieri d'Italia, chiamati a divertire il pubblico con battute irresistibili e a conquistare la vittoria a suon di applausi. Con Pippo Franco e Pamela Prati.",
       "immagine": "immagini/programmi-guida/macchemu.jpg",
       "inOnda": false
@@ -6735,6 +6806,7 @@
       "titolo": "Avanti un altro!",
       "inizio": "01:20",
       "fine": "02:10",
+      "info": "Puntata del 06/11/2011",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
@@ -6743,6 +6815,7 @@
       "titolo": "Avanti un altro!",
       "inizio": "02:10",
       "fine": "03:00",
+      "info": "Puntata del 07/11/2011",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
@@ -6751,6 +6824,7 @@
       "titolo": "Zig Zag",
       "inizio": "03:00",
       "fine": "03:45",
+      "info": "Puntata del 25/12/84",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -6759,6 +6833,7 @@
       "titolo": "Zig Zag",
       "inizio": "03:45",
       "fine": "04:30",
+      "info": "Puntata del 26/12/84",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -6875,6 +6950,7 @@
       "titolo": "The Wall",
       "inizio": "08:30",
       "fine": "09:25",
+      "info": "Puntata del 05/08/2026",
       "descrizione": "Torna il mega tabellone luminoso da cui scendono le sfere che possono cambiare la vita dei concorrenti. Conduce Max Giusti.",
       "immagine": "immagini/programmi-guida/thewall.jpg",
       "inOnda": false
@@ -6963,6 +7039,7 @@
       "titolo": "Tira & Molla",
       "inizio": "15:35",
       "fine": "16:35",
+      "info": "Puntata del 02/11/96",
       "descrizione": "Con Paolo Bonolis, Tira e Molla e' un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
       "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
       "inOnda": false
@@ -7017,6 +7094,7 @@
       "titolo": "Avanti un altro!",
       "inizio": "01:20",
       "fine": "02:10",
+      "info": "Puntata del 08/11/2011",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
@@ -7025,6 +7103,7 @@
       "titolo": "Avanti un altro!",
       "inizio": "02:10",
       "fine": "03:00",
+      "info": "Puntata del 09/11/2011",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
@@ -7033,6 +7112,7 @@
       "titolo": "Zig Zag",
       "inizio": "03:00",
       "fine": "03:45",
+      "info": "Puntata del 27/12/84",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -7041,6 +7121,7 @@
       "titolo": "Zig Zag",
       "inizio": "03:45",
       "fine": "04:30",
+      "info": "Puntata del 28/12/84",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -7157,6 +7238,7 @@
       "titolo": "The Wall",
       "inizio": "08:30",
       "fine": "09:25",
+      "info": "Puntata del 06/08/2026",
       "descrizione": "Torna il mega tabellone luminoso da cui scendono le sfere che possono cambiare la vita dei concorrenti. Conduce Max Giusti.",
       "immagine": "immagini/programmi-guida/thewall.jpg",
       "inOnda": false
@@ -7245,6 +7327,7 @@
       "titolo": "Tira & Molla",
       "inizio": "15:35",
       "fine": "16:35",
+      "info": "Puntata del 04/11/96",
       "descrizione": "Con Paolo Bonolis, Tira e Molla e' un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
       "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
       "inOnda": false
@@ -7291,6 +7374,7 @@
       "titolo": "Avanti un altro!",
       "inizio": "01:00",
       "fine": "01:50",
+      "info": "Puntata del 10/11/2011",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
@@ -7299,6 +7383,7 @@
       "titolo": "Avanti un altro!",
       "inizio": "01:50",
       "fine": "02:40",
+      "info": "Puntata del 11/11/2011",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
       "inOnda": false
@@ -7307,6 +7392,7 @@
       "titolo": "Zig Zag",
       "inizio": "02:40",
       "fine": "03:25",
+      "info": "Puntata del 31/12/84",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -7315,6 +7401,7 @@
       "titolo": "Zig Zag",
       "inizio": "03:25",
       "fine": "04:10",
+      "info": "Puntata del 01/01/85",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -7431,6 +7518,7 @@
       "titolo": "The Wall",
       "inizio": "08:30",
       "fine": "09:25",
+      "info": "Puntata del 07/08/2026",
       "descrizione": "Torna il mega tabellone luminoso da cui scendono le sfere che possono cambiare la vita dei concorrenti. Conduce Max Giusti.",
       "immagine": "immagini/programmi-guida/thewall.jpg",
       "inOnda": false
@@ -7519,6 +7607,7 @@
       "titolo": "Tira & Molla",
       "inizio": "15:35",
       "fine": "16:35",
+      "info": "Puntata del 05/11/96",
       "descrizione": "Con Paolo Bonolis, Tira e Molla e' un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
       "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
       "inOnda": false
@@ -7545,6 +7634,7 @@
       "titolo": "Scherzi a parte",
       "inizio": "21:35",
       "fine": "00:00",
+      "info": "Puntata del 12/03/2009",
       "descrizione": "Condotto da Claudio Amendola, Teo Mammucari e Belen Rodríguez. Lo storico show di Canale 5 che prende di mira i personaggi famosi con scherzi irresistibili.",
       "immagine": "immagini/programmi-guida/scherziaparte2009.jpg",
       "inOnda": false
@@ -7564,22 +7654,25 @@
       "titolo": "Avanti un altro!",
       "inizio": "00:50",
       "fine": "01:40",
+      "info": "Puntata del 10/09/2012",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
-      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "immagine": "immagini/programmi-guida/avantiunaltro20122013.jpg",
       "inOnda": false
     },
     {
       "titolo": "Avanti un altro!",
       "inizio": "01:40",
       "fine": "02:30",
+      "info": "Puntata del 11/09/2012",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
-      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "immagine": "immagini/programmi-guida/avantiunaltro20122013.jpg",
       "inOnda": false
     },
     {
       "titolo": "Zig Zag",
       "inizio": "02:30",
       "fine": "03:15",
+      "info": "Puntata del 02/01/85",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -7588,6 +7681,7 @@
       "titolo": "Zig Zag",
       "inizio": "03:15",
       "fine": "04:00",
+      "info": "Puntata del 03/01/85",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -7701,11 +7795,12 @@
       "inOnda": false
     },
     {
-      "titolo": "The Wall",
+      "titolo": "Sarabanda - Il torneo dei campioni",
       "inizio": "08:30",
       "fine": "09:25",
-      "descrizione": "Torna il mega tabellone luminoso da cui scendono le sfere che possono cambiare la vita dei concorrenti. Conduce Max Giusti.",
-      "immagine": "immagini/programmi-guida/thewall.jpg",
+      "info": "Puntata del 08/08/2026",
+      "descrizione": "Enrico Papi conduce il quiz musicale in cui si sfidano in ogni puntata 8 concorrenti: 4 campioni storici e 4 nuovi aspiranti campioni.",
+      "immagine": "immagini/programmi-guida/sarabandatorneocampioni.jpg",
       "inOnda": false
     },
     {
@@ -7792,6 +7887,7 @@
       "titolo": "Tira & Molla",
       "inizio": "15:35",
       "fine": "16:35",
+      "info": "Puntata del 06/11/96",
       "descrizione": "Con Paolo Bonolis, Tira e Molla e' un celebre gioco degli anni '90 con domande, giochi e prove irresistibili.",
       "immagine": "immagini/programmi-guida/tiraemolla9697.jpg",
       "inOnda": false
@@ -7818,6 +7914,7 @@
       "titolo": "Macchemù",
       "inizio": "21:25",
       "fine": "23:20",
+      "info": "Puntata del 03/10/2000",
       "descrizione": "Paola Barale conduce uno show musicale dedicato alle grandi hit italiane e internazionali, tra videoclip, ospiti, spettacolo e momenti di comicità. Un viaggio nella musica degli anni '60, '70, '80 e '90 con tante sorprese e protagonisti del mondo dello spettacolo.",
       "immagine": "immagini/programmi-guida/macchemu.jpg",
       "inOnda": false
@@ -7845,22 +7942,25 @@
       "titolo": "Avanti un altro!",
       "inizio": "01:00",
       "fine": "01:50",
+      "info": "Puntata del 12/09/2012",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
-      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "immagine": "immagini/programmi-guida/avantiunaltro20122013.jpg",
       "inOnda": false
     },
     {
       "titolo": "Avanti un altro!",
       "inizio": "01:50",
       "fine": "02:40",
+      "info": "Puntata del 13/09/2012",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
-      "immagine": "immagini/programmi-guida/avantiunaltro2011.jpg",
+      "immagine": "immagini/programmi-guida/avantiunaltro20122013.jpg",
       "inOnda": false
     },
     {
       "titolo": "Zig Zag",
       "inizio": "02:40",
       "fine": "03:25",
+      "info": "Puntata del 04/01/85",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
@@ -7869,6 +7969,7 @@
       "titolo": "Zig Zag",
       "inizio": "03:25",
       "fine": "04:10",
+      "info": "Puntata del 05/01/85",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
       "inOnda": false
