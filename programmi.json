@@ -5108,7 +5108,7 @@
 
   "2026-08-11":[
     {
-      "titolo": "Sarabanda",
+      "titolo": "Sarbanda",
       "inizio": "00:05",
       "fine": "00:55",
       "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
@@ -9993,22 +9993,22 @@
       "inOnda": false
     },
     {
-      "titolo": "Sarabanda",
+      "titolo": "Sarabanda Junior",
       "inizio": "23:55",
       "fine": "00:45",
-      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
-      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "descrizione": "Il quiz musicale dedicato ai bambini, con tante canzoni da riconoscere, sfide a colpi di note e divertenti prove di memoria. Una gara all’insegna della musica e del divertimento, condotta da Enrico Papi.",
+      "immagine": "immagini/programmi-guida/sarabandajunior2002.jpeg",
       "inOnda": false
     }
   ],
 
   "2026-08-31":[
     {
-      "titolo": "Sarabanda",
+      "titolo": "Sarabanda Junior",
       "inizio": "00:45",
       "fine": "01:35",
-      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
-      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "descrizione": "Il quiz musicale dedicato ai bambini, con tante canzoni da riconoscere, sfide a colpi di note e divertenti prove di memoria. Una gara all’insegna della musica e del divertimento, condotta da Enrico Papi.",
+      "immagine": "immagini/programmi-guida/sarabandajunior2002.jpeg",
       "inOnda": false
     },
     {
@@ -10245,22 +10245,22 @@
       "inOnda": false
     },
     {
-      "titolo": "Sarabanda",
+      "titolo": "Sarabanda Junior",
       "inizio": "23:20",
       "fine": "00:10",
-      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
-      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "descrizione": "Il quiz musicale dedicato ai bambini, con tante canzoni da riconoscere, sfide a colpi di note e divertenti prove di memoria. Una gara all’insegna della musica e del divertimento, condotta da Enrico Papi.",
+      "immagine": "immagini/programmi-guida/sarabandajunior2002.jpeg",
       "inOnda": false
     }
   ],
 
   "2026-09-01":[
     {
-      "titolo": "Sarabanda",
+      "titolo": "Sarabanda Junior",
       "inizio": "00:10",
       "fine": "01:00",
-      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
-      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "descrizione": "Il quiz musicale dedicato ai bambini, con tante canzoni da riconoscere, sfide a colpi di note e divertenti prove di memoria. Una gara all’insegna della musica e del divertimento, condotta da Enrico Papi.",
+      "immagine": "immagini/programmi-guida/sarabandajunior2002.jpeg",
       "inOnda": false
     },
     {
@@ -10509,11 +10509,11 @@
 
   "2026-09-02":[
     {
-      "titolo": "Sarabanda",
+      "titolo": "Sarabanda Junior",
       "inizio": "00:00",
       "fine": "00:50",
-      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
-      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "descrizione": "Il quiz musicale dedicato ai bambini, con tante canzoni da riconoscere, sfide a colpi di note e divertenti prove di memoria. Una gara all’insegna della musica e del divertimento, condotta da Enrico Papi.",
+      "immagine": "immagini/programmi-guida/sarabandajunior2002.jpeg",
       "inOnda": false
     },
     {
@@ -10762,11 +10762,11 @@
 
   "2026-09-03":[
     {
-      "titolo": "Sarabanda",
+      "titolo": "Sarabanda Junior",
       "inizio": "00:10",
       "fine": "01:00",
-      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
-      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "descrizione": "Il quiz musicale dedicato ai bambini, con tante canzoni da riconoscere, sfide a colpi di note e divertenti prove di memoria. Una gara all’insegna della musica e del divertimento, condotta da Enrico Papi.",
+      "immagine": "immagini/programmi-guida/sarabandajunior2002.jpeg",
       "inOnda": false
     },
     {
@@ -11285,9 +11285,17 @@
 
   "2026-09-05":[
     {
-      "titolo": "Avanti un altro!",
+      "titolo": "Sarabanda",
       "inizio": "00:45",
       "fine": "01:35",
+      "descrizione": "Il celebre quiz musicale condotto da Enrico Papi mette alla prova concorrenti e campioni tra indovinelli, riconoscimenti di brani e giochi musicali. Un appuntamento ricco di ritmo, divertimento e grandi sfide all'ultima nota.",
+      "immagine": "immagini/programmi-guida/sarabanda20022003.jpg",
+      "inOnda": false
+    },
+    {
+      "titolo": "Avanti un altro!",
+      "inizio": "01:35",
+      "fine": "02:25",
       "info": "Puntata del 16/09/2013",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro201314.jpg",
@@ -11295,8 +11303,8 @@
     },
     {
       "titolo": "Avanti un altro!",
-      "inizio": "01:35",
-      "fine": "02:25",
+      "inizio": "02:25",
+      "fine": "03:15",
       "info": "Puntata del 25/09/2013",
       "descrizione": "A condurre il programma a fianco di Paolo Bonolis è il collega e amico Luca Laurenti, insieme a tutti i personaggi del minimondo. Protagonisti del gioco sono i concorrenti che, in fila indiana, vengono chiamati a rispondere a domande di cultura generale: in caso di risposta sbagliata lasciano il posto al successivo sfidante.",
       "immagine": "immagini/programmi-guida/avantiunaltro201314.jpg",
@@ -11304,8 +11312,8 @@
     },
     {
       "titolo": "Zig Zag",
-      "inizio": "02:25",
-      "fine": "03:10",
+      "inizio": "03:15",
+      "fine": "04:00",
       "info": "Puntata del 11/02/85",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
@@ -11313,8 +11321,8 @@
     },
     {
       "titolo": "Zig Zag",
-      "inizio": "03:10",
-      "fine": "03:55",
+      "inizio": "04:00",
+      "fine": "04:45",
       "info": "Puntata del 12/02/85",
       "descrizione": "Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale.",
       "immagine": "immagini/programmi-guida/zigzag.jpg",
@@ -11322,8 +11330,8 @@
     },
     {
       "titolo": "Fratelli Detective",
-      "inizio": "03:55",
-      "fine": "04:50",
+      "inizio": "04:45",
+      "fine": "05:40",
       "info": "S1 Ep8 Bambini rubati",
       "descrizione": "L'ispettore Forti indaga sulla provenienza sospetta delle auto di lusso sfoggiate da Picone, ma viene preso di mira dall'ispettore capo Lepore che lo scoraggia. Nel frattempo Lorenzo, coinvolto dal fratello in un'indagine su un bambino misteriosamente scomparso, scompare a sua volta. Forti scopre che si tratta di rapimento, ma deve mettercela tutta per ritrovarlo e ricondurlo a casa sano e salvo.",
       "immagine": "immagini/programmi-guida/fratellidetectiveep8.jpg",
@@ -11331,45 +11339,9 @@
     },
     {
       "titolo": "Finché c'è Ditta c'è speranza",
-      "inizio": "04:50",
-      "fine": "05:00",
-      "info": "S4 Ep8",
-      "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
-      "immagine": "immagini/programmi-guida/finchecedittacesperanza4inrealta1.jpg",
-      "inOnda": false
-    },
-    {
-      "titolo": "Finché c'è Ditta c'è speranza",
-      "inizio": "05:00",
-      "fine": "05:15",
-      "info": "S4 Ep9",
-      "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
-      "immagine": "immagini/programmi-guida/finchecedittacesperanza4inrealta1.jpg",
-      "inOnda": false
-    },
-    {
-      "titolo": "Finché c'è Ditta c'è speranza",
-      "inizio": "05:15",
-      "fine": "05:30",
-      "info": "S4 Ep10",
-      "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
-      "immagine": "immagini/programmi-guida/finchecedittacesperanza4inrealta1.jpg",
-      "inOnda": false
-    },
-    {
-      "titolo": "Finché c'è Ditta c'è speranza",
-      "inizio": "05:30",
-      "fine": "05:40",
-      "info": "S4 Ep11",
-      "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
-      "immagine": "immagini/programmi-guida/finchecedittacesperanza4inrealta1.jpg",
-      "inOnda": false
-    },
-    {
-      "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "05:40",
       "fine": "05:50",
-      "info": "S4 Ep12",
+      "info": "S4 Ep8",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza4inrealta1.jpg",
       "inOnda": false
@@ -11378,7 +11350,7 @@
       "titolo": "Finché c'è Ditta c'è speranza",
       "inizio": "05:50",
       "fine": "06:00",
-      "info": "S4 Ep13",
+      "info": "S4 Ep9",
       "descrizione": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta.",
       "immagine": "immagini/programmi-guida/finchecedittacesperanza4inrealta1.jpg",
       "inOnda": false
