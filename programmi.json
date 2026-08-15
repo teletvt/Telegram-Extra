@@ -6311,24 +6311,25 @@
       "titolo": "Ciro, il figlio di Target",
       "inizio": "19:15",
       "fine": "20:15",
-      "info": "Terza puntata",
+      "info": "Quarta puntata",
       "descrizione": "Gaia De Laurentis, insieme a Luca e Paolo apre, negli Anni '90, 'una finestra sull'Italia che cambia'...",
       "immagine": "immagini/programmi-guida/ciroilfiglioditarget.jpeg",
       "inOnda": false
     },
     {
-      "titolo": "Mai dire Pupa",
+      "titolo": "Mai dire Banzai",
       "inizio": "20:15",
       "fine": "20:55",
-      "info": "Settima puntata",
+      "info": "Puntata del 01/07/89",
       "descrizione": "Con la Gialappa's Band.",
-      "immagine": "immagini/programmi-guida/gialappa.jpg",
+      "immagine": "immagini/programmi-guida/mairirebanzai.jpg",
       "inOnda": false
     },
     {
       "titolo": "Mai dire Banzai",
       "inizio": "20:55",
       "fine": "21:20",
+      "info": "Puntata del 15/07/89",
       "descrizione": "Con la Gialappa's Band.",
       "immagine": "immagini/programmi-guida/mairirebanzai.jpg",
       "inOnda": false
@@ -8108,7 +8109,7 @@
       "titolo": "Ciro, il figlio di Target",
       "inizio": "19:05",
       "fine": "20:20",
-      "info": "Quarta puntata",
+      "info": "Quinta puntata",
       "descrizione": "Gaia De Laurentis, insieme a Luca e Paolo apre, negli Anni '90, 'una finestra sull'Italia che cambia'...",
       "immagine": "immagini/programmi-guida/ciroilfiglioditarget.jpeg",
       "inOnda": false
@@ -8117,7 +8118,7 @@
       "titolo": "Mai dire Banzai",
       "inizio": "20:20",
       "fine": "20:50",
-      "info": "Prima puntata",
+      "info": "Puntata del 22/07/89",
       "descrizione": "Con la Gialappa's Band.",
       "immagine": "immagini/programmi-guida/mairirebanzai.jpg",
       "inOnda": false
@@ -8126,7 +8127,7 @@
       "titolo": "Mai dire Banzai",
       "inizio": "20:50",
       "fine": "21:20",
-      "info": "Terza puntata",
+      "info": "Puntata del 29/07/89",
       "descrizione": "Con la Gialappa's Band.",
       "immagine": "immagini/programmi-guida/mairirebanzai.jpg",
       "inOnda": false
@@ -9762,7 +9763,7 @@
       "titolo": "Ciro, il figlio di Target",
       "inizio": "19:05",
       "fine": "20:20",
-      "info": "Quinta puntata",
+      "info": "Sesta puntata",
       "descrizione": "Gaia De Laurentis, insieme a Luca e Paolo apre, negli Anni '90, 'una finestra sull'Italia che cambia'...",
       "immagine": "immagini/programmi-guida/ciroilfiglioditarget.jpeg",
       "inOnda": false
@@ -9771,7 +9772,7 @@
       "titolo": "Mai dire Banzai",
       "inizio": "20:20",
       "fine": "20:50",
-      "info": "Quarta puntata",
+      "info": "Puntata del 05/08/89",
       "descrizione": "Con la Gialappa's Band.",
       "immagine": "immagini/programmi-guida/mairirebanzai.jpg",
       "inOnda": false
@@ -9780,7 +9781,7 @@
       "titolo": "Mai dire Banzai",
       "inizio": "20:50",
       "fine": "21:20",
-      "info": "Quinta puntata",
+      "info": "Puntata del 12/08/89",
       "descrizione": "Con la Gialappa's Band.",
       "immagine": "immagini/programmi-guida/mairirebanzai.jpg",
       "inOnda": false
